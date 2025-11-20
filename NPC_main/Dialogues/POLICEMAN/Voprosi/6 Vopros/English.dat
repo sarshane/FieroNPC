@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=White> Вас казнили на РП казне, что вы должны предпринять ? </color>
+Response_0 <i> <color=green> Нажать кнопку возродиться и продолжить играть дальше </color> </i>
+Response_1 <i> <color=green> Сменить одежду </color> </i>
+Response_2 <i> <color=green> Уйти с проекта </color> </i>
+Response_3 <i> <color=green> Выйти с сервера, сменить ник и зайти под видом нового игрока  </color> </i>
+Response_4 <i> <color=green> Выйти </color> </i>

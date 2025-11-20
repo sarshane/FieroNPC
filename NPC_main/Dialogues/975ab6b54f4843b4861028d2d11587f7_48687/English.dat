@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Если вы хотите стать таксистом, вам нужна лицензия на вождение такси и сам транспорт.
+Message_0_Page_1 Покажите свой паспорт и я вам расскажу, что делать дальше.
+Response_0 *показать паспорт*
+Response_1 У меня нет с собой паспорта

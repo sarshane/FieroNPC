@@ -1,0 +1,10 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 У нас есть:<br><color=#4B64FA>Первый</color>: метал, уголь.<br><color=#964BFA>Второй</color>: обогащённый метал, уголь.<br><color=#C832FA>Третьи</color>: олово, медь.
+Message_0_Page_1 <color=#FA3219>Четвертый</color>: золото, бриллианты.<br>Ещё сплавы для дистиллятора, и доменная печь. 
+Response_0 Расскажи мне про первый уровень. 
+Response_1 Расскажи мне про второй уровень. 
+Response_2 Расскажи мне про третьи уровень. 
+Response_3 Расскажи мне про четвертый уровень. 
+Response_4 Где находится доменная печь? 
+Response_5 Что такое вообще дистиллятор?
+Response_6 А документы вообще надо? 

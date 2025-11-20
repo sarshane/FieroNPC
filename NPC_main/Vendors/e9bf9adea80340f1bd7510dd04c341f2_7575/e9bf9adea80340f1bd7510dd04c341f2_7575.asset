@@ -1,0 +1,76 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "e9bf9adea80340f1bd7510dd04c341f2"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "7"
+	"Selling_0_Type" "ITEM"
+	"Selling_0_ID" "42130"
+	"Selling_0_Cost" "150"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_1_Type" "ITEM"
+	"Selling_1_ID" "42132"
+	"Selling_1_Cost" "200"
+	"Selling_1_Conditions"
+	[
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_2_Type" "ITEM"
+	"Selling_2_ID" "42133"
+	"Selling_2_Cost" "210"
+	"Selling_2_Conditions"
+	[
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"Selling_3_Type" "ITEM"
+	"Selling_3_ID" "42134"
+	"Selling_3_Cost" "250"
+	"Selling_3_Conditions"
+	[
+	]
+	"Selling_3_Rewards"
+	[
+	]
+	"Selling_4_Type" "ITEM"
+	"Selling_4_ID" "41115"
+	"Selling_4_Cost" "250"
+	"Selling_4_Conditions"
+	[
+	]
+	"Selling_4_Rewards"
+	[
+	]
+	"Selling_5_Type" "ITEM"
+	"Selling_5_ID" "42135"
+	"Selling_5_Cost" "300"
+	"Selling_5_Conditions"
+	[
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"Selling_6_Type" "ITEM"
+	"Selling_6_ID" "41254"
+	"Selling_6_Cost" "250"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
+	[
+	]
+	"ID" "7575"
+	"Asset_Bundle_Version" "1"
+}

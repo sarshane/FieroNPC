@@ -1,0 +1,61 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "ca253d6596924612b7b306a406802252"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "6"
+	"Buying_0_ID" "7303"
+	"Buying_0_Cost" "3500"
+	"Buying_0_Conditions"
+	[
+	]
+	"Buying_0_Rewards"
+	[
+	]
+	"Buying_1_ID" "7302"
+	"Buying_1_Cost" "3500"
+	"Buying_1_Conditions"
+	[
+	]
+	"Buying_1_Rewards"
+	[
+	]
+	"Buying_2_ID" "7094"
+	"Buying_2_Cost" "4500"
+	"Buying_2_Conditions"
+	[
+	]
+	"Buying_2_Rewards"
+	[
+	]
+	"Buying_3_ID" "7296"
+	"Buying_3_Cost" "4500"
+	"Buying_3_Conditions"
+	[
+	]
+	"Buying_3_Rewards"
+	[
+	]
+	"Buying_4_ID" "7095"
+	"Buying_4_Cost" "5000"
+	"Buying_4_Conditions"
+	[
+	]
+	"Buying_4_Rewards"
+	[
+	]
+	"Buying_5_ID" "7300"
+	"Buying_5_Cost" "6000"
+	"Buying_5_Conditions"
+	[
+	]
+	"Buying_5_Rewards"
+	[
+	]
+	"Selling" "0"
+	"ID" "5134"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,22 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "8a89412383b14a0ebafe0625e7f43f8e"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "1"
+	"Selling_0_Type" "ITEM"
+	"Selling_0_ID" "16"
+	"Selling_0_Cost" "750"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"ID" "39140"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,9 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Так, а вот и твой паспорт, забирай.
+Message_0_Page_1 Но ты должен заплатить 20000$, чтобы его получить.
+Message_0_Page_2 Не потеряй его, восстановить очень сложно!
+Message_1_Page_0 Так, а вот и твой паспорт, забирай.
+Message_1_Page_1 Но тебе нужно 50000 долларов, а у тебя их нет...
+Message_1_Page_2 Приходи как будут.
+Response_0 *взять паспорт*
+Response_1 ладно...

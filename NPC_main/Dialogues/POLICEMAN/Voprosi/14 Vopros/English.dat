@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=White> Если вас начали грабить и на вас направили пушку, говоря вам поднять руки вверх и снять портфель </color>
+Response_0 <i> <color=green> Убегу </color> </i>
+Response_1 <i> <color=green> Сделаю всё, что попросят </color> </i>
+Response_2 <i> <color=green> Достану оружие и начну стрелять по грабителям </color> </i>
+Response_3 <i> <color=green> Попрошу друга о помощи </color> </i>
+Response_4 <i> <color=green> Выйти </color> </i>

@@ -1,0 +1,133 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "e11b17b18b584c1ea7725c9fb08ef206"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "15"
+	"Buying_0_ID" "49074"
+	"Buying_0_Cost" "500"
+	"Buying_0_Conditions"
+	[
+	]
+	"Buying_0_Rewards"
+	[
+	]
+	"Buying_1_ID" "49075"
+	"Buying_1_Cost" "500"
+	"Buying_1_Conditions"
+	[
+	]
+	"Buying_1_Rewards"
+	[
+	]
+	"Buying_2_ID" "49077"
+	"Buying_2_Cost" "500"
+	"Buying_2_Conditions"
+	[
+	]
+	"Buying_2_Rewards"
+	[
+	]
+	"Buying_3_ID" "49076"
+	"Buying_3_Cost" "200"
+	"Buying_3_Conditions"
+	[
+	]
+	"Buying_3_Rewards"
+	[
+	]
+	"Buying_4_ID" "49091"
+	"Buying_4_Cost" "500"
+	"Buying_4_Conditions"
+	[
+	]
+	"Buying_4_Rewards"
+	[
+	]
+	"Buying_5_ID" "49092"
+	"Buying_5_Cost" "500"
+	"Buying_5_Conditions"
+	[
+	]
+	"Buying_5_Rewards"
+	[
+	]
+	"Buying_6_ID" "49093"
+	"Buying_6_Cost" "500"
+	"Buying_6_Conditions"
+	[
+	]
+	"Buying_6_Rewards"
+	[
+	]
+	"Buying_7_ID" "49094"
+	"Buying_7_Cost" "500"
+	"Buying_7_Conditions"
+	[
+	]
+	"Buying_7_Rewards"
+	[
+	]
+	"Buying_8_ID" "49095"
+	"Buying_8_Cost" "500"
+	"Buying_8_Conditions"
+	[
+	]
+	"Buying_8_Rewards"
+	[
+	]
+	"Buying_9_ID" "49096"
+	"Buying_9_Cost" "500"
+	"Buying_9_Conditions"
+	[
+	]
+	"Buying_9_Rewards"
+	[
+	]
+	"Buying_10_ID" "49097"
+	"Buying_10_Cost" "500"
+	"Buying_10_Conditions"
+	[
+	]
+	"Buying_10_Rewards"
+	[
+	]
+	"Buying_11_ID" "49098"
+	"Buying_11_Cost" "500"
+	"Buying_11_Conditions"
+	[
+	]
+	"Buying_11_Rewards"
+	[
+	]
+	"Buying_12_ID" "49099"
+	"Buying_12_Cost" "500"
+	"Buying_12_Conditions"
+	[
+	]
+	"Buying_12_Rewards"
+	[
+	]
+	"Buying_13_ID" "49100"
+	"Buying_13_Cost" "500"
+	"Buying_13_Conditions"
+	[
+	]
+	"Buying_13_Rewards"
+	[
+	]
+	"Buying_14_ID" "49133"
+	"Buying_14_Cost" "400"
+	"Buying_14_Conditions"
+	[
+	]
+	"Buying_14_Rewards"
+	[
+	]
+	"Selling" "0"
+	"ID" "11647"
+	"Asset_Bundle_Version" "1"
+}

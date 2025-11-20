@@ -1,0 +1,111 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "39d1c9d6cf284779922fa933623b450b"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "2"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "7"
+	"Response_0_Dialogue" "8300f5e95cd64af19262605166b80c18"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "76977a37062b4fd6acc94e5f0548da89"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "be214568eef04aa2863d1e15c9cfc138"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "2e8a7df3bae94572a30bdbfda065a641"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "49c7389d248e407fa00d46aa24ea0890"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "0"
+	"Response_4_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "5ad254dba1ff6404ccd1d5a618cc2c0e"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "26550"
+			"Status" "NONE"
+			"Ignore_NPC" "true"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "1d0bfbe53f08e8ed76c75cccef2cd104"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28890"
+			"Allow_Unset" "true"
+			"Value" "15"
+		}
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "a288fbc1c0fa46d9a6019f22ca2e8377"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "0"
+	"Response_5_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "33330ae378e85de6ca0a06af4aeb836f"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "26551"
+			"Status" "NONE"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"Response_6_Dialogue" "9d7492edeac44d069d3c4b794a7a65ad"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "0"
+	"Response_6_Conditions"
+	[
+	]
+	"Response_6_Rewards"
+	[
+	]
+	"ID" "18050"
+	"Asset_Bundle_Version" "1"
+}

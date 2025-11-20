@@ -1,0 +1,114 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "f3999e409ea043acab61be583bf33384"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "1"
+	"Message_0_Responses" "1"
+	"Message_0_Response_0" "0"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "4f96a3e4d31f4e72347b7e62b9c1d9f0"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "200"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "2"
+	"Message_1_Responses" "1"
+	"Message_1_Response_0" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "486c73e0015930761577dbbd26d42948"
+			"Reset" "false"
+			"Logic" "LESS_THAN"
+			"Value" "200"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "2"
+	"Response_0_Dialogue" "a014a074ce514e28af99f0d422620920"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "e73e2f9e5947cc0ca57f4bb612c07532"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "200"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "66b2c937f0c24f89b4edd7f8bc3cfacf"
+			"ID" "42143"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "a3442ba9ed9980cde84b83b92f969e9f"
+			"ID" "42197"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "93f1eb5db5e90adfaeaba2da2d09fa8e"
+			"ID" "42162"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_1_Dialogue" "0"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"ID" "38572"
+	"Asset_Bundle_Version" "1"
+}

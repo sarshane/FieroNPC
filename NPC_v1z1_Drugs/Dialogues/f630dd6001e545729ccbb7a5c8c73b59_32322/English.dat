@@ -1,0 +1,11 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Если понадобятся сильные щёлочи или редкие растворы — я тут, но только после отбоя.</color>
+Message_1_Page_0 <color=#FFFFFF>Вот они, спасители статистики! Сейчас проверим… Отлично, реакции идут. Держи награду и заглядывай, у меня появилось кое-что покрепче аптечной перекиси.</color>
+Message_2_Page_0 <color=#FFFFFF>Без трёх колб реактивов тесты не запустятся. Поищи в медлаборатории или на складе реагентов.</color>
+Message_3_Page_0 <color=#FFFFFF>Тише, пациентам спать пора. Мне нужно срочно закончить анализ новой партии таблеток, а реагенты на нуле. Достанешь три колбы с химикатами? Только ночью, чтобы охрана не заметила.</color>
+Message_4_Page_0 <color=#FFFFFF>Чего тебе?</color>
+Response_0 <color=#1F871F>Добуду колбы, без проблем.</color>
+Response_1 <color=#DCB413>Всегда рад помочь, Крис</color>
+Response_2 <color=#FFFFFF>Что у тебя есть?.</color>
+Response_3 <color=#7F7F7F>Не, мне хватка сна важнее</color>
+Response_4 <color=#7F7F7F>Уйти</color>

@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Name <color=#4B64FA>Завести погрузчик</color>
+Description <color=#FFFFFF>У</color> <color=#964BFA>Гази </color><color=#FFFFFF>стоит погрузчик без питания. Принесите ему аккумулятор и гаечный ключ, чтобы запустить технику. Гаечный ключ можно купить в хардвеере а аккумулятор можно приобрести на заправке.</color>
+221ecf23a3999ceee38649197789c504 <color=#4B64FA>Аккумулятор</color><color=#FFFFFF>{0}/1</color>
+62ea2b3920be1ccd7abb78469b47d933 <color=#4B64FA>Гаечный ключ</color><color=#FFFFFF>{0}/1</color>

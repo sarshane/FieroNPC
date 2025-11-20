@@ -1,0 +1,120 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "7371e6052ff64c878aad394e45231079"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "1"
+	"Message_0_Responses" "3"
+	"Message_0_Response_0" "0"
+	"Message_0_Response_1" "1"
+	"Message_0_Response_2" "2"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "15a0947c7c76c893c35c9a4a434b1ba2"
+			"Reset" "false"
+			"Logic" "NOT_EQUAL"
+			"ID" "11748"
+			"Allow_Unset" "true"
+			"Value" "21"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Responses" "2"
+	"Message_1_Response_0" "0"
+	"Message_1_Response_1" "2"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "08660f2a626348d91d23df2e7e8b49c0"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "11748"
+			"Allow_Unset" "false"
+			"Value" "21"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "0"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "60c878b1e57219aded7b213d35e88f54"
+			"ID" "49204"
+			"Value" "21"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Response_1_Dialogue" "85aaf3f57b954e909d3cad29b274e6d9"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "fbceac11452901822a8bfd6e2f52f8c7"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "11721"
+			"Allow_Unset" "false"
+			"Value" "21"
+		}
+	]
+	"Response_1_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "024cddc2e363e3d3c38a527d54421246"
+			"ID" "49204"
+			"Value" "21"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Response_2_Dialogue" "0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "942e3e769a5fc4501b67e5761c385a25"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "11748"
+			"Allow_Unset" "false"
+			"Value" "21"
+		}
+	]
+	"Response_2_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "2e7aa377b7d221eae24dbb0cde8f9b49"
+			"ID" "49204"
+			"Value" "21"
+			"Modification" "ASSIGN"
+		}
+	]
+	"ID" "11794"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,8 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Стойте.
+Message_0_Page_1 Помогите мне, пожалуйста найти кошелёк тут, я вижу плохо.
+Message_1_Page_0 *ищет кошелёк*
+Response_0 Хорошо, сейчас поищу.
+Response_1 Я нашёл *отдать деньги*
+Response_2 Я не нашёл *забрать деньги себе*
+Response_3 *уйти*

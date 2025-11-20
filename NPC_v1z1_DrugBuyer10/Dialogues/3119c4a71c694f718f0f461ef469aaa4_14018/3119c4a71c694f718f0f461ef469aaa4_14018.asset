@@ -1,0 +1,211 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "3119c4a71c694f718f0f461ef469aaa4"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "3"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "2e0371a433195463a77a8f1afae86d27"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "3"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "b24fbf16a8be7cbf23d56fccb5fdee90"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "6"
+	"Response_0_Dialogue" "0"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "abce8cdfb6fd7d5da0473c5500bbe5f2"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "0"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "dfad52c24989ffee2729e051d5517be4"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "14002"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "61aebf1c4a420fa51f2df6c6ef63ec67"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "52108"
+			"Amount" "3"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "cea6c63d45d2b1ece51cc9a3fd5ed768"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "1b74d4e30734a75ea4fc70b9ea4ecca4"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "14008"
+			"Allow_Unset" "true"
+			"Value" "false"
+		}
+	]
+	"Response_2_Rewards"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "6e85129cdcce29fcd952ad02fd6b8209"
+			"ID" "14008"
+			"Value" "true"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "35283403bcc7f1a23ab0e0eea9b4890c"
+			"Value" "1200"
+		}
+	]
+	"Response_3_Dialogue" "14002"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "ffc12203e9a7975bf960a27cd2f99441"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "52108"
+			"Amount" "3"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "ccce903d20658b18b2d45aa2c63eca26"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "f20dcf0bd25b5514ccf26a6547fcaee4"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "14008"
+			"Allow_Unset" "true"
+			"Value" "false"
+		}
+	]
+	"Response_3_Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "0958289ea4223fd04f0102a6c40e37d7"
+			"Value" "1500"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "41a8bf9f8bab21f69d824faf64729fef"
+			"ID" "14008"
+			"Value" "true"
+		}
+	]
+	"Response_4_Dialogue" "14003"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "0"
+	"Response_4_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "c7f4ad2a029974ab78084b35f94bb590"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "0"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "0"
+	"Response_5_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "21b65c4ad690e25d63db1b22fbd90be6"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"ID" "14018"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,149 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "362f3720f6914e8bb62b425437987ff3"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "15"
+	"Selling_0_Type" "ITEM"
+	"Selling_0_ID" "37456"
+	"Selling_0_Cost" "1500"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_1_Type" "ITEM"
+	"Selling_1_ID" "37550"
+	"Selling_1_Cost" "1250"
+	"Selling_1_Conditions"
+	[
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_2_Type" "ITEM"
+	"Selling_2_ID" "37551"
+	"Selling_2_Cost" "1250"
+	"Selling_2_Conditions"
+	[
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"Selling_3_Type" "ITEM"
+	"Selling_3_ID" "37552"
+	"Selling_3_Cost" "1250"
+	"Selling_3_Conditions"
+	[
+	]
+	"Selling_3_Rewards"
+	[
+	]
+	"Selling_4_Type" "ITEM"
+	"Selling_4_ID" "37474"
+	"Selling_4_Cost" "6000"
+	"Selling_4_Conditions"
+	[
+	]
+	"Selling_4_Rewards"
+	[
+	]
+	"Selling_5_Type" "ITEM"
+	"Selling_5_ID" "37477"
+	"Selling_5_Cost" "7000"
+	"Selling_5_Conditions"
+	[
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"Selling_6_Type" "ITEM"
+	"Selling_6_ID" "37478"
+	"Selling_6_Cost" "3500"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
+	[
+	]
+	"Selling_7_Type" "ITEM"
+	"Selling_7_ID" "59302"
+	"Selling_7_Cost" "14000"
+	"Selling_7_Conditions"
+	[
+	]
+	"Selling_7_Rewards"
+	[
+	]
+	"Selling_8_Type" "ITEM"
+	"Selling_8_ID" "59303"
+	"Selling_8_Cost" "14000"
+	"Selling_8_Conditions"
+	[
+	]
+	"Selling_8_Rewards"
+	[
+	]
+	"Selling_9_Type" "ITEM"
+	"Selling_9_ID" "59304"
+	"Selling_9_Cost" "14000"
+	"Selling_9_Conditions"
+	[
+	]
+	"Selling_9_Rewards"
+	[
+	]
+	"Selling_10_Type" "ITEM"
+	"Selling_10_ID" "59305"
+	"Selling_10_Cost" "14000"
+	"Selling_10_Conditions"
+	[
+	]
+	"Selling_10_Rewards"
+	[
+	]
+	"Selling_11_Type" "ITEM"
+	"Selling_11_ID" "59306"
+	"Selling_11_Cost" "14000"
+	"Selling_11_Conditions"
+	[
+	]
+	"Selling_11_Rewards"
+	[
+	]
+	"Selling_12_Type" "ITEM"
+	"Selling_12_ID" "59307"
+	"Selling_12_Cost" "14000"
+	"Selling_12_Conditions"
+	[
+	]
+	"Selling_12_Rewards"
+	[
+	]
+	"Selling_13_Type" "ITEM"
+	"Selling_13_ID" "59308"
+	"Selling_13_Cost" "14000"
+	"Selling_13_Conditions"
+	[
+	]
+	"Selling_13_Rewards"
+	[
+	]
+	"Selling_14_Type" "ITEM"
+	"Selling_14_ID" "59309"
+	"Selling_14_Cost" "14000"
+	"Selling_14_Conditions"
+	[
+	]
+	"Selling_14_Rewards"
+	[
+	]
+	"Disable_Sorting" ""
+	"ID" "2005"
+	"Asset_Bundle_Version" "4"
+}

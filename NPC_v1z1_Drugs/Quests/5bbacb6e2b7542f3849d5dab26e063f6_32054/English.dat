@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Name <color=#964BFA>Заправить генератор</color>
+Description <color=#FFFFFF>На аэродроме снова темно: дизель-генератор встал без топлива и деталей. Принесите</color> <color=#964BFA>Гази </color><color=#FFFFFF>полную канистру бензина и 20 кусков металлолома, чтобы он починил и заправил установку. Канистру бензина можно купить на заправке.</color>
+10c11ac6abd6c64f7c2e49f5f64d6567 <color=#4B64FA>Канистра </color><color=#FFFFFF>{0}/1</color>
+c38e3e7770f9623bbb7f0eedf3d8c73c <color=#4B64FA>Металлолом </color><color=#FFFFFF>{0}/20</color>

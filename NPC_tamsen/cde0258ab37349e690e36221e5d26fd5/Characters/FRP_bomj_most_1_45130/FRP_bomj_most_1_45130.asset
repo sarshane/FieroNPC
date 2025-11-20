@@ -1,0 +1,39 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "47d275e2889846daa7e6796456447911"
+	"Type" "SDG.Unturned.ObjectNPCAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Is_Gore" "false"
+	"Conditions"
+	[
+	]
+	"Type" "NPC"
+	"Dialogue" "9e5cdaad335f451580f4d8edf1eac358"
+	"Primary" "8c17f50ce8a54efdbc1518b09097a816"
+	"Secondary" "0"
+	"Tertiary" "0"
+	"Equipped" "Primary"
+	"Shirt" "42475d72368142a698b9e1f77521859b"
+	"Pants" "2d633de62e1e44fd98707f42f78d6850"
+	"Hat" "0"
+	"Backpack" "767e0d25e98e4aeeb758001902705bbc"
+	"Vest" "c8eff67ade474fe19a1490c555dda25d"
+	"Mask" "2e0b2efb021e4acdbfed6f7c102c8ec7"
+	"Glasses" "0"
+	"Has_Christmas_Outfit" "false"
+	"Has_Halloween_Outfit" "false"
+	"Color_Skin" "#94764B"
+	"Color_Hair" "#000000"
+	"Face" "16"
+	"Hair" "6"
+	"Beard" "0"
+	"Pose" "Stand"
+	"Pose_Lean" "0"
+	"Pose_Pitch" "90"
+	"Pose_Head_Offset" "0"
+	"ID" "45130"
+	"Asset_Bundle_Version" "1"
+}

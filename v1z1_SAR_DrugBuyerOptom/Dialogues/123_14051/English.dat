@@ -1,0 +1,14 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>А, это ты… У нас тут снег не успевает падать, как ты уже несёшь тепло.</color>
+Message_1_Page_0 <color=#FFFFFF>Снова ты. Вижу, снега тебе мало — решил и мне насыпать?</color>
+Message_2_Page_0 <color=#FFFFFF>Вот это поворот…</color>
+Message_2_Page_1 <color=#FFFFFF>Ты не из тех, кто просто снег топчет. Ты, как я погляжу, с улиц.</color>
+Message_2_Page_2 <color=#FFFFFF>Пыль у тебя в ботинках не с дороги, а с теплиц.</color>
+Message_2_Page_3 <color=#FFFFFF>Ты по делу пришёл? Говори чётко, без намёков. Я — не коп, но и не дурак.</color>
+Message_3_Page_0 <color=#FFFFFF>Опять чужие шляются по двору...</color>
+Message_3_Page_1 <color=#FFFFFF>Ты откуда, парень? Физкультурник? Или просто заблудился?"</color>
+Message_3_Page_2 <i><color=#FFFFFF>*замечает подозрительную выпуклость в твоём рюкзаке или лёгкий запах*</color></i>
+Message_3_Page_3 <color=#FFFFFF>Погоди... Ты не из тех, кто «ботанику» разводит в подвалах?</color>
+Response_0 <color=#DCB413>*Продать*</color> <color=#FFFFFF>Я не с пустыми руками.</color>
+Response_1 <color=#DCB413>*Продать*</color> <color=#FFFFFF>Товар при себе.</color>
+Response_2 <color=#DCB413>*Уйти*</color> <color=#FFFFFF>На этот раз у меня ничего нет</color>

@@ -1,0 +1,123 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "940d4dd8cbbe4b5ab66764aeb1063323"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "3"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "8dce2c272a444952f8e6a121b3a47530"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28877"
+			"Allow_Unset" "true"
+			"Value" "15"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "e6054a2b8f14fe40387672677557a47b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28877"
+			"Allow_Unset" "false"
+			"Value" "10"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "1"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "98032191036ea18c5256bf9c96cd9340"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28877"
+			"Allow_Unset" "false"
+			"Value" "15"
+		}
+	]
+	"Message_2_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "82586765cb16432e856c07ed85e5074b"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "edf72139e40d0e5e82cbb4c2370cdcff"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28877"
+			"Allow_Unset" "true"
+			"Value" "15"
+		}
+		{
+			"Type" "REPUTATION"
+			"TextId" "3d099e4984bf31d1a62111519b677c38"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "178311"
+		}
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "912409fe01574d4cabf863da9a54e9ae"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "b7f695543ea2b509cc3352217d1c4309"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28877"
+			"Allow_Unset" "false"
+			"Value" "10"
+		}
+		{
+			"Type" "REPUTATION"
+			"TextId" "20749888b584555bdb713cfb072b3d98"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "178311"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "40943203bcbf4cb5a7400f2b7621ddb0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"ID" "14130"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,74 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "425ce3879f444ac58512de8485f07778"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "2"
+	"Response_0_Dialogue" "0"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "282c3d36e2869da29a9caa7a4757b186"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "120"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "c8c1ad424cf36a5473b39a5144f2ce7f"
+			"ID" "515"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "true"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "d90c8383722f681c18177acb7255d4e4"
+			"ID" "94"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_1_Dialogue" "0"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"ID" "23241"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,93 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "6b39d4abf64e4c0ba98e05abbdd540e7"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "8"
+	"Selling_0_Type" "VEHICLE"
+	"Selling_0_ID" "98"
+	"Selling_0_Cost" "3500"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_0_Spawnpoint" "lodca2"
+	"Selling_1_Type" "VEHICLE"
+	"Selling_1_ID" "99"
+	"Selling_1_Cost" "3500"
+	"Selling_1_Conditions"
+	[
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_1_Spawnpoint" "lodca2"
+	"Selling_2_Type" "VEHICLE"
+	"Selling_2_ID" "100"
+	"Selling_2_Cost" "3500"
+	"Selling_2_Conditions"
+	[
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"Selling_2_Spawnpoint" "lodca2"
+	"Selling_3_Type" "VEHICLE"
+	"Selling_3_ID" "101"
+	"Selling_3_Cost" "3500"
+	"Selling_3_Conditions"
+	[
+	]
+	"Selling_3_Rewards"
+	[
+	]
+	"Selling_3_Spawnpoint" "lodca2"
+	"Selling_4_Type" "VEHICLE"
+	"Selling_4_ID" "102"
+	"Selling_4_Cost" "3500"
+	"Selling_4_Conditions"
+	[
+	]
+	"Selling_4_Rewards"
+	[
+	]
+	"Selling_4_Spawnpoint" "lodca2"
+	"Selling_5_Type" "VEHICLE"
+	"Selling_5_ID" "103"
+	"Selling_5_Cost" "3500"
+	"Selling_5_Conditions"
+	[
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"Selling_5_Spawnpoint" "lodca2"
+	"Selling_6_Type" "VEHICLE"
+	"Selling_6_ID" "104"
+	"Selling_6_Cost" "3500"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
+	[
+	]
+	"Selling_6_Spawnpoint" "lodca2"
+	"Selling_7_Type" "VEHICLE"
+	"Selling_7_ID" "105"
+	"Selling_7_Cost" "3500"
+	"Selling_7_Conditions"
+	[
+	]
+	"Selling_7_Rewards"
+	[
+	]
+	"Selling_7_Spawnpoint" "lodca2"
+	"ID" "18183"
+	"Asset_Bundle_Version" "1"
+}

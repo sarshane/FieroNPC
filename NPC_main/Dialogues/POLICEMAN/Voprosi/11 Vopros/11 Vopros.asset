@@ -1,0 +1,73 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "655ce0866c654bd2841d5bef52075d2e"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "5"
+	"Response_0_Dialogue" "2f6ea1112fa64b0fb6cd60e785ad43d8"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "2f6ea1112fa64b0fb6cd60e785ad43d8"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "2f6ea1112fa64b0fb6cd60e785ad43d8"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "d682edd8222585d18885bc6c20687cfb"
+			"ID" "12250"
+			"Value" "1"
+			"Modification" "INCREMENT"
+		}
+	]
+	"Response_3_Dialogue" "2f6ea1112fa64b0fb6cd60e785ad43d8"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "0"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "0"
+	"Response_4_Conditions"
+	[
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"ID" "12213"
+	"Asset_Bundle_Version" "1"
+}

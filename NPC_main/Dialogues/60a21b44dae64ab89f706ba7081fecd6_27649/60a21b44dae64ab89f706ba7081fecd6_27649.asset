@@ -1,0 +1,113 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "60a21b44dae64ab89f706ba7081fecd6"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "1"
+	"Message_0_Responses" "1"
+	"Message_0_Response_0" "0"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "dbefa0b703d8bc7c722472cbb9dcef3a"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "5a3c4302400e400b9b9486fbb5178eca"
+			"Amount" "1"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "4f97d03642a249945646188e50d9e1e8"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "4b68587f5cad45eaab5e07ed0e6fd3b3"
+			"Amount" "1"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "064624f6a36950aae8e47baabe39b157"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "b0d48d63525544aa8ee95d4e686858b1"
+			"Amount" "1"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "2"
+	"Message_1_Responses" "1"
+	"Message_1_Response_0" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "2"
+	"Response_0_Dialogue" "8d92903ff5e24727b88cac710b382640"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "7c3a0542c2f7cbc2dac56982634f77f9"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "b0d48d63525544aa8ee95d4e686858b1"
+			"Amount" "1"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "24899f299863f3f70c82c4a3c152b8fd"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "4b68587f5cad45eaab5e07ed0e6fd3b3"
+			"Amount" "1"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "296fd5f9111cfdb4281ddb80dfe20d4b"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "5a3c4302400e400b9b9486fbb5178eca"
+			"Amount" "1"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "43e431471978ca5be0a5fbf16901a9c6"
+			"ID" "47129"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_1_Dialogue" "0"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"ID" "27649"
+	"Asset_Bundle_Version" "1"
+}

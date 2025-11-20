@@ -1,0 +1,770 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "d39d7d9434844ae4a891f340a1e11cf7"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"FaceOverride" "6"
+	"Buying" "0"
+	"Selling" "84"
+	"Selling_0_Type" "ITEM"
+	"Selling_0_ID" "17668"
+	"Selling_0_Cost" "350"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_1_Type" "ITEM"
+	"Selling_1_ID" "17669"
+	"Selling_1_Cost" "350"
+	"Selling_1_Conditions"
+	[
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_2_Type" "ITEM"
+	"Selling_2_ID" "17670"
+	"Selling_2_Cost" "350"
+	"Selling_2_Conditions"
+	[
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"Selling_3_Type" "ITEM"
+	"Selling_3_ID" "17671"
+	"Selling_3_Cost" "350"
+	"Selling_3_Conditions"
+	[
+	]
+	"Selling_3_Rewards"
+	[
+	]
+	"Selling_4_Type" "ITEM"
+	"Selling_4_ID" "17672"
+	"Selling_4_Cost" "350"
+	"Selling_4_Conditions"
+	[
+	]
+	"Selling_4_Rewards"
+	[
+	]
+	"Selling_5_Type" "ITEM"
+	"Selling_5_ID" "17673"
+	"Selling_5_Cost" "350"
+	"Selling_5_Conditions"
+	[
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"Selling_6_Type" "ITEM"
+	"Selling_6_ID" "17674"
+	"Selling_6_Cost" "350"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
+	[
+	]
+	"Selling_7_Type" "ITEM"
+	"Selling_7_ID" "17637"
+	"Selling_7_Cost" "500"
+	"Selling_7_Conditions"
+	[
+	]
+	"Selling_7_Rewards"
+	[
+	]
+	"Selling_8_Type" "ITEM"
+	"Selling_8_ID" "35214"
+	"Selling_8_Cost" "600"
+	"Selling_8_Conditions"
+	[
+	]
+	"Selling_8_Rewards"
+	[
+	]
+	"Selling_9_Type" "ITEM"
+	"Selling_9_ID" "35215"
+	"Selling_9_Cost" "600"
+	"Selling_9_Conditions"
+	[
+	]
+	"Selling_9_Rewards"
+	[
+	]
+	"Selling_10_Type" "ITEM"
+	"Selling_10_ID" "35216"
+	"Selling_10_Cost" "600"
+	"Selling_10_Conditions"
+	[
+	]
+	"Selling_10_Rewards"
+	[
+	]
+	"Selling_11_Type" "ITEM"
+	"Selling_11_ID" "35217"
+	"Selling_11_Cost" "600"
+	"Selling_11_Conditions"
+	[
+	]
+	"Selling_11_Rewards"
+	[
+	]
+	"Selling_12_Type" "ITEM"
+	"Selling_12_ID" "35218"
+	"Selling_12_Cost" "600"
+	"Selling_12_Conditions"
+	[
+	]
+	"Selling_12_Rewards"
+	[
+	]
+	"Selling_13_Type" "ITEM"
+	"Selling_13_ID" "35219"
+	"Selling_13_Cost" "600"
+	"Selling_13_Conditions"
+	[
+	]
+	"Selling_13_Rewards"
+	[
+	]
+	"Selling_14_Type" "ITEM"
+	"Selling_14_ID" "35220"
+	"Selling_14_Cost" "600"
+	"Selling_14_Conditions"
+	[
+	]
+	"Selling_14_Rewards"
+	[
+	]
+	"Selling_15_Type" "ITEM"
+	"Selling_15_ID" "35221"
+	"Selling_15_Cost" "600"
+	"Selling_15_Conditions"
+	[
+	]
+	"Selling_15_Rewards"
+	[
+	]
+	"Selling_16_Type" "ITEM"
+	"Selling_16_ID" "35222"
+	"Selling_16_Cost" "650"
+	"Selling_16_Conditions"
+	[
+	]
+	"Selling_16_Rewards"
+	[
+	]
+	"Selling_17_Type" "ITEM"
+	"Selling_17_ID" "35223"
+	"Selling_17_Cost" "650"
+	"Selling_17_Conditions"
+	[
+	]
+	"Selling_17_Rewards"
+	[
+	]
+	"Selling_18_Type" "ITEM"
+	"Selling_18_ID" "35224"
+	"Selling_18_Cost" "650"
+	"Selling_18_Conditions"
+	[
+	]
+	"Selling_18_Rewards"
+	[
+	]
+	"Selling_19_Type" "ITEM"
+	"Selling_19_ID" "35225"
+	"Selling_19_Cost" "650"
+	"Selling_19_Conditions"
+	[
+	]
+	"Selling_19_Rewards"
+	[
+	]
+	"Selling_20_Type" "ITEM"
+	"Selling_20_ID" "35226"
+	"Selling_20_Cost" "650"
+	"Selling_20_Conditions"
+	[
+	]
+	"Selling_20_Rewards"
+	[
+	]
+	"Selling_21_Type" "ITEM"
+	"Selling_21_ID" "35227"
+	"Selling_21_Cost" "650"
+	"Selling_21_Conditions"
+	[
+	]
+	"Selling_21_Rewards"
+	[
+	]
+	"Selling_22_Type" "ITEM"
+	"Selling_22_ID" "35228"
+	"Selling_22_Cost" "650"
+	"Selling_22_Conditions"
+	[
+	]
+	"Selling_22_Rewards"
+	[
+	]
+	"Selling_23_Type" "ITEM"
+	"Selling_23_ID" "35229"
+	"Selling_23_Cost" "650"
+	"Selling_23_Conditions"
+	[
+	]
+	"Selling_23_Rewards"
+	[
+	]
+	"Selling_24_Type" "ITEM"
+	"Selling_24_ID" "35230"
+	"Selling_24_Cost" "550"
+	"Selling_24_Conditions"
+	[
+	]
+	"Selling_24_Rewards"
+	[
+	]
+	"Selling_25_Type" "ITEM"
+	"Selling_25_ID" "35231"
+	"Selling_25_Cost" "550"
+	"Selling_25_Conditions"
+	[
+	]
+	"Selling_25_Rewards"
+	[
+	]
+	"Selling_26_Type" "ITEM"
+	"Selling_26_ID" "35232"
+	"Selling_26_Cost" "550"
+	"Selling_26_Conditions"
+	[
+	]
+	"Selling_26_Rewards"
+	[
+	]
+	"Selling_27_Type" "ITEM"
+	"Selling_27_ID" "35233"
+	"Selling_27_Cost" "550"
+	"Selling_27_Conditions"
+	[
+	]
+	"Selling_27_Rewards"
+	[
+	]
+	"Selling_28_Type" "ITEM"
+	"Selling_28_ID" "35234"
+	"Selling_28_Cost" "550"
+	"Selling_28_Conditions"
+	[
+	]
+	"Selling_28_Rewards"
+	[
+	]
+	"Selling_29_Type" "ITEM"
+	"Selling_29_ID" "35235"
+	"Selling_29_Cost" "550"
+	"Selling_29_Conditions"
+	[
+	]
+	"Selling_29_Rewards"
+	[
+	]
+	"Selling_30_Type" "ITEM"
+	"Selling_30_ID" "35236"
+	"Selling_30_Cost" "550"
+	"Selling_30_Conditions"
+	[
+	]
+	"Selling_30_Rewards"
+	[
+	]
+	"Selling_31_Type" "ITEM"
+	"Selling_31_ID" "35237"
+	"Selling_31_Cost" "550"
+	"Selling_31_Conditions"
+	[
+	]
+	"Selling_31_Rewards"
+	[
+	]
+	"Selling_32_Type" "ITEM"
+	"Selling_32_ID" "35238"
+	"Selling_32_Cost" "850"
+	"Selling_32_Conditions"
+	[
+	]
+	"Selling_32_Rewards"
+	[
+	]
+	"Selling_33_Type" "ITEM"
+	"Selling_33_ID" "35239"
+	"Selling_33_Cost" "850"
+	"Selling_33_Conditions"
+	[
+	]
+	"Selling_33_Rewards"
+	[
+	]
+	"Selling_34_Type" "ITEM"
+	"Selling_34_ID" "35240"
+	"Selling_34_Cost" "850"
+	"Selling_34_Conditions"
+	[
+	]
+	"Selling_34_Rewards"
+	[
+	]
+	"Selling_35_Type" "ITEM"
+	"Selling_35_ID" "35241"
+	"Selling_35_Cost" "850"
+	"Selling_35_Conditions"
+	[
+	]
+	"Selling_35_Rewards"
+	[
+	]
+	"Selling_36_Type" "ITEM"
+	"Selling_36_ID" "35242"
+	"Selling_36_Cost" "850"
+	"Selling_36_Conditions"
+	[
+	]
+	"Selling_36_Rewards"
+	[
+	]
+	"Selling_37_Type" "ITEM"
+	"Selling_37_ID" "35243"
+	"Selling_37_Cost" "850"
+	"Selling_37_Conditions"
+	[
+	]
+	"Selling_37_Rewards"
+	[
+	]
+	"Selling_38_Type" "ITEM"
+	"Selling_38_ID" "35244"
+	"Selling_38_Cost" "850"
+	"Selling_38_Conditions"
+	[
+	]
+	"Selling_38_Rewards"
+	[
+	]
+	"Selling_39_Type" "ITEM"
+	"Selling_39_ID" "35245"
+	"Selling_39_Cost" "850"
+	"Selling_39_Conditions"
+	[
+	]
+	"Selling_39_Rewards"
+	[
+	]
+	"Selling_40_Type" "ITEM"
+	"Selling_40_ID" "35246"
+	"Selling_40_Cost" "1000"
+	"Selling_40_Conditions"
+	[
+	]
+	"Selling_40_Rewards"
+	[
+	]
+	"Selling_41_Type" "ITEM"
+	"Selling_41_ID" "35247"
+	"Selling_41_Cost" "1000"
+	"Selling_41_Conditions"
+	[
+	]
+	"Selling_41_Rewards"
+	[
+	]
+	"Selling_42_Type" "ITEM"
+	"Selling_42_ID" "35248"
+	"Selling_42_Cost" "1000"
+	"Selling_42_Conditions"
+	[
+	]
+	"Selling_42_Rewards"
+	[
+	]
+	"Selling_43_Type" "ITEM"
+	"Selling_43_ID" "35249"
+	"Selling_43_Cost" "1000"
+	"Selling_43_Conditions"
+	[
+	]
+	"Selling_43_Rewards"
+	[
+	]
+	"Selling_44_Type" "ITEM"
+	"Selling_44_ID" "35250"
+	"Selling_44_Cost" "1000"
+	"Selling_44_Conditions"
+	[
+	]
+	"Selling_44_Rewards"
+	[
+	]
+	"Selling_45_Type" "ITEM"
+	"Selling_45_ID" "35251"
+	"Selling_45_Cost" "1000"
+	"Selling_45_Conditions"
+	[
+	]
+	"Selling_45_Rewards"
+	[
+	]
+	"Selling_46_Type" "ITEM"
+	"Selling_46_ID" "35252"
+	"Selling_46_Cost" "1000"
+	"Selling_46_Conditions"
+	[
+	]
+	"Selling_46_Rewards"
+	[
+	]
+	"Selling_47_Type" "ITEM"
+	"Selling_47_ID" "35253"
+	"Selling_47_Cost" "1000"
+	"Selling_47_Conditions"
+	[
+	]
+	"Selling_47_Rewards"
+	[
+	]
+	"Selling_48_Type" "ITEM"
+	"Selling_48_ID" "35255"
+	"Selling_48_Cost" "1250"
+	"Selling_48_Conditions"
+	[
+	]
+	"Selling_48_Rewards"
+	[
+	]
+	"Selling_49_Type" "ITEM"
+	"Selling_49_ID" "35256"
+	"Selling_49_Cost" "1250"
+	"Selling_49_Conditions"
+	[
+	]
+	"Selling_49_Rewards"
+	[
+	]
+	"Selling_50_Type" "ITEM"
+	"Selling_50_ID" "35257"
+	"Selling_50_Cost" "1250"
+	"Selling_50_Conditions"
+	[
+	]
+	"Selling_50_Rewards"
+	[
+	]
+	"Selling_51_Type" "ITEM"
+	"Selling_51_ID" "35258"
+	"Selling_51_Cost" "1250"
+	"Selling_51_Conditions"
+	[
+	]
+	"Selling_51_Rewards"
+	[
+	]
+	"Selling_52_Type" "ITEM"
+	"Selling_52_ID" "35259"
+	"Selling_52_Cost" "1250"
+	"Selling_52_Conditions"
+	[
+	]
+	"Selling_52_Rewards"
+	[
+	]
+	"Selling_53_Type" "ITEM"
+	"Selling_53_ID" "35260"
+	"Selling_53_Cost" "1250"
+	"Selling_53_Conditions"
+	[
+	]
+	"Selling_53_Rewards"
+	[
+	]
+	"Selling_54_Type" "ITEM"
+	"Selling_54_ID" "35261"
+	"Selling_54_Cost" "1250"
+	"Selling_54_Conditions"
+	[
+	]
+	"Selling_54_Rewards"
+	[
+	]
+	"Selling_55_Type" "ITEM"
+	"Selling_55_ID" "35262"
+	"Selling_55_Cost" "1250"
+	"Selling_55_Conditions"
+	[
+	]
+	"Selling_55_Rewards"
+	[
+	]
+	"Selling_56_Type" "ITEM"
+	"Selling_56_ID" "35263"
+	"Selling_56_Cost" "450"
+	"Selling_56_Conditions"
+	[
+	]
+	"Selling_56_Rewards"
+	[
+	]
+	"Selling_57_Type" "ITEM"
+	"Selling_57_ID" "35264"
+	"Selling_57_Cost" "450"
+	"Selling_57_Conditions"
+	[
+	]
+	"Selling_57_Rewards"
+	[
+	]
+	"Selling_58_Type" "ITEM"
+	"Selling_58_ID" "35265"
+	"Selling_58_Cost" "450"
+	"Selling_58_Conditions"
+	[
+	]
+	"Selling_58_Rewards"
+	[
+	]
+	"Selling_59_Type" "ITEM"
+	"Selling_59_ID" "35266"
+	"Selling_59_Cost" "450"
+	"Selling_59_Conditions"
+	[
+	]
+	"Selling_59_Rewards"
+	[
+	]
+	"Selling_60_Type" "ITEM"
+	"Selling_60_ID" "35267"
+	"Selling_60_Cost" "450"
+	"Selling_60_Conditions"
+	[
+	]
+	"Selling_60_Rewards"
+	[
+	]
+	"Selling_61_Type" "ITEM"
+	"Selling_61_ID" "35268"
+	"Selling_61_Cost" "450"
+	"Selling_61_Conditions"
+	[
+	]
+	"Selling_61_Rewards"
+	[
+	]
+	"Selling_62_Type" "ITEM"
+	"Selling_62_ID" "35269"
+	"Selling_62_Cost" "450"
+	"Selling_62_Conditions"
+	[
+	]
+	"Selling_62_Rewards"
+	[
+	]
+	"Selling_63_Type" "ITEM"
+	"Selling_63_ID" "35270"
+	"Selling_63_Cost" "450"
+	"Selling_63_Conditions"
+	[
+	]
+	"Selling_63_Rewards"
+	[
+	]
+	"Selling_64_Type" "ITEM"
+	"Selling_64_ID" "35271"
+	"Selling_64_Cost" "1500"
+	"Selling_64_Conditions"
+	[
+	]
+	"Selling_64_Rewards"
+	[
+	]
+	"Selling_65_Type" "ITEM"
+	"Selling_65_ID" "35272"
+	"Selling_65_Cost" "1500"
+	"Selling_65_Conditions"
+	[
+	]
+	"Selling_65_Rewards"
+	[
+	]
+	"Selling_66_Type" "ITEM"
+	"Selling_66_ID" "35273"
+	"Selling_66_Cost" "1500"
+	"Selling_66_Conditions"
+	[
+	]
+	"Selling_66_Rewards"
+	[
+	]
+	"Selling_67_Type" "ITEM"
+	"Selling_67_ID" "35274"
+	"Selling_67_Cost" "1500"
+	"Selling_67_Conditions"
+	[
+	]
+	"Selling_67_Rewards"
+	[
+	]
+	"Selling_68_Type" "ITEM"
+	"Selling_68_ID" "35275"
+	"Selling_68_Cost" "1500"
+	"Selling_68_Conditions"
+	[
+	]
+	"Selling_68_Rewards"
+	[
+	]
+	"Selling_69_Type" "ITEM"
+	"Selling_69_ID" "35276"
+	"Selling_69_Cost" "1500"
+	"Selling_69_Conditions"
+	[
+	]
+	"Selling_69_Rewards"
+	[
+	]
+	"Selling_70_Type" "ITEM"
+	"Selling_70_ID" "35277"
+	"Selling_70_Cost" "1500"
+	"Selling_70_Conditions"
+	[
+	]
+	"Selling_70_Rewards"
+	[
+	]
+	"Selling_71_Type" "ITEM"
+	"Selling_71_ID" "35278"
+	"Selling_71_Cost" "1500"
+	"Selling_71_Conditions"
+	[
+	]
+	"Selling_71_Rewards"
+	[
+	]
+	"Selling_72_Type" "ITEM"
+	"Selling_72_ID" "47121"
+	"Selling_72_Cost" "350"
+	"Selling_72_Conditions"
+	[
+	]
+	"Selling_72_Rewards"
+	[
+	]
+	"Selling_73_Type" "ITEM"
+	"Selling_73_ID" "47122"
+	"Selling_73_Cost" "350"
+	"Selling_73_Conditions"
+	[
+	]
+	"Selling_73_Rewards"
+	[
+	]
+	"Selling_74_Type" "ITEM"
+	"Selling_74_ID" "47123"
+	"Selling_74_Cost" "350"
+	"Selling_74_Conditions"
+	[
+	]
+	"Selling_74_Rewards"
+	[
+	]
+	"Selling_75_Type" "ITEM"
+	"Selling_75_ID" "47124"
+	"Selling_75_Cost" "350"
+	"Selling_75_Conditions"
+	[
+	]
+	"Selling_75_Rewards"
+	[
+	]
+	"Selling_76_Type" "ITEM"
+	"Selling_76_ID" "47125"
+	"Selling_76_Cost" "350"
+	"Selling_76_Conditions"
+	[
+	]
+	"Selling_76_Rewards"
+	[
+	]
+	"Selling_77_Type" "ITEM"
+	"Selling_77_ID" "47126"
+	"Selling_77_Cost" "350"
+	"Selling_77_Conditions"
+	[
+	]
+	"Selling_77_Rewards"
+	[
+	]
+	"Selling_78_Type" "ITEM"
+	"Selling_78_ID" "47127"
+	"Selling_78_Cost" "350"
+	"Selling_78_Conditions"
+	[
+	]
+	"Selling_78_Rewards"
+	[
+	]
+	"Selling_79_Type" "ITEM"
+	"Selling_79_ID" "47128"
+	"Selling_79_Cost" "350"
+	"Selling_79_Conditions"
+	[
+	]
+	"Selling_79_Rewards"
+	[
+	]
+	"Selling_80_Type" "ITEM"
+	"Selling_80_ID" "47129"
+	"Selling_80_Cost" "350"
+	"Selling_80_Conditions"
+	[
+	]
+	"Selling_80_Rewards"
+	[
+	]
+	"Selling_81_Type" "ITEM"
+	"Selling_81_ID" "47130"
+	"Selling_81_Cost" "350"
+	"Selling_81_Conditions"
+	[
+	]
+	"Selling_81_Rewards"
+	[
+	]
+	"Selling_82_Type" "ITEM"
+	"Selling_82_ID" "47131"
+	"Selling_82_Cost" "350"
+	"Selling_82_Conditions"
+	[
+	]
+	"Selling_82_Rewards"
+	[
+	]
+	"Selling_83_Type" "ITEM"
+	"Selling_83_ID" "47132"
+	"Selling_83_Cost" "350"
+	"Selling_83_Conditions"
+	[
+	]
+	"Selling_83_Rewards"
+	[
+	]
+	"ID" "2061"
+	"Asset_Bundle_Version" "4"
+}

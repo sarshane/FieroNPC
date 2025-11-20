@@ -1,0 +1,120 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "a973b2b77c21416da181301399ff9844"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "4"
+	"Message_0_Pages" "4"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "8d14e1f02622ece1c864acc50827b58c"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51024"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "3f9ea7e0a058184fed1563b2d942e9fb"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "2"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "7d434a85694a5529e77b8b658f502cfa"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51024"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "57fe66e3eb4e5bb3904582165e48fba5"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "3"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "3a4e5472cba3ca65f5131c79678eced6"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Message_2_Rewards"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "bc777d812803899fe0d9b74bc6c203b8"
+			"ID" "51024"
+			"Value" "true"
+		}
+	]
+	"Message_3_Pages" "3"
+	"Message_3_Prev" "0"
+	"Message_3_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "39501a74ad4156cc312986681401a50b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+	]
+	"Message_3_Rewards"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "80a03002473f744b45e1345cb08acec9"
+			"ID" "51024"
+			"Value" "true"
+		}
+	]
+	"Responses" "1"
+	"Response_0_Dialogue" "0"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"ID" "14053"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,93 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "b5849e17bc6f4387a28108e3f0581539"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "8"
+	"Response_0_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "40ed3b3534994628aec0474edf449995"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "219335510645446aa6f1c2339aa5d2d3"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "e22e78c719194aae92164712aace6e42"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "f5523c2d99144980a0e19d73ebd88b8c"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "7fd9e88b1d314419a239aa7cf000abd1"
+	"Response_4_Conditions"
+	[
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "f7c461711f184f0eb98eb6712f6d70c1"
+	"Response_5_Conditions"
+	[
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"Response_6_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "acfac04d893e46b2858e17af10a3dced"
+	"Response_6_Conditions"
+	[
+	]
+	"Response_6_Rewards"
+	[
+	]
+	"Response_7_Dialogue" "b1202c57d1e14b708bd3d957e5e2399f"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "f2a7d0e8f9954938a21250352a0c179f"
+	"Response_7_Conditions"
+	[
+	]
+	"Response_7_Rewards"
+	[
+	]
+	"ID" "17554"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,93 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "9df6ba45143344b8abc0cb3fd9c74cae"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "4"
+	"Response_0_Dialogue" "a281d7f128eb4b5f9657d8b4ae9e0bf8"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "TELEPORT"
+			"TextId" "65271ad1fd4235a9d0059733ae47e1fb"
+			"Spawnpoint" "mm1"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "94fdbb96cdd0358b64b55ace44c68ca4"
+			"ID" "39471"
+			"Value" "20"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Response_1_Dialogue" "a281d7f128eb4b5f9657d8b4ae9e0bf8"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+		{
+			"Type" "TELEPORT"
+			"TextId" "9ef0a2e144e191ad99d73a7658952785"
+			"Spawnpoint" "mm2"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "ace18d96d7c7d7b262e0921efd1c0774"
+			"ID" "39471"
+			"Value" "20"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Response_2_Dialogue" "a281d7f128eb4b5f9657d8b4ae9e0bf8"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+		{
+			"Type" "TELEPORT"
+			"TextId" "005d876f07ece3470376bf43b612f420"
+			"Spawnpoint" "mm3"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "232cbd7d031828fb10b90366142a2835"
+			"ID" "39471"
+			"Value" "20"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Response_3_Dialogue" "0"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"ID" "36187"
+	"Asset_Bundle_Version" "1"
+}

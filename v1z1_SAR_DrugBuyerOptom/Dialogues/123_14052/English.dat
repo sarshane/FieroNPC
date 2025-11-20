@@ -1,0 +1,14 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Я даже не буду щупать. Если ты принёс — значит, это товар.</color>
+Message_0_Page_1 <color=#FFFFFF>Вот твои. Я отдам дальше — пусть греются.</color>
+Message_0_Page_2 <color=#FFFFFF>Если нужен канал на север — подойди в следующую среду.</color>
+Message_0_Page_3 <color=#FFFFFF>Будет один шофёр, скажи ему «Снег тает рано» — он поймёт.</color>
+Message_1_Page_0 <color=#FFFFFF>Хорошо скручен.<pause> Сорт прежний. <pause>Чистый запах.<pause> Поставщик у тебя стабильный.<pause> Вот твоя доля. <pause>Только не сдуйся.</color> 
+Message_1_Page_1 <color=#FFFFFF>У нас тут не точка — у нас тут перекрёсток судеб.</color>
+Message_1_Page_2 <color=#FFFFFF>И все они идут по краю.</color>
+Message_2_Page_0 <color=#FFFFFF>Ух ты… Ты серьёзно играешь.</color>
+Message_2_Page_1 <color=#FFFFFF>Это уже не шутки, брат. За такой объём я отвечаю головой. Но и заплачу — по справедливости.</color>
+Message_2_Page_2 <color=#FFFFFF>Держи и запомни — здесь я снег чищу, но если увидишь подметающего в дождь — знай, это я тебя жду.</color>
+Message_3_Page_0 <color=#FFFFFF>Хм... Немало. И сам таскаешь? Храбрый ты. <pause> Ладно. Беру, но впрок не складирую. У меня морозилка забита... снегом</color>
+Message_3_Page_1 <color=#FFFFFF>Вот твоя доля. А теперь исчезни. Если кто спросит — ты спрашивал, где купить лопату с подогревом.</color>
+Response_0 <color=#DCB413>*Уйти*</color> <color=#FFFFFF>Увидимся в следующий раз</color>

@@ -1,0 +1,8 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Билет выдаётся на одну поездку. Цена билета - 35000.
+Message_0_Page_1 У вас деньги есть, чтобы заплатить?
+Message_1_Page_0 Билет выдаётся на одну поездку. Цена билета - 35000.
+Message_1_Page_1 У вас деньги есть, чтобы заплатить?
+Response_0 Да, держите. (снимется 35000)
+Response_1 Я не хочу покупать билет.
+Response_2 Нет, у меня нет денег.

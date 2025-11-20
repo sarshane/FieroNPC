@@ -1,0 +1,9 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Электричество снова в деле. Если захочешь сбыть крупную партию товара — обращайся, для тебя хорошая цена.</color>
+Message_1_Page_0 <color=#FFFFFF>Турбина всё ещё молчит. Напомнить, что нужно? 1 канистра топлива и 5 металлолома. Буду ждать.</color>
+Message_2_Page_0 <color=#FFFFFF>Слышь, дружище! Тут всё разваливается: без топлива и деталей турбина не крутится, а без неё я ни свет, ни насосы не запущу. Принеси-ка мне полную канистру и 5 кусков металлолома — устроим маленький потоп энергии! Поможешь?</color>
+Message_3_Page_0 <color=#FFFFFF>Чего тебе?</color>
+Response_0 <color=#1F871F>Да, принесу всё необходимое.</color>
+Response_1 <color=#DCB413>Смотри что принёс</color>
+Response_2 <color=#FFFFFF>Покажи что у тебя есть</color>
+Response_3 <color=#7F7F7F>Не сегодня, извини.</color>

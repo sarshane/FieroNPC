@@ -1,0 +1,1018 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "f3a868363b37476e95fbc78715940b34"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "1"
+	"Message_0_Responses" "51"
+	"Message_0_Response_0" "0"
+	"Message_0_Response_1" "1"
+	"Message_0_Response_2" "2"
+	"Message_0_Response_3" "3"
+	"Message_0_Response_4" "4"
+	"Message_0_Response_5" "5"
+	"Message_0_Response_6" "6"
+	"Message_0_Response_7" "7"
+	"Message_0_Response_8" "8"
+	"Message_0_Response_9" "9"
+	"Message_0_Response_10" "10"
+	"Message_0_Response_11" "11"
+	"Message_0_Response_12" "12"
+	"Message_0_Response_13" "13"
+	"Message_0_Response_14" "14"
+	"Message_0_Response_15" "15"
+	"Message_0_Response_16" "16"
+	"Message_0_Response_17" "17"
+	"Message_0_Response_18" "18"
+	"Message_0_Response_19" "19"
+	"Message_0_Response_20" "20"
+	"Message_0_Response_21" "21"
+	"Message_0_Response_22" "22"
+	"Message_0_Response_23" "23"
+	"Message_0_Response_24" "24"
+	"Message_0_Response_25" "25"
+	"Message_0_Response_26" "26"
+	"Message_0_Response_27" "27"
+	"Message_0_Response_28" "28"
+	"Message_0_Response_29" "29"
+	"Message_0_Response_30" "30"
+	"Message_0_Response_31" "31"
+	"Message_0_Response_32" "32"
+	"Message_0_Response_33" "33"
+	"Message_0_Response_34" "34"
+	"Message_0_Response_35" "35"
+	"Message_0_Response_36" "36"
+	"Message_0_Response_37" "37"
+	"Message_0_Response_38" "38"
+	"Message_0_Response_39" "39"
+	"Message_0_Response_40" "40"
+	"Message_0_Response_41" "41"
+	"Message_0_Response_42" "42"
+	"Message_0_Response_43" "43"
+	"Message_0_Response_44" "44"
+	"Message_0_Response_45" "45"
+	"Message_0_Response_46" "46"
+	"Message_0_Response_47" "47"
+	"Message_0_Response_48" "48"
+	"Message_0_Response_49" "49"
+	"Message_0_Response_50" "50"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "a7254d215958d3df3b96cd373d21eb7b"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Responses" "1"
+	"Message_1_Response_0" "94"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "f8f741783d9be70e4d1dca8f2a3c7ce4"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "0"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "95"
+	"Response_0_Dialogue" "f3a868363b37476e95fbc78715940b34"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "0"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "b2c9112c3c314e09a0e0d78255884038"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "6ebd0a87963eaacf37a203e1b3024ff6"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "7bf60f80e11347a69631bf2f9deb5446"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "5ea3496d2d5ebc0933c1186d24e1ab4b"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "0"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "1ee08ad95b094eeaa54d88bd363b5df1"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "59575d816248f5b493da5dddb6091cd9"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "0"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "1c11a2d8c6d64953a9c556ef98615f54"
+	"Response_4_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "8b60a53186ed9211060e19ee42eb9ec3"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "0"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "6abfa356d6f8476fb307deab641ac9b6"
+	"Response_5_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "e4c12dc0e03359843dd0992b98b8a010"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"Response_6_Dialogue" "0"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "fab58320be8f471cb812294bdeb52955"
+	"Response_6_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "0753f9fabf473dce6b87ea7cfbbdb92c"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_6_Rewards"
+	[
+	]
+	"Response_7_Dialogue" "0"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "7320c9e263b347e9abb4c89730faa9a4"
+	"Response_7_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "5dc5714126a678d11cb24602e1e92328"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_7_Rewards"
+	[
+	]
+	"Response_8_Dialogue" "0"
+	"Response_8_Quest" "0"
+	"Response_8_Vendor" "47e6ff6ca00a44d78cb227455fc6d589"
+	"Response_8_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "30eebe98e95720af89ecabc4fbf08e3a"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "006e5d45fa4e43599e8445e1d064c94d"
+			"Amount" "1"
+		}
+	]
+	"Response_8_Rewards"
+	[
+	]
+	"Response_9_Dialogue" "f3a868363b37476e95fbc78715940b34"
+	"Response_9_Quest" "0"
+	"Response_9_Vendor" "0"
+	"Response_9_Conditions"
+	[
+	]
+	"Response_9_Rewards"
+	[
+	]
+	"Response_10_Dialogue" "0"
+	"Response_10_Quest" "0"
+	"Response_10_Vendor" "0cac2ff4ab854d7a9106ea87f3e4b41e"
+	"Response_10_Conditions"
+	[
+	]
+	"Response_10_Rewards"
+	[
+	]
+	"Response_11_Dialogue" "0"
+	"Response_11_Quest" "0"
+	"Response_11_Vendor" "3ba1d0ff6fd049729f798aab13061142"
+	"Response_11_Conditions"
+	[
+	]
+	"Response_11_Rewards"
+	[
+	]
+	"Response_12_Dialogue" "0"
+	"Response_12_Quest" "0"
+	"Response_12_Vendor" "fb7b6a485c054410aeb13ca4b454a04f"
+	"Response_12_Conditions"
+	[
+	]
+	"Response_12_Rewards"
+	[
+	]
+	"Response_13_Dialogue" "0"
+	"Response_13_Quest" "0"
+	"Response_13_Vendor" "1b5145df2590406ea341b5fd27ce64dc"
+	"Response_13_Conditions"
+	[
+	]
+	"Response_13_Rewards"
+	[
+	]
+	"Response_14_Dialogue" "0"
+	"Response_14_Quest" "0"
+	"Response_14_Vendor" "9dda361a291644ee9f9bdf32fb15b487"
+	"Response_14_Conditions"
+	[
+	]
+	"Response_14_Rewards"
+	[
+	]
+	"Response_15_Dialogue" "0"
+	"Response_15_Quest" "0"
+	"Response_15_Vendor" "6b2db9402de34bdc868140d8f6ee9d88"
+	"Response_15_Conditions"
+	[
+	]
+	"Response_15_Rewards"
+	[
+	]
+	"Response_16_Dialogue" "0"
+	"Response_16_Quest" "0"
+	"Response_16_Vendor" "5194"
+	"Response_16_Conditions"
+	[
+	]
+	"Response_16_Rewards"
+	[
+	]
+	"Response_17_Dialogue" "0"
+	"Response_17_Quest" "0"
+	"Response_17_Vendor" "db9cda5c17ac42f388bee3a11dd362be"
+	"Response_17_Conditions"
+	[
+	]
+	"Response_17_Rewards"
+	[
+	]
+	"Response_18_Dialogue" "0"
+	"Response_18_Quest" "0"
+	"Response_18_Vendor" "c1bbec6dc0d5489e8971d2ff6ad780e1"
+	"Response_18_Conditions"
+	[
+	]
+	"Response_18_Rewards"
+	[
+	]
+	"Response_19_Dialogue" "0"
+	"Response_19_Quest" "0"
+	"Response_19_Vendor" "5197"
+	"Response_19_Conditions"
+	[
+	]
+	"Response_19_Rewards"
+	[
+	]
+	"Response_20_Dialogue" "0"
+	"Response_20_Quest" "0"
+	"Response_20_Vendor" "5b3a27bde5ec479b8b04207b17f8c931"
+	"Response_20_Conditions"
+	[
+	]
+	"Response_20_Rewards"
+	[
+	]
+	"Response_21_Dialogue" "0"
+	"Response_21_Quest" "0"
+	"Response_21_Vendor" "86b059f899534cef87f56141e3a29442"
+	"Response_21_Conditions"
+	[
+	]
+	"Response_21_Rewards"
+	[
+	]
+	"Response_22_Dialogue" "0"
+	"Response_22_Quest" "0"
+	"Response_22_Vendor" "ee1a43ac5f2b4655b0ce010eb8d57675"
+	"Response_22_Conditions"
+	[
+	]
+	"Response_22_Rewards"
+	[
+	]
+	"Response_23_Dialogue" "0"
+	"Response_23_Quest" "0"
+	"Response_23_Vendor" "ead4e5aa0fb74852b673ae42a96365e1"
+	"Response_23_Conditions"
+	[
+	]
+	"Response_23_Rewards"
+	[
+	]
+	"Response_24_Dialogue" "0"
+	"Response_24_Quest" "0"
+	"Response_24_Vendor" "7fa22f1e1d3146a5b7fadeb8ce70a0a1"
+	"Response_24_Conditions"
+	[
+	]
+	"Response_24_Rewards"
+	[
+	]
+	"Response_25_Dialogue" "0"
+	"Response_25_Quest" "0"
+	"Response_25_Vendor" "2d461f2cc9a24c669318ed887c65a21f"
+	"Response_25_Conditions"
+	[
+	]
+	"Response_25_Rewards"
+	[
+	]
+	"Response_26_Dialogue" "0"
+	"Response_26_Quest" "0"
+	"Response_26_Vendor" "ea22b365259e4fab8c63c192b185d21b"
+	"Response_26_Conditions"
+	[
+	]
+	"Response_26_Rewards"
+	[
+	]
+	"Response_27_Dialogue" "0"
+	"Response_27_Quest" "0"
+	"Response_27_Vendor" "f3df942d148249ff9471c1e5132fdec3"
+	"Response_27_Conditions"
+	[
+	]
+	"Response_27_Rewards"
+	[
+	]
+	"Response_28_Dialogue" "0"
+	"Response_28_Quest" "0"
+	"Response_28_Vendor" "e8de371725f24ebf9b8135cab23374e3"
+	"Response_28_Conditions"
+	[
+	]
+	"Response_28_Rewards"
+	[
+	]
+	"Response_29_Dialogue" "0"
+	"Response_29_Quest" "0"
+	"Response_29_Vendor" "5e739a113d114dd0ab93562764714844"
+	"Response_29_Conditions"
+	[
+	]
+	"Response_29_Rewards"
+	[
+	]
+	"Response_30_Dialogue" "0"
+	"Response_30_Quest" "0"
+	"Response_30_Vendor" "a9d09d338fbb4a61bf6c844bc8c2f95b"
+	"Response_30_Conditions"
+	[
+	]
+	"Response_30_Rewards"
+	[
+	]
+	"Response_31_Dialogue" "0"
+	"Response_31_Quest" "0"
+	"Response_31_Vendor" "3e064bb6ad58497995978e241d73d235"
+	"Response_31_Conditions"
+	[
+	]
+	"Response_31_Rewards"
+	[
+	]
+	"Response_32_Dialogue" "0"
+	"Response_32_Quest" "0"
+	"Response_32_Vendor" "35d390d4cd404bbca86313a9717a2035"
+	"Response_32_Conditions"
+	[
+	]
+	"Response_32_Rewards"
+	[
+	]
+	"Response_33_Dialogue" "0"
+	"Response_33_Quest" "0"
+	"Response_33_Vendor" "d8ccfd964d564dddab4e3ed2a753e220"
+	"Response_33_Conditions"
+	[
+	]
+	"Response_33_Rewards"
+	[
+	]
+	"Response_34_Dialogue" "0"
+	"Response_34_Quest" "0"
+	"Response_34_Vendor" "a6b6a084bcb44b9aba78ab0f289e59ca"
+	"Response_34_Conditions"
+	[
+	]
+	"Response_34_Rewards"
+	[
+	]
+	"Response_35_Dialogue" "0"
+	"Response_35_Quest" "0"
+	"Response_35_Vendor" "5929feed63514cfda8d9456936299b52"
+	"Response_35_Conditions"
+	[
+	]
+	"Response_35_Rewards"
+	[
+	]
+	"Response_36_Dialogue" "0"
+	"Response_36_Quest" "0"
+	"Response_36_Vendor" "a6561c1116a746d5b1119624d1754b97"
+	"Response_36_Conditions"
+	[
+	]
+	"Response_36_Rewards"
+	[
+	]
+	"Response_37_Dialogue" "0"
+	"Response_37_Quest" "0"
+	"Response_37_Vendor" "6bbe98e29ca849e79f89c9d189797230"
+	"Response_37_Conditions"
+	[
+	]
+	"Response_37_Rewards"
+	[
+	]
+	"Response_38_Dialogue" "0"
+	"Response_38_Quest" "0"
+	"Response_38_Vendor" "04e5994ba1704ed484a5c08272a1a72c"
+	"Response_38_Conditions"
+	[
+	]
+	"Response_38_Rewards"
+	[
+	]
+	"Response_39_Dialogue" "0"
+	"Response_39_Quest" "0"
+	"Response_39_Vendor" "62d9b18af4864ee3a7b8c93aea8180af"
+	"Response_39_Conditions"
+	[
+	]
+	"Response_39_Rewards"
+	[
+	]
+	"Response_40_Dialogue" "0"
+	"Response_40_Quest" "0"
+	"Response_40_Vendor" "f9a675421e1b44c09d63ac55712447d0"
+	"Response_40_Conditions"
+	[
+	]
+	"Response_40_Rewards"
+	[
+	]
+	"Response_41_Dialogue" "0"
+	"Response_41_Quest" "0"
+	"Response_41_Vendor" "071f201b307849f5bce1308f9acdd1f0"
+	"Response_41_Conditions"
+	[
+	]
+	"Response_41_Rewards"
+	[
+	]
+	"Response_42_Dialogue" "0"
+	"Response_42_Quest" "0"
+	"Response_42_Vendor" "9ea112c5c64d4452adf09d3b8d929792"
+	"Response_42_Conditions"
+	[
+	]
+	"Response_42_Rewards"
+	[
+	]
+	"Response_43_Dialogue" "0"
+	"Response_43_Quest" "0"
+	"Response_43_Vendor" "02420c67a8524cbc8d2f7fd304675bdc"
+	"Response_43_Conditions"
+	[
+	]
+	"Response_43_Rewards"
+	[
+	]
+	"Response_44_Dialogue" "0"
+	"Response_44_Quest" "0"
+	"Response_44_Vendor" "24c80fb99f6243b2878bcf96bd7247a8"
+	"Response_44_Conditions"
+	[
+	]
+	"Response_44_Rewards"
+	[
+	]
+	"Response_45_Dialogue" "0"
+	"Response_45_Quest" "0"
+	"Response_45_Vendor" "60951c37ac3045ce835de1717733fb78"
+	"Response_45_Conditions"
+	[
+	]
+	"Response_45_Rewards"
+	[
+	]
+	"Response_46_Dialogue" "0"
+	"Response_46_Quest" "0"
+	"Response_46_Vendor" "772642a0445b4797b4ff6dd4caa4696f"
+	"Response_46_Conditions"
+	[
+	]
+	"Response_46_Rewards"
+	[
+	]
+	"Response_47_Dialogue" "0"
+	"Response_47_Quest" "0"
+	"Response_47_Vendor" "249c8c2f829d4e03a57a0e543bcef232"
+	"Response_47_Conditions"
+	[
+	]
+	"Response_47_Rewards"
+	[
+	]
+	"Response_48_Dialogue" "0"
+	"Response_48_Quest" "0"
+	"Response_48_Vendor" "4f2d7f20fad64de9a3afcd8ed85482a2"
+	"Response_48_Conditions"
+	[
+	]
+	"Response_48_Rewards"
+	[
+	]
+	"Response_49_Dialogue" "0"
+	"Response_49_Quest" "0"
+	"Response_49_Vendor" "0"
+	"Response_49_Conditions"
+	[
+	]
+	"Response_49_Rewards"
+	[
+	]
+	"Response_50_Dialogue" "0"
+	"Response_50_Quest" "0"
+	"Response_50_Vendor" "0"
+	"Response_50_Conditions"
+	[
+	]
+	"Response_50_Rewards"
+	[
+	]
+	"Response_51_Dialogue" "0"
+	"Response_51_Quest" "0"
+	"Response_51_Vendor" "0"
+	"Response_51_Conditions"
+	[
+	]
+	"Response_51_Rewards"
+	[
+	]
+	"Response_52_Dialogue" "0"
+	"Response_52_Quest" "0"
+	"Response_52_Vendor" "0"
+	"Response_52_Conditions"
+	[
+	]
+	"Response_52_Rewards"
+	[
+	]
+	"Response_53_Dialogue" "0"
+	"Response_53_Quest" "0"
+	"Response_53_Vendor" "0"
+	"Response_53_Conditions"
+	[
+	]
+	"Response_53_Rewards"
+	[
+	]
+	"Response_54_Dialogue" "0"
+	"Response_54_Quest" "0"
+	"Response_54_Vendor" "0"
+	"Response_54_Conditions"
+	[
+	]
+	"Response_54_Rewards"
+	[
+	]
+	"Response_55_Dialogue" "0"
+	"Response_55_Quest" "0"
+	"Response_55_Vendor" "0"
+	"Response_55_Conditions"
+	[
+	]
+	"Response_55_Rewards"
+	[
+	]
+	"Response_56_Dialogue" "0"
+	"Response_56_Quest" "0"
+	"Response_56_Vendor" "0"
+	"Response_56_Conditions"
+	[
+	]
+	"Response_56_Rewards"
+	[
+	]
+	"Response_57_Dialogue" "0"
+	"Response_57_Quest" "0"
+	"Response_57_Vendor" "0"
+	"Response_57_Conditions"
+	[
+	]
+	"Response_57_Rewards"
+	[
+	]
+	"Response_58_Dialogue" "0"
+	"Response_58_Quest" "0"
+	"Response_58_Vendor" "0"
+	"Response_58_Conditions"
+	[
+	]
+	"Response_58_Rewards"
+	[
+	]
+	"Response_59_Dialogue" "0"
+	"Response_59_Quest" "0"
+	"Response_59_Vendor" "0"
+	"Response_59_Conditions"
+	[
+	]
+	"Response_59_Rewards"
+	[
+	]
+	"Response_60_Dialogue" "0"
+	"Response_60_Quest" "0"
+	"Response_60_Vendor" "0"
+	"Response_60_Conditions"
+	[
+	]
+	"Response_60_Rewards"
+	[
+	]
+	"Response_61_Dialogue" "0"
+	"Response_61_Quest" "0"
+	"Response_61_Vendor" "0"
+	"Response_61_Conditions"
+	[
+	]
+	"Response_61_Rewards"
+	[
+	]
+	"Response_62_Dialogue" "0"
+	"Response_62_Quest" "0"
+	"Response_62_Vendor" "0"
+	"Response_62_Conditions"
+	[
+	]
+	"Response_62_Rewards"
+	[
+	]
+	"Response_63_Dialogue" "0"
+	"Response_63_Quest" "0"
+	"Response_63_Vendor" "0"
+	"Response_63_Conditions"
+	[
+	]
+	"Response_63_Rewards"
+	[
+	]
+	"Response_64_Dialogue" "0"
+	"Response_64_Quest" "0"
+	"Response_64_Vendor" "0"
+	"Response_64_Conditions"
+	[
+	]
+	"Response_64_Rewards"
+	[
+	]
+	"Response_65_Dialogue" "0"
+	"Response_65_Quest" "0"
+	"Response_65_Vendor" "0"
+	"Response_65_Conditions"
+	[
+	]
+	"Response_65_Rewards"
+	[
+	]
+	"Response_66_Dialogue" "0"
+	"Response_66_Quest" "0"
+	"Response_66_Vendor" "0"
+	"Response_66_Conditions"
+	[
+	]
+	"Response_66_Rewards"
+	[
+	]
+	"Response_67_Dialogue" "0"
+	"Response_67_Quest" "0"
+	"Response_67_Vendor" "0"
+	"Response_67_Conditions"
+	[
+	]
+	"Response_67_Rewards"
+	[
+	]
+	"Response_68_Dialogue" "0"
+	"Response_68_Quest" "0"
+	"Response_68_Vendor" "0"
+	"Response_68_Conditions"
+	[
+	]
+	"Response_68_Rewards"
+	[
+	]
+	"Response_69_Dialogue" "0"
+	"Response_69_Quest" "0"
+	"Response_69_Vendor" "0"
+	"Response_69_Conditions"
+	[
+	]
+	"Response_69_Rewards"
+	[
+	]
+	"Response_70_Dialogue" "0"
+	"Response_70_Quest" "0"
+	"Response_70_Vendor" "0"
+	"Response_70_Conditions"
+	[
+	]
+	"Response_70_Rewards"
+	[
+	]
+	"Response_71_Dialogue" "0"
+	"Response_71_Quest" "0"
+	"Response_71_Vendor" "0"
+	"Response_71_Conditions"
+	[
+	]
+	"Response_71_Rewards"
+	[
+	]
+	"Response_72_Dialogue" "0"
+	"Response_72_Quest" "0"
+	"Response_72_Vendor" "0"
+	"Response_72_Conditions"
+	[
+	]
+	"Response_72_Rewards"
+	[
+	]
+	"Response_73_Dialogue" "0"
+	"Response_73_Quest" "0"
+	"Response_73_Vendor" "0"
+	"Response_73_Conditions"
+	[
+	]
+	"Response_73_Rewards"
+	[
+	]
+	"Response_74_Dialogue" "0"
+	"Response_74_Quest" "0"
+	"Response_74_Vendor" "0"
+	"Response_74_Conditions"
+	[
+	]
+	"Response_74_Rewards"
+	[
+	]
+	"Response_75_Dialogue" "0"
+	"Response_75_Quest" "0"
+	"Response_75_Vendor" "0"
+	"Response_75_Conditions"
+	[
+	]
+	"Response_75_Rewards"
+	[
+	]
+	"Response_76_Dialogue" "0"
+	"Response_76_Quest" "0"
+	"Response_76_Vendor" "0"
+	"Response_76_Conditions"
+	[
+	]
+	"Response_76_Rewards"
+	[
+	]
+	"Response_77_Dialogue" "0"
+	"Response_77_Quest" "0"
+	"Response_77_Vendor" "0"
+	"Response_77_Conditions"
+	[
+	]
+	"Response_77_Rewards"
+	[
+	]
+	"Response_78_Dialogue" "0"
+	"Response_78_Quest" "0"
+	"Response_78_Vendor" "0"
+	"Response_78_Conditions"
+	[
+	]
+	"Response_78_Rewards"
+	[
+	]
+	"Response_79_Dialogue" "0"
+	"Response_79_Quest" "0"
+	"Response_79_Vendor" "0"
+	"Response_79_Conditions"
+	[
+	]
+	"Response_79_Rewards"
+	[
+	]
+	"Response_80_Dialogue" "0"
+	"Response_80_Quest" "0"
+	"Response_80_Vendor" "0"
+	"Response_80_Conditions"
+	[
+	]
+	"Response_80_Rewards"
+	[
+	]
+	"Response_81_Dialogue" "0"
+	"Response_81_Quest" "0"
+	"Response_81_Vendor" "0"
+	"Response_81_Conditions"
+	[
+	]
+	"Response_81_Rewards"
+	[
+	]
+	"Response_82_Dialogue" "0"
+	"Response_82_Quest" "0"
+	"Response_82_Vendor" "0"
+	"Response_82_Conditions"
+	[
+	]
+	"Response_82_Rewards"
+	[
+	]
+	"Response_83_Dialogue" "0"
+	"Response_83_Quest" "0"
+	"Response_83_Vendor" "0"
+	"Response_83_Conditions"
+	[
+	]
+	"Response_83_Rewards"
+	[
+	]
+	"Response_84_Dialogue" "0"
+	"Response_84_Quest" "0"
+	"Response_84_Vendor" "0"
+	"Response_84_Conditions"
+	[
+	]
+	"Response_84_Rewards"
+	[
+	]
+	"Response_85_Dialogue" "0"
+	"Response_85_Quest" "0"
+	"Response_85_Vendor" "0"
+	"Response_85_Conditions"
+	[
+	]
+	"Response_85_Rewards"
+	[
+	]
+	"Response_86_Dialogue" "0"
+	"Response_86_Quest" "0"
+	"Response_86_Vendor" "0"
+	"Response_86_Conditions"
+	[
+	]
+	"Response_86_Rewards"
+	[
+	]
+	"Response_87_Dialogue" "0"
+	"Response_87_Quest" "0"
+	"Response_87_Vendor" "0"
+	"Response_87_Conditions"
+	[
+	]
+	"Response_87_Rewards"
+	[
+	]
+	"Response_88_Dialogue" "0"
+	"Response_88_Quest" "0"
+	"Response_88_Vendor" "0"
+	"Response_88_Conditions"
+	[
+	]
+	"Response_88_Rewards"
+	[
+	]
+	"Response_89_Dialogue" "0"
+	"Response_89_Quest" "0"
+	"Response_89_Vendor" "0"
+	"Response_89_Conditions"
+	[
+	]
+	"Response_89_Rewards"
+	[
+	]
+	"Response_90_Dialogue" "0"
+	"Response_90_Quest" "0"
+	"Response_90_Vendor" "0"
+	"Response_90_Conditions"
+	[
+	]
+	"Response_90_Rewards"
+	[
+	]
+	"Response_91_Dialogue" "0"
+	"Response_91_Quest" "0"
+	"Response_91_Vendor" "0"
+	"Response_91_Conditions"
+	[
+	]
+	"Response_91_Rewards"
+	[
+	]
+	"Response_92_Dialogue" "0"
+	"Response_92_Quest" "0"
+	"Response_92_Vendor" "0"
+	"Response_92_Conditions"
+	[
+	]
+	"Response_92_Rewards"
+	[
+	]
+	"Response_93_Dialogue" "0"
+	"Response_93_Quest" "0"
+	"Response_93_Vendor" "0"
+	"Response_93_Conditions"
+	[
+	]
+	"Response_93_Rewards"
+	[
+	]
+	"Response_94_Dialogue" "0"
+	"Response_94_Quest" "0"
+	"Response_94_Vendor" "0"
+	"Response_94_Conditions"
+	[
+	]
+	"Response_94_Rewards"
+	[
+	]
+	"ID" "5682"
+	"Asset_Bundle_Version" "1"
+}

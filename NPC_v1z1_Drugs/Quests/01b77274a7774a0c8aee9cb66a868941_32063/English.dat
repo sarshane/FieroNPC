@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Name <color=#964BFA>Калибровка станка</color>
+Description <color=#964BFA>Итану</color> <color=#FFFFFF>подвезли промышленный миксер, но без электроники он не запустится. Принесите ему 8 электронных компонентов и пассатижи, чтобы настроить оборудование. Компоненты можно найти на свалке, а пассатижи продаются в хардвеере.</color>
+915ff60beca5380701e8bd698c4237a8 <color=#4B64FA>Электронные компоненты</color><color=#FFFFFF>{0}/8</color>
+6ca6673a90c381e34cd316c33829dd17 <color=#4B64FA>Пассатижи</color><color=#FFFFFF>{0}/1</color>

@@ -1,0 +1,66 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "37cc819a871c4b5094436ff1867c8137"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Is_Gore" "false"
+	"Conditions"
+	[
+	]
+	"Type" "SMALL"
+	"Chart" "NONE"
+	"Causes_Fall_Damage" "true"
+	"Exclude_From_Culling_Volumes" "false"
+	"LOD" "NONE"
+	"Interactability" "QUEST"
+	"Interactability_Remote" ""
+	"Interactability_Delay" "5000"
+	"Interactability_Hint" "CUSTOM"
+	"Interactability_Power" "NONE"
+	"Interactability_Editor" "NONE"
+	"Interactability_Nav" "NONE"
+	"Interactability_Drops" "0"
+	"Interactability_RewardItem_Origin" "NATURE"
+	"Interactability_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "ed6891c528048fbd3643ec4242ef76c5"
+			"Reset" "false"
+			"Logic" "NOT_EQUAL"
+			"ID" "63912"
+			"Allow_Unset" "true"
+			"Value" "3"
+		}
+		{
+			"Type" "QUEST"
+			"TextId" "fe4637994b9000218280bfc4e1b667fe"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "d2073a84115846e6a82ecab512d98f55"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Interactability_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "d77b3c0d426012698bee2d6cf1dbd24b"
+			"ID" "63912"
+			"Value" "1"
+			"Modification" "INCREMENT"
+		}
+	]
+	"Add_Kill_Triggers" "false"
+	"Landmark_Quality" "LOW"
+	"Has_Clip_Prefab" "false"
+	"Exclude_From_Level_Batching" "false"
+	"ID" "0"
+	"Master_Bundle_Override" "russobject.masterbundle"
+	"Bundle_Override_Path" "/NRO_Chiken"
+	"Asset_Bundle_Version" "3"
+}

@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Name <color=#4B64FA>Дырявый бак</color>
+Description <color=#FFFFFF>Заправочный резервуар у</color> <color=#964BFA>Стива </color><color=#FFFFFF>протекает. Принесите ему 5 кусков металлолома и 1 рулон скотча, чтобы залатать дыру. Скотч можно найти на свалке.</color>
+2552a44c26e9f94caf3e54e779ef80c8 <color=#4B64FA>Рулон скотча</color><color=#FFFFFF>{0}/1</color>
+60ba8cce3bc7119bb5cb3f57b1591edf <color=#4B64FA>Металлолом </color><color=#FFFFFF>{0}/5</color>

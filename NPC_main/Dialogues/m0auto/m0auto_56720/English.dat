@@ -1,0 +1,8 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Для того, чтобы продать свой автомобиль вам нужно смотреть на ваш автомобиль
+Message_0_Page_1 Далее вам нужно написать: /vsell + (цена)
+Message_0_Page_2 Вместо (цена) пишем за сколько вы хотите продать свой транспорт.
+Message_0_Page_3 В том случае, если перехотели продавать свой транспорт
+Message_0_Page_4 Смотрите на машину и пишите это в чат: /vsell -
+Message_0_Page_5 Чтобы изменить стоймость, пропишите: /vsell p (цена)
+Response_0 Спасибо!

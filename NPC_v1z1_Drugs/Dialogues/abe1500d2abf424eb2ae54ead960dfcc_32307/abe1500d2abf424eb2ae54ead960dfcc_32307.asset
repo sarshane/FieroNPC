@@ -1,0 +1,140 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "abe1500d2abf424eb2ae54ead960dfcc"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "4"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "1a5c8869b283c3e66d4c36a1b7cddaa4"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32052"
+			"Status" "NONE"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "19ae020d0950b933e782e3db9530a9f3"
+			"Reset" "false"
+			"Logic" "NOT_EQUAL"
+			"ID" "32052"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "1"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "66d23c06dfb01a3b8bdf7461fb4b8b0d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32052"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Message_2_Rewards"
+	[
+	]
+	"Message_3_Pages" "1"
+	"Message_3_Prev" "0"
+	"Message_3_Conditions"
+	[
+	]
+	"Message_3_Rewards"
+	[
+	]
+	"Responses" "4"
+	"Response_0_Dialogue" "32308"
+	"Response_0_Quest" "32052"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "5212780a7883582cb70850a90ae5d0d4"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32052"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "481ba79ad34a6102eb801de134ad9b21"
+			"ID" "32052"
+		}
+	]
+	"Response_1_Dialogue" "32308"
+	"Response_1_Quest" "32052"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "ffaeb2299068ed85642f5e4726d46ec2"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "32052"
+			"Status" "READY"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "32308"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "32352"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "98f7fedb2ff7ae52d0694356a991e1e3"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32052"
+			"Status" "NONE"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "0"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"ID" "32307"
+	"Asset_Bundle_Version" "1"
+}

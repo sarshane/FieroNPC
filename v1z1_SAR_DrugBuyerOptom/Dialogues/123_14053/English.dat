@@ -1,0 +1,14 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Ты — человек улиц и я тебя уважаю, но мы тут не в покер играем.</color><b><color=#FFFFFF> Нет товара — нет ставок.</color></b>
+Message_0_Page_1 <color=#FFFFFF>Но ты не забывайся. Такие как ты — не гости.</color>
+Message_0_Page_2 <color=#FFFFFF>Вы — поставщики уличного дыхания.</color>
+Message_0_Page_3 <color=#FFFFFF>Я вас слушаю не ушами, а руками. Принёс — говорим. Не принёс — прощаемся.</color>
+Message_1_Page_0 <color=#FFFFFF>Опять ты... И снова с пустыми руками? Я думал, у нас деловой контакт.</color>
+Message_1_Page_1 <color=#FFFFFF>Ладно, пока. Если нет зелени — нет доверия. Я тут не ради дружбы.</color>
+Message_2_Page_0 <color=#FFFFFF>Ты что, пришёл просто побазарить?</color>
+Message_2_Page_1 <color=#FFFFFF>С улиц или нет — тут всё просто: нет товара — нет разговора.</color>
+Message_2_Page_2 <color=#FFFFFF>Уважение — по делу. Не по шевелению губ.</color>
+Message_3_Page_0 <color=#FFFFFF>Пустой? Тогда и разговор закончен.</color>
+Message_3_Page_1 <color=#FFFFFF>Я не экскурсовод. Уборка — это не шоу, а работа.</color>
+Message_3_Page_2 <color=#FFFFFF>Проветривайся.</color>
+Response_0 <color=#DCB413>*Уйти*</color> <color=#FFFFFF>Увидимся в другой раз</color>

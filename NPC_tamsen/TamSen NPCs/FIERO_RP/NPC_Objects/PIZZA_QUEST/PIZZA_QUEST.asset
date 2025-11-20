@@ -1,0 +1,72 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "c2860c0966744fe880a9614dc4bcc77c"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Is_Gore" "false"
+	"Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "dfd6ef04e3a2ad2f40ae3043285bf09f"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "63964"
+			"Allow_Unset" "true"
+			"Value" "0"
+		}
+	]
+	"Type" "SMALL"
+	"Chart" "NONE"
+	"Causes_Fall_Damage" "true"
+	"Exclude_From_Culling_Volumes" "false"
+	"LOD" "NONE"
+	"Interactability" "QUEST"
+	"Interactability_Remote" ""
+	"Interactability_Hint" "CUSTOM"
+	"Interactability_Power" "NONE"
+	"Interactability_Editor" "NONE"
+	"Interactability_Nav" "NONE"
+	"Interactability_Drops" "0"
+	"Interactability_RewardItem_Origin" "NATURE"
+	"Interactability_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "d984bfa50f483d5a41514d93b51f945c"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "63963"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Interactability_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "c4ce97a585be61a1cb22f28e90382616"
+			"ID" "63964"
+			"Value" "1"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "28f021b712f7fda9ddeec801bc56e4a7"
+			"ID" "63963"
+			"Value" "2"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Add_Kill_Triggers" "false"
+	"Landmark_Quality" "LOW"
+	"Has_Clip_Prefab" "false"
+	"Exclude_From_Level_Batching" "false"
+	"ID" "0"
+	"Master_Bundle_Override" "loco_curated_objects.masterbundle"
+	"Bundle_Override_Path" "/Elver/objects/small/metro_pizza_0"
+	"Asset_Bundle_Version" "4"
+}

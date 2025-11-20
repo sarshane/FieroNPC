@@ -1,0 +1,135 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "15cebf4c672f426fa6ac5cfd6e001eff"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "985c74351666c0424048e4e1d3346c7b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28861"
+			"Allow_Unset" "true"
+			"Value" "15"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "0b8714b477d4ea668686fb5d65508c54"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28861"
+			"Allow_Unset" "false"
+			"Value" "10"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "4"
+	"Response_0_Dialogue" "05165bdb012c47aaa87cfad16aa3b660"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "c0ed20e4df9df4b6a06717b992c804a5"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28861"
+			"Allow_Unset" "true"
+			"Value" "15"
+		}
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "9e2c9dd5c223456e8d02a84ab0204fed"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "4a9c044852c34028bc9407935c69c0b6"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "e0f1d9a59d15c7fe6dee84516fd521c2"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28861"
+			"Allow_Unset" "false"
+			"Value" "10"
+		}
+		{
+			"Type" "REPUTATION"
+			"TextId" "da12f21230a95032508d0c864702a550"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "536974"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "9e2c9dd5c223456e8d02a84ab0204fed"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "10b0873d6fa3457aa9f2a7e5eb67643f"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "dcb9e0f2d5af7c004b0a25c933b490b4"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28861"
+			"Allow_Unset" "false"
+			"Value" "10"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "e3dd6360fe9f016e7545a57199751831"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "33798"
+			"Allow_Unset" "false"
+			"Value" "10"
+		}
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "0"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "68e94c2e962aae61cdb9f52c9d7c5cfa"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "28861"
+			"Allow_Unset" "false"
+			"Value" "10"
+		}
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"ID" "18470"
+	"Asset_Bundle_Version" "1"
+}

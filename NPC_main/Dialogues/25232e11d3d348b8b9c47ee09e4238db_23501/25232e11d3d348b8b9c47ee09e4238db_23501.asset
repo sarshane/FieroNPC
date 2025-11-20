@@ -1,0 +1,67 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "25232e11d3d348b8b9c47ee09e4238db"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "2"
+	"Response_0_Dialogue" "265c97b1c2744b7bb2f346380549efb2"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "5d3829b83563319c9f428d5bfe191b76"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "7500"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "58e374b79817d1e2cec5f2f83e99d25d"
+			"ID" "63522"
+			"Value" "21"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "6212a944aecc869ec9c2851ae1d770eb"
+			"ID" "9887"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "true"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_1_Dialogue" "a3551c37be9f46a38fec8307e46a8674"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"ID" "23501"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,120 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "b686bcb0f2924430a742fefd22e14f15"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "3"
+	"Message_0_Pages" "2"
+	"Message_0_Responses" "1"
+	"Message_0_Response_0" "0"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "b87b680fc11b0ba150df1b058d20498d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "37987"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Responses" "1"
+	"Message_1_Response_0" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "6784cbb1ad8b858cc2e79e6f4a4a65d9"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "37987"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "1"
+	"Message_2_Responses" "1"
+	"Message_2_Response_0" "2"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "cf417bf3a91abbf226f6d3dda0b58888"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "37987"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_2_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "81955b5387324415a36eb9a69805293a"
+	"Response_0_Quest" "f04812fbd4504f6e8d2454bf2ae369b7"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "65a5dfd6b0293b6c9eac65536b77b2da"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "37987"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "ada9e88501c71fb4611d7b3c2cfcbce1"
+			"ID" "37987"
+		}
+	]
+	"Response_1_Dialogue" "b7f53ca78e6945409b2fbc6cf1d182e6"
+	"Response_1_Quest" "f04812fbd4504f6e8d2454bf2ae369b7"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "63ee40eb1849940f16799ac0dc2515af"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "37987"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"ID" "37986"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=White> Для того, чтобы устроится на работу таксиста вы сделаете: </color>
+Response_0 <i> <color=green> Позову админов </color> </i>
+Response_1 <i> <color=green> Приду в мэрию и куплю лицензию на таксиста, дальше напишу /jjob Taxi </color> </i>
+Response_2 <i> <color=green> Не буду покупать лицензию, сойдёт. </color> </i>
+Response_3 <i> <color=green> Ограблю другого таксиста и заберу у него машину. </color> </i>
+Response_4 <i> <color=green> Выйти </color> </i>

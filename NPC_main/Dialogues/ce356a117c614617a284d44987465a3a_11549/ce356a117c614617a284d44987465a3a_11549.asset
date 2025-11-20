@@ -1,0 +1,111 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "ce356a117c614617a284d44987465a3a"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "10"
+	"Response_0_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "63ab3b3f31df4c168bc72e5f8fba2ec5"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "125c775a4a9e4c15bf0097da1e4bb2e0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "e11b17b18b584c1ea7725c9fb08ef206"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "800442973877421e9f654595cbed0c83"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "211d0c07b33a4fb989c3d96fcf37f584"
+	"Response_4_Conditions"
+	[
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "11650"
+	"Response_5_Conditions"
+	[
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"Response_6_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "d54188799f1a4fbaa18622c30f434196"
+	"Response_6_Conditions"
+	[
+	]
+	"Response_6_Rewards"
+	[
+	]
+	"Response_7_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "e1998792045140e78200a61f209cd040"
+	"Response_7_Conditions"
+	[
+	]
+	"Response_7_Rewards"
+	[
+	]
+	"Response_8_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_8_Quest" "0"
+	"Response_8_Vendor" "4670ecbd235e4e78a46fc21a218b574e"
+	"Response_8_Conditions"
+	[
+	]
+	"Response_8_Rewards"
+	[
+	]
+	"Response_9_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_9_Quest" "0"
+	"Response_9_Vendor" "11654"
+	"Response_9_Conditions"
+	[
+	]
+	"Response_9_Rewards"
+	[
+	]
+	"ID" "11549"
+	"Asset_Bundle_Version" "1"
+}

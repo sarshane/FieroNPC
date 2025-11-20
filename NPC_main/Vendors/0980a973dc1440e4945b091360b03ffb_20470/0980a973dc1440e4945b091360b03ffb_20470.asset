@@ -1,0 +1,229 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "0980a973dc1440e4945b091360b03ffb"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "27"
+	"Buying_0_ID" "19470"
+	"Buying_0_Cost" "7000"
+	"Buying_0_Conditions"
+	[
+	]
+	"Buying_0_Rewards"
+	[
+	]
+	"Buying_1_ID" "19472"
+	"Buying_1_Cost" "3500"
+	"Buying_1_Conditions"
+	[
+	]
+	"Buying_1_Rewards"
+	[
+	]
+	"Buying_2_ID" "19450"
+	"Buying_2_Cost" "5600"
+	"Buying_2_Conditions"
+	[
+	]
+	"Buying_2_Rewards"
+	[
+	]
+	"Buying_3_ID" "19452"
+	"Buying_3_Cost" "2800"
+	"Buying_3_Conditions"
+	[
+	]
+	"Buying_3_Rewards"
+	[
+	]
+	"Buying_4_ID" "19410"
+	"Buying_4_Cost" "4200"
+	"Buying_4_Conditions"
+	[
+	]
+	"Buying_4_Rewards"
+	[
+	]
+	"Buying_5_ID" "19430"
+	"Buying_5_Cost" "10500"
+	"Buying_5_Conditions"
+	[
+	]
+	"Buying_5_Rewards"
+	[
+	]
+	"Buying_6_ID" "19432"
+	"Buying_6_Cost" "5600"
+	"Buying_6_Conditions"
+	[
+	]
+	"Buying_6_Rewards"
+	[
+	]
+	"Buying_7_ID" "19405"
+	"Buying_7_Cost" "8400"
+	"Buying_7_Conditions"
+	[
+	]
+	"Buying_7_Rewards"
+	[
+	]
+	"Buying_8_ID" "19407"
+	"Buying_8_Cost" "4200"
+	"Buying_8_Conditions"
+	[
+	]
+	"Buying_8_Rewards"
+	[
+	]
+	"Buying_9_ID" "19400"
+	"Buying_9_Cost" "11200"
+	"Buying_9_Conditions"
+	[
+	]
+	"Buying_9_Rewards"
+	[
+	]
+	"Buying_10_ID" "19402"
+	"Buying_10_Cost" "5600"
+	"Buying_10_Conditions"
+	[
+	]
+	"Buying_10_Rewards"
+	[
+	]
+	"Buying_11_ID" "19420"
+	"Buying_11_Cost" "5600"
+	"Buying_11_Conditions"
+	[
+	]
+	"Buying_11_Rewards"
+	[
+	]
+	"Buying_12_ID" "19440"
+	"Buying_12_Cost" "12600"
+	"Buying_12_Conditions"
+	[
+	]
+	"Buying_12_Rewards"
+	[
+	]
+	"Buying_13_ID" "19442"
+	"Buying_13_Cost" "6300"
+	"Buying_13_Conditions"
+	[
+	]
+	"Buying_13_Rewards"
+	[
+	]
+	"Buying_14_ID" "19460"
+	"Buying_14_Cost" "7000"
+	"Buying_14_Conditions"
+	[
+	]
+	"Buying_14_Rewards"
+	[
+	]
+	"Buying_15_ID" "19480"
+	"Buying_15_Cost" "8600"
+	"Buying_15_Conditions"
+	[
+	]
+	"Buying_15_Rewards"
+	[
+	]
+	"Buying_16_ID" "19482"
+	"Buying_16_Cost" "4200"
+	"Buying_16_Conditions"
+	[
+	]
+	"Buying_16_Rewards"
+	[
+	]
+	"Buying_17_ID" "19490"
+	"Buying_17_Cost" "13300"
+	"Buying_17_Conditions"
+	[
+	]
+	"Buying_17_Rewards"
+	[
+	]
+	"Buying_18_ID" "19492"
+	"Buying_18_Cost" "6600"
+	"Buying_18_Conditions"
+	[
+	]
+	"Buying_18_Rewards"
+	[
+	]
+	"Buying_19_ID" "19415"
+	"Buying_19_Cost" "8400"
+	"Buying_19_Conditions"
+	[
+	]
+	"Buying_19_Rewards"
+	[
+	]
+	"Buying_20_ID" "19417"
+	"Buying_20_Cost" "4200"
+	"Buying_20_Conditions"
+	[
+	]
+	"Buying_20_Rewards"
+	[
+	]
+	"Buying_21_ID" "19425"
+	"Buying_21_Cost" "11200"
+	"Buying_21_Conditions"
+	[
+	]
+	"Buying_21_Rewards"
+	[
+	]
+	"Buying_22_ID" "19427"
+	"Buying_22_Cost" "5600"
+	"Buying_22_Conditions"
+	[
+	]
+	"Buying_22_Rewards"
+	[
+	]
+	"Buying_23_ID" "19435"
+	"Buying_23_Cost" "6600"
+	"Buying_23_Conditions"
+	[
+	]
+	"Buying_23_Rewards"
+	[
+	]
+	"Buying_24_ID" "19436"
+	"Buying_24_Cost" "14000"
+	"Buying_24_Conditions"
+	[
+	]
+	"Buying_24_Rewards"
+	[
+	]
+	"Buying_25_ID" "19445"
+	"Buying_25_Cost" "14000"
+	"Buying_25_Conditions"
+	[
+	]
+	"Buying_25_Rewards"
+	[
+	]
+	"Buying_26_ID" "19447"
+	"Buying_26_Cost" "7000"
+	"Buying_26_Conditions"
+	[
+	]
+	"Buying_26_Rewards"
+	[
+	]
+	"Selling" "0"
+	"ID" "20470"
+	"Asset_Bundle_Version" "1"
+}

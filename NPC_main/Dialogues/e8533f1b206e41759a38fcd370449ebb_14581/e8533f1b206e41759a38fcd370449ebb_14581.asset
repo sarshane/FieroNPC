@@ -1,0 +1,337 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "e8533f1b206e41759a38fcd370449ebb"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "12"
+	"Response_0_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "1cca88199bcbc69b3b57cd894871ad1f"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20009"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "678c5b59a183d9913125243b6835ae57"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20008"
+			"Amount" "1"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "ea2919d5b801d4d2a7639619e869a255"
+			"ID" "20010"
+			"Amount" "1"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_1_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "9af5df7516b6926191a3db16017da45e"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20009"
+			"Amount" "21"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "fe37afcd9b511fe0c911da753c206d53"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20008"
+			"Amount" "7"
+		}
+	]
+	"Response_1_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "f65abbc247754c482fcd3e9126fe4ecd"
+			"ID" "20010"
+			"Amount" "7"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_2_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "88d4212139e48d5bddf54e81c25638ca"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20004"
+			"Amount" "4"
+		}
+	]
+	"Response_2_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "c15d14ec648bbdb04b3c9949f7323dc8"
+			"ID" "20009"
+			"Amount" "1"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_3_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "6fff848d3af0233c122052cbbfc6e66d"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20004"
+			"Amount" "28"
+		}
+	]
+	"Response_3_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "f659274fd7097db339123798f2fc3ffc"
+			"ID" "20009"
+			"Amount" "7"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_4_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "0"
+	"Response_4_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "68032c7b902ccd948e8d8c28195aa0dc"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20006"
+			"Amount" "4"
+		}
+	]
+	"Response_4_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "458339cfca97a2676a7395ad053a49d9"
+			"ID" "20013"
+			"Amount" "1"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_5_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "0"
+	"Response_5_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "85e5990be1ba399cc6e6348c5ff54784"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20005"
+			"Amount" "4"
+		}
+	]
+	"Response_5_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "de9e8e9febf4cb15d3b6263b7152f076"
+			"ID" "20011"
+			"Amount" "1"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_6_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "0"
+	"Response_6_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "2cd85bfb7924ad228c25ebc5be859803"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20005"
+			"Amount" "28"
+		}
+	]
+	"Response_6_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "6c203cdedc023c20bdf8ed07583e4042"
+			"ID" "20011"
+			"Amount" "7"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_7_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "0"
+	"Response_7_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "2117359757217d907f704887db730458"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20001"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "e131362a54e30b8ba16cbd08b058e454"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20011"
+			"Amount" "1"
+		}
+	]
+	"Response_7_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "10eafb07fd4c52ae5ef3b8e3d3f918ce"
+			"ID" "20012"
+			"Amount" "1"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_8_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_8_Quest" "0"
+	"Response_8_Vendor" "0"
+	"Response_8_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "6e74181a631e50db68f99eaca610e6a3"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20001"
+			"Amount" "21"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "60350c8e18d33a3d9cf32540ceb3e124"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20011"
+			"Amount" "7"
+		}
+	]
+	"Response_8_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "024e97d677ca354fc23d6e0913dbecdb"
+			"ID" "20012"
+			"Amount" "7"
+			"Auto_Equip" "true"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_9_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_9_Quest" "0"
+	"Response_9_Vendor" "0"
+	"Response_9_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "1a50ec956a6ebf76351ca318d46f2ab5"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20003"
+			"Amount" "4"
+		}
+	]
+	"Response_9_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "a8fd0f7a9a7cdaf2e24454f5403a7f04"
+			"ID" "20008"
+			"Amount" "1"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_10_Dialogue" "fc064f21d98941d4a5e155a48423abed"
+	"Response_10_Quest" "0"
+	"Response_10_Vendor" "0"
+	"Response_10_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "658963f87398cd9f600a2c486371492e"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "20003"
+			"Amount" "28"
+		}
+	]
+	"Response_10_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "e81a10fec852e75d67bb308f39fc31c7"
+			"ID" "20008"
+			"Amount" "7"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_11_Dialogue" "0"
+	"Response_11_Quest" "0"
+	"Response_11_Vendor" "0"
+	"Response_11_Conditions"
+	[
+	]
+	"Response_11_Rewards"
+	[
+	]
+	"ID" "14581"
+	"Asset_Bundle_Version" "1"
+}

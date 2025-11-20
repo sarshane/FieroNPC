@@ -1,0 +1,93 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "52c55f7dd1904775807a0b3edf7bf4d4"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "8"
+	"Response_0_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "e70052e120224b5dbbffaab4aca93872"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "f9b666c2c7a74ca8b5fdb9741bd760a8"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "a6a1619cd9e04f62beaf499dff6902d4"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "8bb9af7f87c64b69bd1af57d784f0614"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "12651"
+	"Response_4_Conditions"
+	[
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "088e1637457949d8ba4f534880e39f0c"
+	"Response_5_Conditions"
+	[
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"Response_6_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "e4ae010d776f4d7197335bb82d9c5f5d"
+	"Response_6_Conditions"
+	[
+	]
+	"Response_6_Rewards"
+	[
+	]
+	"Response_7_Dialogue" "708c5b36c5b74c92a3dc67c07c7459f5"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "608ed0189be04370a95e0e8b754a2303"
+	"Response_7_Conditions"
+	[
+	]
+	"Response_7_Rewards"
+	[
+	]
+	"ID" "12556"
+	"Asset_Bundle_Version" "1"
+}

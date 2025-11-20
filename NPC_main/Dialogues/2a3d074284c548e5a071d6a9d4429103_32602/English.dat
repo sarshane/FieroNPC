@@ -1,0 +1,6 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Коробки? Какие коробки? А ну покажи...
+Message_0_Page_1 <i>*осматривает коробки*</i>
+Message_0_Page_2 Та вроде обычные ящики деревянные, распилить бы их...<pause>
+Message_0_Page_3 (( чтобы распились ящики, подойдите к столу и пропишите команду <color=#FA3219>/diverbox</color> ))
+Response_0 Лааадно, я попробую...

@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 *Диспетчерский пульт не активирован* 
+Message_1_Page_0 *Диспетчерский пульт активирован* 
+Message_2_Page_0 *Диспетчерский пульт не активирован* 
+Response_0 *Активировать диспетчерскую*
+Response_1 *Диактивировать диспетчерскую*
+Response_2 *Прочитать доп. информацию на табло*

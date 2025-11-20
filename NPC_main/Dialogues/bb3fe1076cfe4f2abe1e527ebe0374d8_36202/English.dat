@@ -1,0 +1,14 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Ну, слушай меня, друг мой.
+Message_0_Page_1 ((в скобках первая цена - покупка у полицейского, вторая - у НПС))
+Response_0 Документ удостоверяющий личность
+Response_1 Паспорт
+Response_2 Медецинское страхование
+Response_3 Банковская карта
+Response_4 Водительские права
+Response_5 Водительские права на водный транспорт
+Response_6 Лицензия на управление воздушным транспортом
+Response_7 Лицензия на оружие 
+Response_8 Разрешение на охоту
+Response_9 Лицензия на ловлю рыбы
+Response_10 Разрешение на добычу полезных ископаемых

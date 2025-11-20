@@ -1,0 +1,11 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Задание ПАТРУЛЬ состоит в том, чтобы объехать все города. Да, всё просто. 
+Message_0_Page_1 Задание можно выполнять каждые <color=#FA3219>ДЕСЯТЬ </color>минут!
+Message_1_Page_0 Ты уже объехал все города?
+Message_2_Page_0 Молодец! Забирай свой токен!
+Message_3_Page_0 Сейчас ты не можешь выполнять это задание. Подожди 10 минут и возвращайся.
+Message_4_Page_0 О, ты можешь снова выполнить задание!
+Response_0 Приступаю!
+4925ba1bbaa76da1e88d64d3b544f8b8 Объехать все города
+Response_1 *уйти*
+Response_2  *забрать*

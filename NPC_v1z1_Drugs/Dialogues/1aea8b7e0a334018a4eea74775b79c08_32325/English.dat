@@ -1,0 +1,10 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Если понадобится метиламин или другое редкое добро — обращайся, цена для своих.</color>
+Message_1_Page_0 <color=#FFFFFF>О, красавчик! Заливаем… кран открываем… <i>пш-шш</i>! Слышишь, как поёт пламя? Держи своё золото и особый доступ к моему метиламину.</color>
+Message_2_Page_0 <color=#FFFFFF>Без двух канистр я даже фитиль не подожгу. Пропан — и никаких вопросов.</color>
+Message_3_Page_0 <color=#FFFFFF>Слушай, дружище, котёл мёрзнет, как труп в морозилке. Нужны две канистры пропана. Притащишь — устроим настоящую химию. Вписываешься?</color>
+Message_4_Page_0 <color=#FFFFFF>Чего тебе?</color>
+Response_0 <color=#1F871F>Доставлю пропан, жди</color>
+Response_1 <color=#DCB413>Ха-ха, конечно. Ещё что-то?</color>
+Response_2 <color=#FFFFFF>Есть образцы товара?</color>
+Response_3 <color=#7F7F7F>Не сегодня, извини.</color>

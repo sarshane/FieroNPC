@@ -1,0 +1,110 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "0d8260de1ded4b3e9fbb63e095bd3876"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "6"
+	"Response_0_Dialogue" "2288519df9cb4f2b8418125ecbeabb89"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "bf7f08ca7cb18b3becdb819988a2fb0d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "822648"
+		}
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "0cb0f40092184cdf9052f56f4f6aeb22"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "cce45594481a4c3b18aebb2ebdfe6d8e"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "314697"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "d61401c47e364946abe3b00af721e539"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "f8e005036b76b9a91d8774e817b1810c"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "536974"
+		}
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "5cfca4be6c9b441f91b1d10246ffa58e"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "3b554c98d12b2ffed766037d367f0eee"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "802887"
+		}
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "b5849e17bc6f4387a28108e3f0581539"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "0"
+	"Response_4_Conditions"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "9a3f1d2bbf1178ef1417381a593c5212"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "178311"
+		}
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "0"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "0"
+	"Response_5_Conditions"
+	[
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"ID" "17546"
+	"Asset_Bundle_Version" "1"
+}

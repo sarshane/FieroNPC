@@ -1,0 +1,93 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "39806b9cfc1f4e1185861b74eedaf02e"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "8"
+	"Response_0_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "86b7476d375a4160bbb4bbf60223834f"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "bcfea2a05486412a8590a76680282488"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "62d350c5c84e4a56beaf4bf3bfba651f"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "f0c62818812c438dae0e43bc59223cd2"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "11650"
+	"Response_4_Conditions"
+	[
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "d54188799f1a4fbaa18622c30f434196"
+	"Response_5_Conditions"
+	[
+	]
+	"Response_5_Rewards"
+	[
+	]
+	"Response_6_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "4670ecbd235e4e78a46fc21a218b574e"
+	"Response_6_Conditions"
+	[
+	]
+	"Response_6_Rewards"
+	[
+	]
+	"Response_7_Dialogue" "94672c8c7432417eb556a41b82ee302d"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "11654"
+	"Response_7_Conditions"
+	[
+	]
+	"Response_7_Rewards"
+	[
+	]
+	"ID" "11554"
+	"Asset_Bundle_Version" "1"
+}

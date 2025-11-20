@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Теперь поставьте вашу подпись:
+Message_0_Page_1 *показал пальцем на место подписи*
+Message_1_Page_0 У вас уже есть регистрация банковской карты в нашем банке.
+Message_1_Page_1 Но если вы её потеряли сломали или еще куда-то дели - можете её восстановить.
+Response_0 *поставить подпись*
+Response_1 Да, я хочу восстановить карту.

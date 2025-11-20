@@ -1,0 +1,53 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "810ad06e603047bca0dd5325957e4fde"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "76e36f566606c9cde6ad22095bb31771"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "63318"
+			"Allow_Unset" "false"
+			"Value" "21"
+		}
+	]
+	"Rewards"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "e064b567c2e6f564f4d991a68ce90083"
+			"Value" "35"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "099c0cabbde2b53766e1801dfd482955"
+			"Value" "250"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "24ddd08c89ff52c869e9ddc1f843943b"
+			"ID" "471"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "true"
+			"Origin" "CRAFT"
+		}
+	]
+	"AbandonmentRewards"
+	[
+	]
+	"ID" "62317"
+	"Asset_Bundle_Version" "1"
+}

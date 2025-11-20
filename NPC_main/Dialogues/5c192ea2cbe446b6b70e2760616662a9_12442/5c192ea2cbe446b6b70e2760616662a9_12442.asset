@@ -1,0 +1,71 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "5c192ea2cbe446b6b70e2760616662a9"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "2"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "08e02906d6d44d39a07065a7c83187e2"
+	"Response_0_Quest" "0d3ed452f1ac46959581048aa5e53c04"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "19910dfed3e827b65a2669cdd96de21f"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "12444"
+			"Status" "READY"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "08e02906d6d44d39a07065a7c83187e2"
+	"Response_1_Quest" "0d3ed452f1ac46959581048aa5e53c04"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "9c5e2d9e000a1a5eba969d0d786f562b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "12444"
+			"Status" "NONE"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_1_Rewards"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "3f7e04e7da916037178ba9a7f0d3974c"
+			"ID" "12444"
+		}
+	]
+	"Response_2_Dialogue" "0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"ID" "12442"
+	"Asset_Bundle_Version" "1"
+}

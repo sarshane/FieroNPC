@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Name <color=#964BFA>Чистое топливо</color>
+Description <color=#964BFA>Стив </color><color=#FFFFFF>тестирует новую горелку. Отфильтруйте и привезите ему образец рафинированного масла и аккумулятор для проверки керосина. Масло можно найти либо на свалке либо купить в хардвеере, а аккумуляторы продаются на заправках.</color>
+9749ab8703b05a5a05a88a88db97459b <color=#964BFA>Образец рафинированного масла </color><color=#FFFFFF>{0}/1</color>
+9e2b322ccfcee647e0d6f9e7b79b6b4e <color=#964BFA>Аккумулятор </color><color=#FFFFFF>{0}/1</color>

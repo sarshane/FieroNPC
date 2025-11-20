@@ -1,0 +1,165 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "e1998792045140e78200a61f209cd040"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "19"
+	"Buying_0_ID" "276"
+	"Buying_0_Cost" "100"
+	"Buying_0_Conditions"
+	[
+	]
+	"Buying_0_Rewards"
+	[
+	]
+	"Buying_1_ID" "1023"
+	"Buying_1_Cost" "400"
+	"Buying_1_Conditions"
+	[
+	]
+	"Buying_1_Rewards"
+	[
+	]
+	"Buying_2_ID" "1195"
+	"Buying_2_Cost" "100"
+	"Buying_2_Conditions"
+	[
+	]
+	"Buying_2_Rewards"
+	[
+	]
+	"Buying_3_ID" "1196"
+	"Buying_3_Cost" "100"
+	"Buying_3_Conditions"
+	[
+	]
+	"Buying_3_Rewards"
+	[
+	]
+	"Buying_4_ID" "1346"
+	"Buying_4_Cost" "350"
+	"Buying_4_Conditions"
+	[
+	]
+	"Buying_4_Rewards"
+	[
+	]
+	"Buying_5_ID" "261"
+	"Buying_5_Cost" "250"
+	"Buying_5_Conditions"
+	[
+	]
+	"Buying_5_Rewards"
+	[
+	]
+	"Buying_6_ID" "1445"
+	"Buying_6_Cost" "350"
+	"Buying_6_Conditions"
+	[
+	]
+	"Buying_6_Rewards"
+	[
+	]
+	"Buying_7_ID" "1446"
+	"Buying_7_Cost" "250"
+	"Buying_7_Conditions"
+	[
+	]
+	"Buying_7_Rewards"
+	[
+	]
+	"Buying_8_ID" "7470"
+	"Buying_8_Cost" "800"
+	"Buying_8_Conditions"
+	[
+	]
+	"Buying_8_Rewards"
+	[
+	]
+	"Buying_9_ID" "7471"
+	"Buying_9_Cost" "800"
+	"Buying_9_Conditions"
+	[
+	]
+	"Buying_9_Rewards"
+	[
+	]
+	"Buying_10_ID" "7472"
+	"Buying_10_Cost" "200"
+	"Buying_10_Conditions"
+	[
+	]
+	"Buying_10_Rewards"
+	[
+	]
+	"Buying_11_ID" "7473"
+	"Buying_11_Cost" "600"
+	"Buying_11_Conditions"
+	[
+	]
+	"Buying_11_Rewards"
+	[
+	]
+	"Buying_12_ID" "7474"
+	"Buying_12_Cost" "100"
+	"Buying_12_Conditions"
+	[
+	]
+	"Buying_12_Rewards"
+	[
+	]
+	"Buying_13_ID" "17638"
+	"Buying_13_Cost" "200"
+	"Buying_13_Conditions"
+	[
+	]
+	"Buying_13_Rewards"
+	[
+	]
+	"Buying_14_ID" "17639"
+	"Buying_14_Cost" "200"
+	"Buying_14_Conditions"
+	[
+	]
+	"Buying_14_Rewards"
+	[
+	]
+	"Buying_15_ID" "17621"
+	"Buying_15_Cost" "200"
+	"Buying_15_Conditions"
+	[
+	]
+	"Buying_15_Rewards"
+	[
+	]
+	"Buying_16_ID" "17665"
+	"Buying_16_Cost" "200"
+	"Buying_16_Conditions"
+	[
+	]
+	"Buying_16_Rewards"
+	[
+	]
+	"Buying_17_ID" "17666"
+	"Buying_17_Cost" "200"
+	"Buying_17_Conditions"
+	[
+	]
+	"Buying_17_Rewards"
+	[
+	]
+	"Buying_18_ID" "17667"
+	"Buying_18_Cost" "200"
+	"Buying_18_Conditions"
+	[
+	]
+	"Buying_18_Rewards"
+	[
+	]
+	"Selling" "0"
+	"ID" "11652"
+	"Asset_Bundle_Version" "1"
+}

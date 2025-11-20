@@ -1,0 +1,6 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Приветствую, с машиной что-то случилось?
+Message_0_Page_1 Я занимаюсь продажей ремонтных комплектов, желаешь приобрести? Сможешь свой транспорт починить в любой точке штата.
+Response_0 Прости, но у меня нет машины...
+Response_1 *приобрести рем. комплект*
+Response_2 Не интересует...

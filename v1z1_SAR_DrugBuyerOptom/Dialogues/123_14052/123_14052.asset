@@ -1,0 +1,119 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "4f37c556706140b18e951ee85330389c"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "4"
+	"Message_0_Pages" "4"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "687481de45159b83795278f8d940d1ac"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "5624d3b5e9c2b87d9f01d25cecbc528b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51024"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+	]
+	"Message_0_Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "579151743f7d292b5245374acca87552"
+			"Value" "1500"
+		}
+	]
+	"Message_1_Pages" "3"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "8b6b32cdf6830856d23106e1af03e572"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+	]
+	"Message_1_Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "75dbd644f74cf793c76bc0495224396a"
+			"Value" "750"
+		}
+	]
+	"Message_2_Pages" "3"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "4d18f8ce1bf3da156bffc5d0cbe48e1d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Message_2_Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "12477cec91f69e7fc8b69afcc20326c3"
+			"Value" "900"
+		}
+	]
+	"Message_3_Pages" "2"
+	"Message_3_Prev" "0"
+	"Message_3_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "d1782c4fd44e0f68adc19d96451ca9d7"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "51023"
+			"Allow_Unset" "true"
+			"Value" "1"
+		}
+	]
+	"Message_3_Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "1b871a0d5d96e8b1410ea1da6c6bd164"
+			"Value" "1200"
+		}
+	]
+	"Responses" "1"
+	"Response_0_Dialogue" "0"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"ID" "14052"
+	"Asset_Bundle_Version" "1"
+}

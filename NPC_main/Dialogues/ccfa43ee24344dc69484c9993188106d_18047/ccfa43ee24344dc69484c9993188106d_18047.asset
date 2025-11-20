@@ -1,0 +1,65 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "ccfa43ee24344dc69484c9993188106d"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "1"
+	"Response_0_Dialogue" "0"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "26a7e4a191fda04286a94c5f2fdac7b4"
+			"ID" "28850"
+			"Value" "10"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "699e9f899d07957373dd4c721405f62a"
+			"ID" "28853"
+			"Value" "15"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "5b7a2db7bdacc7c71bac61026595354b"
+			"ID" "28851"
+			"Value" "15"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "69d38b4e0e8b1b5ecdb99dfdc7b54911"
+			"ID" "28852"
+			"Value" "15"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "b2569167164d6250aa41d05242c309a2"
+			"ID" "28859"
+			"Value" "15"
+			"Modification" "ASSIGN"
+		}
+	]
+	"ID" "18047"
+	"Asset_Bundle_Version" "1"
+}

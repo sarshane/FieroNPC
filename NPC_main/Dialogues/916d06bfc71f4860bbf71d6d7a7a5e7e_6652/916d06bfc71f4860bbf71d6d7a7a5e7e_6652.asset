@@ -1,0 +1,54 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "916d06bfc71f4860bbf71d6d7a7a5e7e"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "2"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "WEATHER_STATUS"
+			"TextId" "fa5c66a225696d4b28ec7cb5334b5d02"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"Value" "Active"
+			"GUID" "d73923f4416c43dfa5bc8b6234cf0257"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "2"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "WEATHER_STATUS"
+			"TextId" "09d04824b96077dbdd27196ebe2e3bd3"
+			"Reset" "false"
+			"Logic" "NOT_EQUAL"
+			"Value" "Active"
+			"GUID" "d73923f4416c43dfa5bc8b6234cf0257"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "1"
+	"Response_0_Dialogue" "147d40f0a0ff4f4995c36f3ad741ec45"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"ID" "6652"
+	"Asset_Bundle_Version" "1"
+}

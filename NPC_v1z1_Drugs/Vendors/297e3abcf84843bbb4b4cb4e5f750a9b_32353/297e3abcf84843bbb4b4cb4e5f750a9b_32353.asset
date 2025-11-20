@@ -1,0 +1,58 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "297e3abcf84843bbb4b4cb4e5f750a9b"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "3"
+	"Selling_0_Type" "ITEM"
+	"Selling_0_ID" "52103"
+	"Selling_0_Cost" "2500"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_1_Type" "ITEM"
+	"Selling_1_ID" "52204"
+	"Selling_1_Cost" "4000"
+	"Selling_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "81a1ac8971f9e9e61c8ca8d94deb1b40"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32054"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_2_Type" "ITEM"
+	"Selling_2_ID" "52208"
+	"Selling_2_Cost" "6000"
+	"Selling_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "1062ee18455ca09d52087dad4ec6266c"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32054"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"ID" "32353"
+	"Asset_Bundle_Version" "1"
+}

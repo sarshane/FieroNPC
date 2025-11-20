@@ -1,0 +1,103 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "da030b47cd344cd893f4b20d68a1098b"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "6"
+	"Selling_0_Type" "ITEM"
+	"Selling_0_ID" "1270"
+	"Selling_0_Cost" "3000"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_1_Type" "ITEM"
+	"Selling_1_ID" "1271"
+	"Selling_1_Cost" "300"
+	"Selling_1_Conditions"
+	[
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_2_Type" "ITEM"
+	"Selling_2_ID" "52021"
+	"Selling_2_Cost" "2000"
+	"Selling_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "2d518f2a3c9f81b8fc52a621e6957bfb"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32059"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"Selling_3_Type" "ITEM"
+	"Selling_3_ID" "52020"
+	"Selling_3_Cost" "2000"
+	"Selling_3_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "35ea97e0ca80b9e44fac63160fb68023"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32059"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Selling_3_Rewards"
+	[
+	]
+	"Selling_4_Type" "ITEM"
+	"Selling_4_ID" "51169"
+	"Selling_4_Cost" "2000"
+	"Selling_4_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "43a9142e76176d441ff0b398439549f1"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32059"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Selling_4_Rewards"
+	[
+	]
+	"Selling_5_Type" "ITEM"
+	"Selling_5_ID" "51168"
+	"Selling_5_Cost" "2000"
+	"Selling_5_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "2b90d98982cdfc1e07f5c96d9640ca84"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "32059"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"ID" "32358"
+	"Asset_Bundle_Version" "1"
+}

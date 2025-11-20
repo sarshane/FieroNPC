@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Name <color=#4B64FA>Пустить воду</color>
+Description <color=#FFFFFF>Турбина на старой ГЭС стоит без топлива и запчастей. Доставьте Майку полную канистру топлива и 5 кусков металлолома, чтобы запустить генераторы. Канистру можно приобрести на любой заправке.</color>
+80da2dd397e9a000556d2e70cf104e8f <color=#4B64FA>Канистра </color><color=#FFFFFF>{0}/1</color>
+8f03c1a351b1b8acc517dd9f343f9ff2 <color=#4B64FA>Металлолом </color><color=#FFFFFF>{0}/5</color>

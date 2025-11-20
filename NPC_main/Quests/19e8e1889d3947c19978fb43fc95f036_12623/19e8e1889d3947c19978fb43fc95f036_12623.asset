@@ -1,0 +1,66 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "19e8e1889d3947c19978fb43fc95f036"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "accc0f619c8cbabfa8878e32268ed55d"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "d4f05c60cf2c45369d977114292d6e76"
+			"Amount" "2"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "2feda7b4761ecd980289b1502a4f8e2b"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "294818ed019640568977c8d76cf602c2"
+			"Amount" "2"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "3b1cfc8007dc85be109baf07a1547037"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "ea89b9bfc7f04e0d8096533d4972c084"
+			"Amount" "2"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "c99da0fcef2475bb47cda5a7a4be5bb4"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "24c8d971a3224ec1b7d6ae05865038d8"
+			"Amount" "2"
+		}
+	]
+	"Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "8739481198ff03a715e9bc9c6404c0d6"
+			"ID" "1057"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"AbandonmentRewards"
+	[
+	]
+	"ID" "12623"
+	"Asset_Bundle_Version" "1"
+}

@@ -1,0 +1,102 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "34b17b94955b4510839ae3d639521933"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "2"
+	"Message_0_Pages" "2"
+	"Message_0_Responses" "1"
+	"Message_0_Response_0" "0"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "5be35ae6b1c751eebb778ca4b6e68832"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "814dd9f841a9492186e81b5c3524a2a5"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_0_Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "c63f59f945489d0d56c5aad916f18991"
+			"Value" "20"
+		}
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Responses" "2"
+	"Message_1_Response_0" "1"
+	"Message_1_Response_1" "2"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "805a1128e4bbc15fc7571f9d0b8b72b2"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "814dd9f841a9492186e81b5c3524a2a5"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "false"
+		}
+		{
+			"Type" "QUEST"
+			"TextId" "a7103c891bb87b083541552fc7035f92"
+			"Reset" "false"
+			"Logic" "NOT_EQUAL"
+			"ID" "814dd9f841a9492186e81b5c3524a2a5"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "7d15500792884b6380972faf0bd5dad3"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "0"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "33433e1fab5447e28ce004221f038568"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "6b353ab6fd1a6864078dfc04cf283757"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "814dd9f841a9492186e81b5c3524a2a5"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"ID" "63170"
+	"Asset_Bundle_Version" "4"
+}

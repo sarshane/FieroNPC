@@ -1,0 +1,220 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "de5803657a18489a824cd39d3cac91e0"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "23"
+	"Selling_0_Type" "ITEM"
+	"Selling_0_ID" "120"
+	"Selling_0_Cost" "125"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_1_Type" "ITEM"
+	"Selling_1_ID" "1030"
+	"Selling_1_Cost" "175"
+	"Selling_1_Conditions"
+	[
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_2_Type" "ITEM"
+	"Selling_2_ID" "47200"
+	"Selling_2_Cost" "500"
+	"Selling_2_Conditions"
+	[
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"Selling_3_Type" "ITEM"
+	"Selling_3_ID" "47201"
+	"Selling_3_Cost" "550"
+	"Selling_3_Conditions"
+	[
+	]
+	"Selling_3_Rewards"
+	[
+	]
+	"Selling_4_Type" "ITEM"
+	"Selling_4_ID" "47111"
+	"Selling_4_Cost" "150"
+	"Selling_4_Conditions"
+	[
+	]
+	"Selling_4_Rewards"
+	[
+	]
+	"Selling_5_Type" "ITEM"
+	"Selling_5_ID" "47112"
+	"Selling_5_Cost" "150"
+	"Selling_5_Conditions"
+	[
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"Selling_6_Type" "ITEM"
+	"Selling_6_ID" "47113"
+	"Selling_6_Cost" "150"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
+	[
+	]
+	"Selling_7_Type" "ITEM"
+	"Selling_7_ID" "47114"
+	"Selling_7_Cost" "200"
+	"Selling_7_Conditions"
+	[
+	]
+	"Selling_7_Rewards"
+	[
+	]
+	"Selling_8_Type" "ITEM"
+	"Selling_8_ID" "47115"
+	"Selling_8_Cost" "150"
+	"Selling_8_Conditions"
+	[
+	]
+	"Selling_8_Rewards"
+	[
+	]
+	"Selling_9_Type" "ITEM"
+	"Selling_9_ID" "47116"
+	"Selling_9_Cost" "150"
+	"Selling_9_Conditions"
+	[
+	]
+	"Selling_9_Rewards"
+	[
+	]
+	"Selling_10_Type" "ITEM"
+	"Selling_10_ID" "47117"
+	"Selling_10_Cost" "150"
+	"Selling_10_Conditions"
+	[
+	]
+	"Selling_10_Rewards"
+	[
+	]
+	"Selling_11_Type" "ITEM"
+	"Selling_11_ID" "47118"
+	"Selling_11_Cost" "200"
+	"Selling_11_Conditions"
+	[
+	]
+	"Selling_11_Rewards"
+	[
+	]
+	"Selling_12_Type" "ITEM"
+	"Selling_12_ID" "47348"
+	"Selling_12_Cost" "150"
+	"Selling_12_Conditions"
+	[
+	]
+	"Selling_12_Rewards"
+	[
+	]
+	"Selling_13_Type" "ITEM"
+	"Selling_13_ID" "47340"
+	"Selling_13_Cost" "150"
+	"Selling_13_Conditions"
+	[
+	]
+	"Selling_13_Rewards"
+	[
+	]
+	"Selling_14_Type" "ITEM"
+	"Selling_14_ID" "47341"
+	"Selling_14_Cost" "150"
+	"Selling_14_Conditions"
+	[
+	]
+	"Selling_14_Rewards"
+	[
+	]
+	"Selling_15_Type" "ITEM"
+	"Selling_15_ID" "47342"
+	"Selling_15_Cost" "150"
+	"Selling_15_Conditions"
+	[
+	]
+	"Selling_15_Rewards"
+	[
+	]
+	"Selling_16_Type" "ITEM"
+	"Selling_16_ID" "47344"
+	"Selling_16_Cost" "150"
+	"Selling_16_Conditions"
+	[
+	]
+	"Selling_16_Rewards"
+	[
+	]
+	"Selling_17_Type" "ITEM"
+	"Selling_17_ID" "47345"
+	"Selling_17_Cost" "150"
+	"Selling_17_Conditions"
+	[
+	]
+	"Selling_17_Rewards"
+	[
+	]
+	"Selling_18_Type" "ITEM"
+	"Selling_18_ID" "47346"
+	"Selling_18_Cost" "750"
+	"Selling_18_Conditions"
+	[
+	]
+	"Selling_18_Rewards"
+	[
+	]
+	"Selling_19_Type" "ITEM"
+	"Selling_19_ID" "47347"
+	"Selling_19_Cost" "750"
+	"Selling_19_Conditions"
+	[
+	]
+	"Selling_19_Rewards"
+	[
+	]
+	"Selling_20_Type" "ITEM"
+	"Selling_20_ID" "47349"
+	"Selling_20_Cost" "750"
+	"Selling_20_Conditions"
+	[
+	]
+	"Selling_20_Rewards"
+	[
+	]
+	"Selling_21_Type" "ITEM"
+	"Selling_21_ID" "1920"
+	"Selling_21_Cost" "3250"
+	"Selling_21_Conditions"
+	[
+	]
+	"Selling_21_Rewards"
+	[
+	]
+	"Selling_22_Type" "ITEM"
+	"Selling_22_ID" "1916"
+	"Selling_22_Cost" "1000"
+	"Selling_22_Conditions"
+	[
+	]
+	"Selling_22_Rewards"
+	[
+	]
+	"ID" "58112"
+	"Asset_Bundle_Version" "1"
+}

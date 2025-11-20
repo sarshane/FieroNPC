@@ -1,0 +1,483 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "64154bf64f0c46769ae8c6d85531dade"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "0"
+	"Selling" "47"
+	"Selling_0_Type" "VEHICLE"
+	"Selling_0_ID" "23860"
+	"Selling_0_Cost" "2000"
+	"Selling_0_Conditions"
+	[
+	]
+	"Selling_0_Rewards"
+	[
+	]
+	"Selling_0_Spawnpoint" "avto"
+	"Selling_1_Type" "VEHICLE"
+	"Selling_1_ID" "56017"
+	"Selling_1_Cost" "8000"
+	"Selling_1_Conditions"
+	[
+	]
+	"Selling_1_Rewards"
+	[
+	]
+	"Selling_1_Spawnpoint" "avto"
+	"Selling_2_Type" "VEHICLE"
+	"Selling_2_ID" "56073"
+	"Selling_2_Cost" "12000"
+	"Selling_2_Conditions"
+	[
+	]
+	"Selling_2_Rewards"
+	[
+	]
+	"Selling_2_Spawnpoint" "avto"
+	"Selling_3_Type" "VEHICLE"
+	"Selling_3_ID" "56090"
+	"Selling_3_Cost" "10000"
+	"Selling_3_Conditions"
+	[
+	]
+	"Selling_3_Rewards"
+	[
+	]
+	"Selling_3_Spawnpoint" "avto"
+	"Selling_4_Type" "VEHICLE"
+	"Selling_4_ID" "36018"
+	"Selling_4_Cost" "12000"
+	"Selling_4_Conditions"
+	[
+	]
+	"Selling_4_Rewards"
+	[
+	]
+	"Selling_4_Spawnpoint" "avto"
+	"Selling_5_Type" "VEHICLE"
+	"Selling_5_ID" "36039"
+	"Selling_5_Cost" "20000"
+	"Selling_5_Conditions"
+	[
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"Selling_5_Spawnpoint" "avto"
+	"Selling_6_Type" "VEHICLE"
+	"Selling_6_ID" "36078"
+	"Selling_6_Cost" "20000"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
+	[
+	]
+	"Selling_6_Spawnpoint" "avto"
+	"Selling_7_Type" "VEHICLE"
+	"Selling_7_ID" "36088"
+	"Selling_7_Cost" "25000"
+	"Selling_7_Conditions"
+	[
+	]
+	"Selling_7_Rewards"
+	[
+	]
+	"Selling_7_Spawnpoint" "avto"
+	"Selling_8_Type" "VEHICLE"
+	"Selling_8_ID" "36128"
+	"Selling_8_Cost" "10000"
+	"Selling_8_Conditions"
+	[
+	]
+	"Selling_8_Rewards"
+	[
+	]
+	"Selling_8_Spawnpoint" "avto"
+	"Selling_9_Type" "VEHICLE"
+	"Selling_9_ID" "36138"
+	"Selling_9_Cost" "10000"
+	"Selling_9_Conditions"
+	[
+	]
+	"Selling_9_Rewards"
+	[
+	]
+	"Selling_9_Spawnpoint" "avto"
+	"Selling_10_Type" "VEHICLE"
+	"Selling_10_ID" "36148"
+	"Selling_10_Cost" "12000"
+	"Selling_10_Conditions"
+	[
+	]
+	"Selling_10_Rewards"
+	[
+	]
+	"Selling_10_Spawnpoint" "avto"
+	"Selling_11_Type" "VEHICLE"
+	"Selling_11_ID" "36178"
+	"Selling_11_Cost" "8000"
+	"Selling_11_Conditions"
+	[
+	]
+	"Selling_11_Rewards"
+	[
+	]
+	"Selling_11_Spawnpoint" "avto"
+	"Selling_12_Type" "VEHICLE"
+	"Selling_12_ID" "36198"
+	"Selling_12_Cost" "12000"
+	"Selling_12_Conditions"
+	[
+	]
+	"Selling_12_Rewards"
+	[
+	]
+	"Selling_12_Spawnpoint" "avto"
+	"Selling_13_Type" "VEHICLE"
+	"Selling_13_ID" "36248"
+	"Selling_13_Cost" "20000"
+	"Selling_13_Conditions"
+	[
+	]
+	"Selling_13_Rewards"
+	[
+	]
+	"Selling_13_Spawnpoint" "avto"
+	"Selling_14_Type" "VEHICLE"
+	"Selling_14_ID" "36268"
+	"Selling_14_Cost" "27000"
+	"Selling_14_Conditions"
+	[
+	]
+	"Selling_14_Rewards"
+	[
+	]
+	"Selling_14_Spawnpoint" "avto"
+	"Selling_15_Type" "VEHICLE"
+	"Selling_15_ID" "36278"
+	"Selling_15_Cost" "12000"
+	"Selling_15_Conditions"
+	[
+	]
+	"Selling_15_Rewards"
+	[
+	]
+	"Selling_15_Spawnpoint" "avto"
+	"Selling_16_Type" "VEHICLE"
+	"Selling_16_ID" "36288"
+	"Selling_16_Cost" "9000"
+	"Selling_16_Conditions"
+	[
+	]
+	"Selling_16_Rewards"
+	[
+	]
+	"Selling_16_Spawnpoint" "avto"
+	"Selling_17_Type" "VEHICLE"
+	"Selling_17_ID" "36318"
+	"Selling_17_Cost" "18000"
+	"Selling_17_Conditions"
+	[
+	]
+	"Selling_17_Rewards"
+	[
+	]
+	"Selling_17_Spawnpoint" "avto"
+	"Selling_18_Type" "VEHICLE"
+	"Selling_18_ID" "36348"
+	"Selling_18_Cost" "10000"
+	"Selling_18_Conditions"
+	[
+	]
+	"Selling_18_Rewards"
+	[
+	]
+	"Selling_18_Spawnpoint" "avto"
+	"Selling_19_Type" "VEHICLE"
+	"Selling_19_ID" "36408"
+	"Selling_19_Cost" "40000"
+	"Selling_19_Conditions"
+	[
+	]
+	"Selling_19_Rewards"
+	[
+	]
+	"Selling_19_Spawnpoint" "avto"
+	"Selling_20_Type" "VEHICLE"
+	"Selling_20_ID" "36488"
+	"Selling_20_Cost" "12000"
+	"Selling_20_Conditions"
+	[
+	]
+	"Selling_20_Rewards"
+	[
+	]
+	"Selling_20_Spawnpoint" "avto"
+	"Selling_21_Type" "VEHICLE"
+	"Selling_21_ID" "36498"
+	"Selling_21_Cost" "15000"
+	"Selling_21_Conditions"
+	[
+	]
+	"Selling_21_Rewards"
+	[
+	]
+	"Selling_21_Spawnpoint" "avto"
+	"Selling_22_Type" "VEHICLE"
+	"Selling_22_ID" "36568"
+	"Selling_22_Cost" "55000"
+	"Selling_22_Conditions"
+	[
+	]
+	"Selling_22_Rewards"
+	[
+	]
+	"Selling_22_Spawnpoint" "avto"
+	"Selling_23_Type" "VEHICLE"
+	"Selling_23_ID" "36628"
+	"Selling_23_Cost" "25000"
+	"Selling_23_Conditions"
+	[
+	]
+	"Selling_23_Rewards"
+	[
+	]
+	"Selling_23_Spawnpoint" "avto"
+	"Selling_24_Type" "VEHICLE"
+	"Selling_24_ID" "36658"
+	"Selling_24_Cost" "10000"
+	"Selling_24_Conditions"
+	[
+	]
+	"Selling_24_Rewards"
+	[
+	]
+	"Selling_24_Spawnpoint" "avto"
+	"Selling_25_Type" "VEHICLE"
+	"Selling_25_ID" "36708"
+	"Selling_25_Cost" "22000"
+	"Selling_25_Conditions"
+	[
+	]
+	"Selling_25_Rewards"
+	[
+	]
+	"Selling_25_Spawnpoint" "avto"
+	"Selling_26_Type" "VEHICLE"
+	"Selling_26_ID" "36228"
+	"Selling_26_Cost" "16000"
+	"Selling_26_Conditions"
+	[
+	]
+	"Selling_26_Rewards"
+	[
+	]
+	"Selling_26_Spawnpoint" "avto"
+	"Selling_27_Type" "VEHICLE"
+	"Selling_27_ID" "36229"
+	"Selling_27_Cost" "21000"
+	"Selling_27_Conditions"
+	[
+	]
+	"Selling_27_Rewards"
+	[
+	]
+	"Selling_27_Spawnpoint" "avto"
+	"Selling_28_Type" "VEHICLE"
+	"Selling_28_ID" "36588"
+	"Selling_28_Cost" "22000"
+	"Selling_28_Conditions"
+	[
+	]
+	"Selling_28_Rewards"
+	[
+	]
+	"Selling_28_Spawnpoint" "avto"
+	"Selling_29_Type" "VEHICLE"
+	"Selling_29_ID" "36629"
+	"Selling_29_Cost" "25000"
+	"Selling_29_Conditions"
+	[
+	]
+	"Selling_29_Rewards"
+	[
+	]
+	"Selling_29_Spawnpoint" "avto"
+	"Selling_30_Type" "VEHICLE"
+	"Selling_30_ID" "36648"
+	"Selling_30_Cost" "8000"
+	"Selling_30_Conditions"
+	[
+	]
+	"Selling_30_Rewards"
+	[
+	]
+	"Selling_30_Spawnpoint" "avto"
+	"Selling_31_Type" "VEHICLE"
+	"Selling_31_ID" "36848"
+	"Selling_31_Cost" "16000"
+	"Selling_31_Conditions"
+	[
+	]
+	"Selling_31_Rewards"
+	[
+	]
+	"Selling_31_Spawnpoint" "avto"
+	"Selling_32_Type" "VEHICLE"
+	"Selling_32_ID" "36858"
+	"Selling_32_Cost" "18000"
+	"Selling_32_Conditions"
+	[
+	]
+	"Selling_32_Rewards"
+	[
+	]
+	"Selling_32_Spawnpoint" "avto"
+	"Selling_33_Type" "VEHICLE"
+	"Selling_33_ID" "36938"
+	"Selling_33_Cost" "20000"
+	"Selling_33_Conditions"
+	[
+	]
+	"Selling_33_Rewards"
+	[
+	]
+	"Selling_33_Spawnpoint" "avto"
+	"Selling_34_Type" "VEHICLE"
+	"Selling_34_ID" "47134"
+	"Selling_34_Cost" "12000"
+	"Selling_34_Conditions"
+	[
+	]
+	"Selling_34_Rewards"
+	[
+	]
+	"Selling_34_Spawnpoint" "avto"
+	"Selling_35_Type" "VEHICLE"
+	"Selling_35_ID" "47135"
+	"Selling_35_Cost" "22000"
+	"Selling_35_Conditions"
+	[
+	]
+	"Selling_35_Rewards"
+	[
+	]
+	"Selling_35_Spawnpoint" "avto"
+	"Selling_36_Type" "VEHICLE"
+	"Selling_36_ID" "47136"
+	"Selling_36_Cost" "16000"
+	"Selling_36_Conditions"
+	[
+	]
+	"Selling_36_Rewards"
+	[
+	]
+	"Selling_36_Spawnpoint" "avto"
+	"Selling_37_Type" "VEHICLE"
+	"Selling_37_ID" "47179"
+	"Selling_37_Cost" "18000"
+	"Selling_37_Conditions"
+	[
+	]
+	"Selling_37_Rewards"
+	[
+	]
+	"Selling_37_Spawnpoint" "avto"
+	"Selling_38_Type" "VEHICLE"
+	"Selling_38_ID" "47198"
+	"Selling_38_Cost" "13000"
+	"Selling_38_Conditions"
+	[
+	]
+	"Selling_38_Rewards"
+	[
+	]
+	"Selling_38_Spawnpoint" "avto"
+	"Selling_39_Type" "VEHICLE"
+	"Selling_39_ID" "47240"
+	"Selling_39_Cost" "3500"
+	"Selling_39_Conditions"
+	[
+	]
+	"Selling_39_Rewards"
+	[
+	]
+	"Selling_39_Spawnpoint" "avto"
+	"Selling_40_Type" "VEHICLE"
+	"Selling_40_ID" "188"
+	"Selling_40_Cost" "1800"
+	"Selling_40_Conditions"
+	[
+	]
+	"Selling_40_Rewards"
+	[
+	]
+	"Selling_40_Spawnpoint" "avto"
+	"Selling_41_Type" "VEHICLE"
+	"Selling_41_ID" "33"
+	"Selling_41_Cost" "4000"
+	"Selling_41_Conditions"
+	[
+	]
+	"Selling_41_Rewards"
+	[
+	]
+	"Selling_41_Spawnpoint" "avto"
+	"Selling_42_Type" "VEHICLE"
+	"Selling_42_ID" "106"
+	"Selling_42_Cost" "30000"
+	"Selling_42_Conditions"
+	[
+	]
+	"Selling_42_Rewards"
+	[
+	]
+	"Selling_42_Spawnpoint" "avto"
+	"Selling_43_Type" "VEHICLE"
+	"Selling_43_ID" "108"
+	"Selling_43_Cost" "4000"
+	"Selling_43_Conditions"
+	[
+	]
+	"Selling_43_Rewards"
+	[
+	]
+	"Selling_43_Spawnpoint" "water"
+	"Selling_44_Type" "VEHICLE"
+	"Selling_44_ID" "29042"
+	"Selling_44_Cost" "5000"
+	"Selling_44_Conditions"
+	[
+	]
+	"Selling_44_Rewards"
+	[
+	]
+	"Selling_44_Spawnpoint" "avto"
+	"Selling_45_Type" "VEHICLE"
+	"Selling_45_ID" "4000"
+	"Selling_45_Cost" "8000"
+	"Selling_45_Conditions"
+	[
+	]
+	"Selling_45_Rewards"
+	[
+	]
+	"Selling_45_Spawnpoint" "avto"
+	"Selling_46_Type" "VEHICLE"
+	"Selling_46_ID" "36821"
+	"Selling_46_Cost" "6000"
+	"Selling_46_Conditions"
+	[
+	]
+	"Selling_46_Rewards"
+	[
+	]
+	"Selling_46_Spawnpoint" "water"
+	"ID" "17847"
+	"Asset_Bundle_Version" "1"
+}

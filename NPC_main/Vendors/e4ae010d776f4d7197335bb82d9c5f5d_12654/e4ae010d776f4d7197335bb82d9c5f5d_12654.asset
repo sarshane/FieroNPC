@@ -1,0 +1,709 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "e4ae010d776f4d7197335bb82d9c5f5d"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "87"
+	"Buying_0_ID" "58045"
+	"Buying_0_Cost" "4499"
+	"Buying_0_Conditions"
+	[
+	]
+	"Buying_0_Rewards"
+	[
+	]
+	"Buying_1_ID" "58046"
+	"Buying_1_Cost" "5999"
+	"Buying_1_Conditions"
+	[
+	]
+	"Buying_1_Rewards"
+	[
+	]
+	"Buying_2_ID" "58183"
+	"Buying_2_Cost" "1999"
+	"Buying_2_Conditions"
+	[
+	]
+	"Buying_2_Rewards"
+	[
+	]
+	"Buying_3_ID" "58199"
+	"Buying_3_Cost" "899"
+	"Buying_3_Conditions"
+	[
+	]
+	"Buying_3_Rewards"
+	[
+	]
+	"Buying_4_ID" "58229"
+	"Buying_4_Cost" "999"
+	"Buying_4_Conditions"
+	[
+	]
+	"Buying_4_Rewards"
+	[
+	]
+	"Buying_5_ID" "58322"
+	"Buying_5_Cost" "99"
+	"Buying_5_Conditions"
+	[
+	]
+	"Buying_5_Rewards"
+	[
+	]
+	"Buying_6_ID" "58428"
+	"Buying_6_Cost" "7999"
+	"Buying_6_Conditions"
+	[
+	]
+	"Buying_6_Rewards"
+	[
+	]
+	"Buying_7_ID" "58448"
+	"Buying_7_Cost" "5999"
+	"Buying_7_Conditions"
+	[
+	]
+	"Buying_7_Rewards"
+	[
+	]
+	"Buying_8_ID" "58449"
+	"Buying_8_Cost" "7999"
+	"Buying_8_Conditions"
+	[
+	]
+	"Buying_8_Rewards"
+	[
+	]
+	"Buying_9_ID" "58542"
+	"Buying_9_Cost" "5999"
+	"Buying_9_Conditions"
+	[
+	]
+	"Buying_9_Rewards"
+	[
+	]
+	"Buying_10_ID" "58661"
+	"Buying_10_Cost" "4499"
+	"Buying_10_Conditions"
+	[
+	]
+	"Buying_10_Rewards"
+	[
+	]
+	"Buying_11_ID" "58662"
+	"Buying_11_Cost" "4499"
+	"Buying_11_Conditions"
+	[
+	]
+	"Buying_11_Rewards"
+	[
+	]
+	"Buying_12_ID" "58828"
+	"Buying_12_Cost" "4499"
+	"Buying_12_Conditions"
+	[
+	]
+	"Buying_12_Rewards"
+	[
+	]
+	"Buying_13_ID" "58136"
+	"Buying_13_Cost" "2999"
+	"Buying_13_Conditions"
+	[
+	]
+	"Buying_13_Rewards"
+	[
+	]
+	"Buying_14_ID" "58198"
+	"Buying_14_Cost" "990"
+	"Buying_14_Conditions"
+	[
+	]
+	"Buying_14_Rewards"
+	[
+	]
+	"Buying_15_ID" "58226"
+	"Buying_15_Cost" "1599"
+	"Buying_15_Conditions"
+	[
+	]
+	"Buying_15_Rewards"
+	[
+	]
+	"Buying_16_ID" "58227"
+	"Buying_16_Cost" "1599"
+	"Buying_16_Conditions"
+	[
+	]
+	"Buying_16_Rewards"
+	[
+	]
+	"Buying_17_ID" "58249"
+	"Buying_17_Cost" "1599"
+	"Buying_17_Conditions"
+	[
+	]
+	"Buying_17_Rewards"
+	[
+	]
+	"Buying_18_ID" "58259"
+	"Buying_18_Cost" "2999"
+	"Buying_18_Conditions"
+	[
+	]
+	"Buying_18_Rewards"
+	[
+	]
+	"Buying_19_ID" "58352"
+	"Buying_19_Cost" "990"
+	"Buying_19_Conditions"
+	[
+	]
+	"Buying_19_Rewards"
+	[
+	]
+	"Buying_20_ID" "58400"
+	"Buying_20_Cost" "2999"
+	"Buying_20_Conditions"
+	[
+	]
+	"Buying_20_Rewards"
+	[
+	]
+	"Buying_21_ID" "58436"
+	"Buying_21_Cost" "2999"
+	"Buying_21_Conditions"
+	[
+	]
+	"Buying_21_Rewards"
+	[
+	]
+	"Buying_22_ID" "58452"
+	"Buying_22_Cost" "2999"
+	"Buying_22_Conditions"
+	[
+	]
+	"Buying_22_Rewards"
+	[
+	]
+	"Buying_23_ID" "58595"
+	"Buying_23_Cost" "990"
+	"Buying_23_Conditions"
+	[
+	]
+	"Buying_23_Rewards"
+	[
+	]
+	"Buying_24_ID" "58761"
+	"Buying_24_Cost" "2999"
+	"Buying_24_Conditions"
+	[
+	]
+	"Buying_24_Rewards"
+	[
+	]
+	"Buying_25_ID" "58037"
+	"Buying_25_Cost" "2999"
+	"Buying_25_Conditions"
+	[
+	]
+	"Buying_25_Rewards"
+	[
+	]
+	"Buying_26_ID" "58039"
+	"Buying_26_Cost" "990"
+	"Buying_26_Conditions"
+	[
+	]
+	"Buying_26_Rewards"
+	[
+	]
+	"Buying_27_ID" "58040"
+	"Buying_27_Cost" "990"
+	"Buying_27_Conditions"
+	[
+	]
+	"Buying_27_Rewards"
+	[
+	]
+	"Buying_28_ID" "58219"
+	"Buying_28_Cost" "990"
+	"Buying_28_Conditions"
+	[
+	]
+	"Buying_28_Rewards"
+	[
+	]
+	"Buying_29_ID" "58459"
+	"Buying_29_Cost" "2999"
+	"Buying_29_Conditions"
+	[
+	]
+	"Buying_29_Rewards"
+	[
+	]
+	"Buying_30_ID" "58460"
+	"Buying_30_Cost" "2999"
+	"Buying_30_Conditions"
+	[
+	]
+	"Buying_30_Rewards"
+	[
+	]
+	"Buying_31_ID" "58462"
+	"Buying_31_Cost" "2999"
+	"Buying_31_Conditions"
+	[
+	]
+	"Buying_31_Rewards"
+	[
+	]
+	"Buying_32_ID" "58468"
+	"Buying_32_Cost" "1999"
+	"Buying_32_Conditions"
+	[
+	]
+	"Buying_32_Rewards"
+	[
+	]
+	"Buying_33_ID" "58009"
+	"Buying_33_Cost" "2999"
+	"Buying_33_Conditions"
+	[
+	]
+	"Buying_33_Rewards"
+	[
+	]
+	"Buying_34_ID" "58029"
+	"Buying_34_Cost" "1599"
+	"Buying_34_Conditions"
+	[
+	]
+	"Buying_34_Rewards"
+	[
+	]
+	"Buying_35_ID" "58041"
+	"Buying_35_Cost" "7999"
+	"Buying_35_Conditions"
+	[
+	]
+	"Buying_35_Rewards"
+	[
+	]
+	"Buying_36_ID" "58065"
+	"Buying_36_Cost" "990"
+	"Buying_36_Conditions"
+	[
+	]
+	"Buying_36_Rewards"
+	[
+	]
+	"Buying_37_ID" "58218"
+	"Buying_37_Cost" "899"
+	"Buying_37_Conditions"
+	[
+	]
+	"Buying_37_Rewards"
+	[
+	]
+	"Buying_38_ID" "58364"
+	"Buying_38_Cost" "899"
+	"Buying_38_Conditions"
+	[
+	]
+	"Buying_38_Rewards"
+	[
+	]
+	"Buying_39_ID" "58365"
+	"Buying_39_Cost" "899"
+	"Buying_39_Conditions"
+	[
+	]
+	"Buying_39_Rewards"
+	[
+	]
+	"Buying_40_ID" "58374"
+	"Buying_40_Cost" "899"
+	"Buying_40_Conditions"
+	[
+	]
+	"Buying_40_Rewards"
+	[
+	]
+	"Buying_41_ID" "58386"
+	"Buying_41_Cost" "1999"
+	"Buying_41_Conditions"
+	[
+	]
+	"Buying_41_Rewards"
+	[
+	]
+	"Buying_42_ID" "58396"
+	"Buying_42_Cost" "1599"
+	"Buying_42_Conditions"
+	[
+	]
+	"Buying_42_Rewards"
+	[
+	]
+	"Buying_43_ID" "58688"
+	"Buying_43_Cost" "1599"
+	"Buying_43_Conditions"
+	[
+	]
+	"Buying_43_Rewards"
+	[
+	]
+	"Buying_44_ID" "58010"
+	"Buying_44_Cost" "1999"
+	"Buying_44_Conditions"
+	[
+	]
+	"Buying_44_Rewards"
+	[
+	]
+	"Buying_45_ID" "58044"
+	"Buying_45_Cost" "1999"
+	"Buying_45_Conditions"
+	[
+	]
+	"Buying_45_Rewards"
+	[
+	]
+	"Buying_46_ID" "58148"
+	"Buying_46_Cost" "2999"
+	"Buying_46_Conditions"
+	[
+	]
+	"Buying_46_Rewards"
+	[
+	]
+	"Buying_47_ID" "58154"
+	"Buying_47_Cost" "2999"
+	"Buying_47_Conditions"
+	[
+	]
+	"Buying_47_Rewards"
+	[
+	]
+	"Buying_48_ID" "58306"
+	"Buying_48_Cost" "899"
+	"Buying_48_Conditions"
+	[
+	]
+	"Buying_48_Rewards"
+	[
+	]
+	"Buying_49_ID" "58767"
+	"Buying_49_Cost" "1999"
+	"Buying_49_Conditions"
+	[
+	]
+	"Buying_49_Rewards"
+	[
+	]
+	"Buying_50_ID" "58597"
+	"Buying_50_Cost" "2999"
+	"Buying_50_Conditions"
+	[
+	]
+	"Buying_50_Rewards"
+	[
+	]
+	"Buying_51_ID" "58350"
+	"Buying_51_Cost" "4499"
+	"Buying_51_Conditions"
+	[
+	]
+	"Buying_51_Rewards"
+	[
+	]
+	"Buying_52_ID" "58351"
+	"Buying_52_Cost" "2999"
+	"Buying_52_Conditions"
+	[
+	]
+	"Buying_52_Rewards"
+	[
+	]
+	"Buying_53_ID" "58184"
+	"Buying_53_Cost" "7999"
+	"Buying_53_Conditions"
+	[
+	]
+	"Buying_53_Rewards"
+	[
+	]
+	"Buying_54_ID" "58280"
+	"Buying_54_Cost" "5999"
+	"Buying_54_Conditions"
+	[
+	]
+	"Buying_54_Rewards"
+	[
+	]
+	"Buying_55_ID" "58281"
+	"Buying_55_Cost" "4499"
+	"Buying_55_Conditions"
+	[
+	]
+	"Buying_55_Rewards"
+	[
+	]
+	"Buying_56_ID" "58282"
+	"Buying_56_Cost" "4499"
+	"Buying_56_Conditions"
+	[
+	]
+	"Buying_56_Rewards"
+	[
+	]
+	"Buying_57_ID" "58283"
+	"Buying_57_Cost" "4499"
+	"Buying_57_Conditions"
+	[
+	]
+	"Buying_57_Rewards"
+	[
+	]
+	"Buying_58_ID" "58284"
+	"Buying_58_Cost" "4499"
+	"Buying_58_Conditions"
+	[
+	]
+	"Buying_58_Rewards"
+	[
+	]
+	"Buying_59_ID" "58285"
+	"Buying_59_Cost" "4499"
+	"Buying_59_Conditions"
+	[
+	]
+	"Buying_59_Rewards"
+	[
+	]
+	"Buying_60_ID" "58286"
+	"Buying_60_Cost" "4499"
+	"Buying_60_Conditions"
+	[
+	]
+	"Buying_60_Rewards"
+	[
+	]
+	"Buying_61_ID" "58309"
+	"Buying_61_Cost" "5999"
+	"Buying_61_Conditions"
+	[
+	]
+	"Buying_61_Rewards"
+	[
+	]
+	"Buying_62_ID" "58310"
+	"Buying_62_Cost" "5999"
+	"Buying_62_Conditions"
+	[
+	]
+	"Buying_62_Rewards"
+	[
+	]
+	"Buying_63_ID" "58036"
+	"Buying_63_Cost" "1199"
+	"Buying_63_Conditions"
+	[
+	]
+	"Buying_63_Rewards"
+	[
+	]
+	"Buying_64_ID" "58311"
+	"Buying_64_Cost" "899"
+	"Buying_64_Conditions"
+	[
+	]
+	"Buying_64_Rewards"
+	[
+	]
+	"Buying_65_ID" "58650"
+	"Buying_65_Cost" "1199"
+	"Buying_65_Conditions"
+	[
+	]
+	"Buying_65_Rewards"
+	[
+	]
+	"Buying_66_ID" "58651"
+	"Buying_66_Cost" "899"
+	"Buying_66_Conditions"
+	[
+	]
+	"Buying_66_Rewards"
+	[
+	]
+	"Buying_67_ID" "58050"
+	"Buying_67_Cost" "5999"
+	"Buying_67_Conditions"
+	[
+	]
+	"Buying_67_Rewards"
+	[
+	]
+	"Buying_68_ID" "58061"
+	"Buying_68_Cost" "990"
+	"Buying_68_Conditions"
+	[
+	]
+	"Buying_68_Rewards"
+	[
+	]
+	"Buying_69_ID" "58062"
+	"Buying_69_Cost" "5999"
+	"Buying_69_Conditions"
+	[
+	]
+	"Buying_69_Rewards"
+	[
+	]
+	"Buying_70_ID" "58066"
+	"Buying_70_Cost" "990"
+	"Buying_70_Conditions"
+	[
+	]
+	"Buying_70_Rewards"
+	[
+	]
+	"Buying_71_ID" "58069"
+	"Buying_71_Cost" "990"
+	"Buying_71_Conditions"
+	[
+	]
+	"Buying_71_Rewards"
+	[
+	]
+	"Buying_72_ID" "58080"
+	"Buying_72_Cost" "8000"
+	"Buying_72_Conditions"
+	[
+	]
+	"Buying_72_Rewards"
+	[
+	]
+	"Buying_73_ID" "58094"
+	"Buying_73_Cost" "1999"
+	"Buying_73_Conditions"
+	[
+	]
+	"Buying_73_Rewards"
+	[
+	]
+	"Buying_74_ID" "58095"
+	"Buying_74_Cost" "1999"
+	"Buying_74_Conditions"
+	[
+	]
+	"Buying_74_Rewards"
+	[
+	]
+	"Buying_75_ID" "58096"
+	"Buying_75_Cost" "999"
+	"Buying_75_Conditions"
+	[
+	]
+	"Buying_75_Rewards"
+	[
+	]
+	"Buying_76_ID" "58099"
+	"Buying_76_Cost" "8000"
+	"Buying_76_Conditions"
+	[
+	]
+	"Buying_76_Rewards"
+	[
+	]
+	"Buying_77_ID" "58102"
+	"Buying_77_Cost" "4499"
+	"Buying_77_Conditions"
+	[
+	]
+	"Buying_77_Rewards"
+	[
+	]
+	"Buying_78_ID" "58103"
+	"Buying_78_Cost" "4499"
+	"Buying_78_Conditions"
+	[
+	]
+	"Buying_78_Rewards"
+	[
+	]
+	"Buying_79_ID" "58104"
+	"Buying_79_Cost" "4499"
+	"Buying_79_Conditions"
+	[
+	]
+	"Buying_79_Rewards"
+	[
+	]
+	"Buying_80_ID" "58121"
+	"Buying_80_Cost" "1999"
+	"Buying_80_Conditions"
+	[
+	]
+	"Buying_80_Rewards"
+	[
+	]
+	"Buying_81_ID" "58140"
+	"Buying_81_Cost" "5999"
+	"Buying_81_Conditions"
+	[
+	]
+	"Buying_81_Rewards"
+	[
+	]
+	"Buying_82_ID" "58166"
+	"Buying_82_Cost" "2999"
+	"Buying_82_Conditions"
+	[
+	]
+	"Buying_82_Rewards"
+	[
+	]
+	"Buying_83_ID" "58167"
+	"Buying_83_Cost" "1199"
+	"Buying_83_Conditions"
+	[
+	]
+	"Buying_83_Rewards"
+	[
+	]
+	"Buying_84_ID" "58168"
+	"Buying_84_Cost" "1999"
+	"Buying_84_Conditions"
+	[
+	]
+	"Buying_84_Rewards"
+	[
+	]
+	"Buying_85_ID" "58214"
+	"Buying_85_Cost" "1999"
+	"Buying_85_Conditions"
+	[
+	]
+	"Buying_85_Rewards"
+	[
+	]
+	"Buying_86_ID" "58429"
+	"Buying_86_Cost" "1199"
+	"Buying_86_Conditions"
+	[
+	]
+	"Buying_86_Rewards"
+	[
+	]
+	"Selling" "0"
+	"ID" "12654"
+	"Asset_Bundle_Version" "1"
+}

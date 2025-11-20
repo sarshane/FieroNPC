@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=White> Здарова, <name_char>, опять ты тут? </color>
+Message_1_Page_0 <color=White> Здравствуйте, впервые вас вижу, вы зачем здесь? </color>
+Response_0  <color=#E0FFFF>  Мне нужны документы </color> 
+Response_1  <color=#E0FFFF>  Я тут не очень давно. </color> 
+Response_2  <color=#E0FFFF>  Ты кто такой? </color> 
+Response_3  <color=#E0FFFF>  Выйти </color> 

@@ -1,0 +1,261 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "5ad583db11974293b0f1c23954a75a73"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "8"
+	"Response_0_Dialogue" "b11291dd17e748938414cb171c3960ab"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "0207a1eea50853e34c057079f95f683e"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "c0b0f4a9f46c49a59f4558210bf36da5"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "bf99c272fba868abfb2cac1b3e65591b"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "796932f416274112879175ef57274afd"
+			"Amount" "9"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "b9f57a7b270b332eec83d9d35c36439d"
+			"ID" "28733"
+			"Amount" "3"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_1_Dialogue" "b11291dd17e748938414cb171c3960ab"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "3a722cad03a372afb49aee4744bd34b9"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "c0b0f4a9f46c49a59f4558210bf36da5"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "97bf60b432cfee203e0050aaab313630"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "b84ca54360c747c08f55e9e72cdc3f7a"
+			"Amount" "9"
+		}
+	]
+	"Response_1_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "879b0f2361f2b3b460cee5d60cc2cab8"
+			"ID" "28734"
+			"Amount" "3"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_2_Dialogue" "b11291dd17e748938414cb171c3960ab"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "d2995053a83208186955a85e4179f727"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "c0b0f4a9f46c49a59f4558210bf36da5"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "4547ab18270e2bad8ebc854d6889649b"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "fed7f5e1ed584862ac5667118311ee9b"
+			"Amount" "9"
+		}
+	]
+	"Response_2_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "c0dce3e9e1023d77769abea57295eabb"
+			"ID" "28735"
+			"Amount" "3"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_3_Dialogue" "b11291dd17e748938414cb171c3960ab"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "89d2244f46f0a9db1d30c82a8d0c5353"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "c0b0f4a9f46c49a59f4558210bf36da5"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "c5ba9df5b47d8f73e1f9312ecbd7f2fc"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "77c2168e6fb5405aadb5f41b074a96e0"
+			"Amount" "9"
+		}
+	]
+	"Response_3_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "36bb89f90decbc5bf3bdc88cbbe766da"
+			"ID" "28736"
+			"Amount" "3"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_4_Dialogue" "b11291dd17e748938414cb171c3960ab"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "0"
+	"Response_4_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "fdc21b2cdd319968c570247ba3954567"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "c0b0f4a9f46c49a59f4558210bf36da5"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "2358e7cc927c8b816f1661bb1d1fceee"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "543567f329764dbd970c27cf0c42b6d4"
+			"Amount" "9"
+		}
+	]
+	"Response_4_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "501c9c4046e58348928b681baa8dca10"
+			"ID" "28737"
+			"Amount" "3"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_5_Dialogue" "b11291dd17e748938414cb171c3960ab"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "0"
+	"Response_5_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "bfd3d3828162b288d9f52b47562a382b"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "c0b0f4a9f46c49a59f4558210bf36da5"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "91778716148b40fffc763d35c6b02e41"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "4e138f97565d480b86457ddb0b89510a"
+			"Amount" "9"
+		}
+	]
+	"Response_5_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "4cc1b35c14499f78e9ac36fc671aaee2"
+			"ID" "28738"
+			"Amount" "3"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_6_Dialogue" "b11291dd17e748938414cb171c3960ab"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "0"
+	"Response_6_Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "78fd8cd6154fd7427f8d0193f0568d06"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "c0b0f4a9f46c49a59f4558210bf36da5"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "9435d74af61cba51794949aa5ccca3d7"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "f892a49670c145db940a92261d6f91bf"
+			"Amount" "9"
+		}
+	]
+	"Response_6_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "c314a3592ca89bed17abc6f2f81a8ced"
+			"ID" "28739"
+			"Amount" "3"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_7_Dialogue" "0"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "0"
+	"Response_7_Conditions"
+	[
+	]
+	"Response_7_Rewards"
+	[
+	]
+	"ID" "18478"
+	"Asset_Bundle_Version" "1"
+}

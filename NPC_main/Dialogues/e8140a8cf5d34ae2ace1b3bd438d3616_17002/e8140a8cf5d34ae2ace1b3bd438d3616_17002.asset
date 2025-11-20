@@ -1,0 +1,146 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "e8140a8cf5d34ae2ace1b3bd438d3616"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "c04b28a33d464f03abcbd5b31c3f78fc"
+	"Response_0_Quest" "0"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "c29fa2bd5332627f171727d4fcffd2be"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "97"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "05b9def541f21cd8867ef80097a9a4ce"
+			"ID" "14"
+			"Amount" "2"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "ba268d35eb6dbdd0605e5db1457f5b8f"
+			"ID" "82"
+			"Amount" "2"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_1_Dialogue" "c04b28a33d464f03abcbd5b31c3f78fc"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "8320cee4b60585c839e812db789fceeb"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "163"
+		}
+	]
+	"Response_1_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "c47b79af294e1ee98507b6c3f7eb0959"
+			"ID" "14"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "5c65920c7ab52e9427c1312ecb0ee23c"
+			"ID" "80"
+			"Amount" "2"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "96ab466be4b4e17a80189c7e84a91f8f"
+			"ID" "1398"
+			"Amount" "1"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "6a1f0b0835d6f17b5e0807ae9ef1ca91"
+			"ID" "1405"
+			"Amount" "2"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "false"
+			"Origin" "CRAFT"
+		}
+	]
+	"Response_2_Dialogue" "0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"ID" "17002"
+	"Asset_Bundle_Version" "1"
+}

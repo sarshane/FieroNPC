@@ -1,0 +1,76 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "f437db42ad2c4845b1c9cd7ef7ed7403"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Is_Gore" "false"
+	"Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "41c31a43d4d6c88f8cee923cd1c545d0"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "12017"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "97fec61abc1a3dec54c9d62da9eb4bf6"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "12017"
+			"Allow_Unset" "true"
+			"Value" "false"
+		}
+	]
+	"Type" "SMALL"
+	"Chart" "NONE"
+	"Causes_Fall_Damage" "true"
+	"Exclude_From_Culling_Volumes" "false"
+	"LOD" "NONE"
+	"Interactability" "QUEST"
+	"Interactability_Hint" "CUSTOM"
+	"Interactability_Power" "NONE"
+	"Interactability_Editor" "NONE"
+	"Interactability_Nav" "NONE"
+	"Interactability_Drops" "0"
+	"Interactability_RewardItem_Origin" "NATURE"
+	"Interactability_Effect" "7"
+	"Interactability_Conditions"
+	[
+	]
+	"Interactability_Rewards"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "b843c86bcfb848697a326b2d027dcc49"
+			"ID" "12017"
+			"Value" "true"
+		}
+		{
+			"Type" "HINT"
+			"TextId" "53fa9fdd23f8f6b8bb1486f1298e17e9"
+			"Duration" "5"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "642440ee732afe0efeefa4e34c5fa525"
+			"ID" "42134"
+			"Value" "50"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Add_Kill_Triggers" "false"
+	"Landmark_Quality" "LOW"
+	"Has_Clip_Prefab" "false"
+	"Exclude_From_Level_Batching" "false"
+	"ID" "13005"
+	"Master_Bundle_Override" "mm_objects.masterbundle"
+	"Bundle_Override_Path" "/Objects/Medium/Furniture/MM_Electricity_2"
+	"Asset_Bundle_Version" "4"
+}

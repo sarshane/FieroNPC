@@ -1,0 +1,89 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "2283a9bb973c49e5a333d7ed25de9492"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "1"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+	]
+	"Message_0_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "bf9eba5a131ef6f2bd2ae20b83e6c6fa"
+			"ID" "4545"
+			"Value" "5"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Responses" "4"
+	"Response_0_Dialogue" "6e7bbdb154f0432cabf977c83313848e"
+	"Response_0_Quest" "463607e113f640adacb3942f889e9f4a"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "27213dfa7fe99a586d4c4e9625628769"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "4589"
+			"Status" "READY"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "8bc9eda0277896a2c21f2b1fec654d23"
+			"ID" "4545"
+			"Value" "5"
+			"Modification" "ASSIGN"
+		}
+	]
+	"Response_1_Dialogue" "580be5bcb5264cd9a700c81767990f3b"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "faedcf92597f450c8bca3846a6798b3b"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "2462a335ba6c0309f451dbe49961dd0f"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "4590"
+			"Status" "READY"
+			"Ignore_NPC" "true"
+		}
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "0"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"ID" "5678"
+	"Asset_Bundle_Version" "1"
+}

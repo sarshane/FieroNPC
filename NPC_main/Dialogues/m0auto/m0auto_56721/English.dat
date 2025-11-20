@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Для начала вам нужно узнать его цену, посмотрите на машину и пропишите: /carcost 
+Message_0_Page_1 Если вам цена приемлема и вы хотите купить автомобиль, пропишите: /vbuy
+Message_0_Page_2 При прописывании всех команд нужно смотреть на автомобиль!
+Response_0 Спасибо!

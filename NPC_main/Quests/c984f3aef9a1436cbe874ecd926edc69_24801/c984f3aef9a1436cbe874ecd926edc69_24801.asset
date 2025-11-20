@@ -1,0 +1,39 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "c984f3aef9a1436cbe874ecd926edc69"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions"
+	[
+		{
+			"Type" "KILLS_OBJECT"
+			"TextId" "ef01c610f7196d7835b2c9174ae1c70f"
+			"Reset" "false"
+			"ID" "382"
+			"Value" "35"
+			"Nav" "0"
+			"Object" "52d575ae564f46649523c98875130784"
+		}
+	]
+	"Rewards"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "18498e02f7fa8ae1ff17f7c924e4d554"
+			"Value" "20"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "991cac2a7a155c7d43e845a675880f0d"
+			"Value" "300"
+		}
+	]
+	"AbandonmentRewards"
+	[
+	]
+	"ID" "24801"
+	"Asset_Bundle_Version" "1"
+}

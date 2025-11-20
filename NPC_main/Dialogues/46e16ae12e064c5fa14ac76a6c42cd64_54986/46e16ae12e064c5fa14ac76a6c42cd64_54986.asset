@@ -1,0 +1,149 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "46e16ae12e064c5fa14ac76a6c42cd64"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "4"
+	"Message_0_Pages" "2"
+	"Message_0_Responses" "3"
+	"Message_0_Response_0" "0"
+	"Message_0_Response_1" "1"
+	"Message_0_Response_2" "2"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "fb9db8c727848ea2bda492d3f9df65fe"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "54987"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Responses" "2"
+	"Message_1_Response_0" "1"
+	"Message_1_Response_1" "2"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "e9a1abf01265a1d4334c6a1c9d1dfce6"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "54987"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "1"
+	"Message_2_Responses" "2"
+	"Message_2_Response_0" "2"
+	"Message_2_Response_1" "3"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "87544962d7db4431fd422887de29f8e0"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "54987"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_2_Rewards"
+	[
+	]
+	"Message_3_Pages" "1"
+	"Message_3_Responses" "1"
+	"Message_3_Response_0" "2"
+	"Message_3_Prev" "0"
+	"Message_3_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "f1025a6c22bd058505cdff992c28c86b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "54987"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_3_Rewards"
+	[
+	]
+	"Responses" "4"
+	"Response_0_Dialogue" "ab2d27132123407d94f529042357416a"
+	"Response_0_Quest" "0ba35c1d9c4742d4bdf2a3bb7ab31741"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "b7f44318bfbc7f2300969f7e34efda35"
+			"ID" "54987"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "5be422c32d29b8b88118e0a2ead7db8e"
+			"ID" "11406"
+			"Value" "true"
+		}
+	]
+	"Response_1_Dialogue" "4cd396ff1b5e49038e22adbe487695e5"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "ab2d27132123407d94f529042357416a"
+	"Response_3_Quest" "0ba35c1d9c4742d4bdf2a3bb7ab31741"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "6b3d9b9c96869d2201a6d16f5159ccde"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "54987"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"ID" "54986"
+	"Asset_Bundle_Version" "1"
+}

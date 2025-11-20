@@ -1,0 +1,4 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 Чтобы взять транспорт в аренду, вам нужно прописать команду /rent, в которой вам нужно указать ид транспорта.
+Message_0_Page_1 Стоймость аренды на 5 минут - 1000 долларов. Используйте с умом.
+Response_0 Спасибо за помощь...

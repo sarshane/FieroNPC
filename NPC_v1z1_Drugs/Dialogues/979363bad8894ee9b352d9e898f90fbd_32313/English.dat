@@ -1,0 +1,11 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Пшеница творит чудеса. Если понадобятся особые семена — заглядывай, для тебя они всегда найдутся.</color>
+Message_1_Page_0 <color=#FFFFFF>Прекрасно! Вот они, золотые гранулы. Козочки будут сыты. Держи плату и посмотри на кое-что действительно редкое для опытных садоводов…</color>
+Message_2_Page_0 <color=#FFFFFF>Вижу, ты пришёл, но у нас договор — пять мешков. Донеси остальное, дружище.</color>
+Message_3_Page_0 <color=#FFFFFF>Солнце ещё высоко. Если кто увидит, вопросы зададут. Подойди ночью, тогда и приму пшеничку.</color>
+Message_4_Page_0 <color=#FFFFFF>Псс! Тише… мои козы опять всё выжрали, трава еле живая. Мне нужно 15 колосков пшеницы. Днём торговать опасно, всё же я тут нелегально, так что приходи ночью, ладно</color>
+Message_5_Page_0 <color=#FFFFFF>Чего тебе?</color>
+Response_0 <color=#1F871F>Да, принесу всё необходимое.</color>
+Response_1 <color=#DCB413>Всегда рад помочь,</color> <name_npc>.
+Response_2 <color=#FFFFFF>Что у тебя есть кроме пшеницы?</color>
+Response_3 <color=#7F7F7F>Не сегодня, извини.</color>

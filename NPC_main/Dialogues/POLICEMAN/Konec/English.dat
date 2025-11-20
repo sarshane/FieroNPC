@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=White> Молодец, тест прошёл, теперь я могу выдать тебе документы. </color>
+Message_1_Page_0 <color=White> Прости дружище, но ты не доучил правила. </color>
+Response_0 <i> <color=#8affbd> Отлично. </color> </i>
+Response_1 <i> <color=#fa4866> Как то в другой раз. </color> </i>

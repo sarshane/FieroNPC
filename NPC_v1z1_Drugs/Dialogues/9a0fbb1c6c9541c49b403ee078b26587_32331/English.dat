@@ -1,0 +1,12 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Если понадобится цемент или стройхлам — обращайся, уступлю по-дружески.</color>
+Message_1_Page_0 <color=#FFFFFF>Вот это то, что надо! Заливаем… каша снова жидкая. Лови твою награду и доступ к свежему цементу</color>
+Message_2_Page_0 <color=#FFFFFF>Я жду две канистры ацетона. Пока не достанешь – миксер встанет колом.</color>
+Message_3_Page_0 <color=#FFFFFF>Эй, дружище! Бетон загустел, как овсянка. Мне срочно нужен ацетон — две канистры, чтобы снова размешать. Достанешь – получишь хороший бонус на стройматериалы. Ну что?</color>
+Message_4_Page_0 <color=#FFFFFF>Чего тебе?</color>
+Response_0 <color=#1F871F>Уже бегу.</color>
+Response_1 <color=#DCB413>Всегда рад помочь!</color>
+Response_2 <color=#FFFFFF>Цемент? Я бы присмотрелся</color>
+Response_3 <color=#FFFFFF>Занимаюсь твоим вопросом.</color>
+Response_4 <color=#7F7F7F>Стройка не моё - извини.</color>
+Response_5 <i>Уйти</i>

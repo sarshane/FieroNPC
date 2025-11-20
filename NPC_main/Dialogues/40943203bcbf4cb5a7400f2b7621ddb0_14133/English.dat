@@ -1,0 +1,5 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 *Пульт предназначен для контроля шахты, и выдачи расписок.*
+Message_0_Page_1 *Во время активации вы имеете право пройти в шахту.*
+Message_0_Page_2 *Но для того что бы продать метал, вам необходимо отключить пульт в диспетчерской.*
+Response_0 *прочитать*

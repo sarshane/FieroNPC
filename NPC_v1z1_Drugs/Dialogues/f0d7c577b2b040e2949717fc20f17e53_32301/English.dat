@@ -1,0 +1,10 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFF>Пресс работает, заказов хватает. Если захотите прикупить семян — обращайтесь, для тебя цена по-дружески.</color>
+Message_1_Page_0 <color=#FFFFFF>О, то, что надо! Дай-ка я… клац-клац — слышишь, как поёт гидравлика? Держи пару сотен за помощь. А ещё у меня теперь есть кое-что для настоящих садоводов…</color>
+Message_2_Page_0 <color=#FFFFFF>Ну как, нашёл железо и ключ? Мне нужно ровно десять металла и один ключ — без этого пресс не запустится.</color>
+Message_3_Page_0 <color=#FFFFFF>Эй, дружище! Видишь эту груду железа? Это мой пресс. Без него я не смогу крошить хлам на детали. Принёс бы мне</color> 10 кусков металлолома и гаечный ключ <color=#FFFFFF>— починим за раз-два. Что скажешь?</color>
+Message_4_Page_0 <color=#FFFFFF>Чего тебе?</color>
+Response_0 <color=#1F871F>Давай, помогу. Скоро вернусь.</color>
+Response_1 <color=#DCB413>Всегда рад помочь. Загляну к тебе ещё</color>
+Response_2 <color=#FFFFFF>Ну-ка, покажи</color>
+Response_3 <color=#7F7F7F>Не до этого.</color>

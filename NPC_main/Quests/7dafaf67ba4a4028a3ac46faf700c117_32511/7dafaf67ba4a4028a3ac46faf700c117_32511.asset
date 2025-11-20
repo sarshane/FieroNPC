@@ -1,0 +1,141 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "7dafaf67ba4a4028a3ac46faf700c117"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "9764a0f749e01ebf1b34b68cac3e98fd"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31407"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "487fd070d18ea27435493418744ede0b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31408"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "01507050fef078c974a0fa29b76438d1"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31409"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "3a17009974dbde8b2f3de7fa9a32295c"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31410"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "dc17381873b88243fed3c7072b103360"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31411"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "628c53e6d111490a601d5fb8eca0598f"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31412"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "ef9cc478f31552ce4c6b578011a65c24"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31413"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "3c2f09e338770c92a5ecd2cd45fec67b"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31414"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "3b568d09858e7b97b824e99a97a6486a"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31416"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "84cf61f97590d35b3bbf3842d7bb3a65"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "31417"
+			"Allow_Unset" "false"
+			"Value" "true"
+		}
+	]
+	"Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "63c2aa58a71114b4fd3d18fc1aeac569"
+			"Value" "2000"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "34c80d9ec53eed514c552453f1df5f2f"
+			"ID" "83"
+			"Amount" "2"
+			"Sight" "0"
+			"Tactical" "0"
+			"Grip" "0"
+			"Barrel" "0"
+			"Magazine" "0"
+			"Ammo" "0"
+			"Auto_Equip" "true"
+			"Origin" "CRAFT"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "ecb588448f7dbb804c436cc69993f409"
+			"ID" "41549"
+			"Value" "21"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "REPUTATION"
+			"TextId" "5184099a19971340d964d242b9487d7e"
+			"Value" "50"
+		}
+	]
+	"AbandonmentRewards"
+	[
+	]
+	"ID" "32511"
+	"Asset_Bundle_Version" "1"
+}

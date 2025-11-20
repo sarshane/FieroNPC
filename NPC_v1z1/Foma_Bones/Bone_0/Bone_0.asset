@@ -1,0 +1,69 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "aa43a8d72789475cad78f9b66376f00b"
+	"Type" "SDG.Unturned.ObjectAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Is_Gore" "false"
+	"Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "315caac1b788117e398a137ebef91736"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "12012"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "true"
+		}
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "66305ca76da9c14337c8dda61b4f2944"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "12007"
+			"Allow_Unset" "true"
+			"Value" "false"
+		}
+	]
+	"Type" "SMALL"
+	"Chart" "NONE"
+	"Causes_Fall_Damage" "true"
+	"Exclude_From_Culling_Volumes" "false"
+	"LOD" "NONE"
+	"Interactability" "QUEST"
+	"Interactability_Hint" "CUSTOM"
+	"Interactability_Power" "NONE"
+	"Interactability_Editor" "NONE"
+	"Interactability_Nav" "NONE"
+	"Interactability_Drops" "0"
+	"Interactability_RewardItem_Origin" "NATURE"
+	"Interactability_Effect" "7"
+	"Interactability_Conditions"
+	[
+	]
+	"Interactability_Rewards"
+	[
+		{
+			"Type" "FLAG_BOOL"
+			"TextId" "25b647e13f0fb005bbd14e7810261255"
+			"ID" "12007"
+			"Value" "true"
+		}
+		{
+			"Type" "HINT"
+			"TextId" "5ef180437a77070e85f65ebfae4ccf5d"
+			"Duration" "5"
+		}
+	]
+	"Add_Kill_Triggers" "false"
+	"Landmark_Quality" "LOW"
+	"Has_Clip_Prefab" "false"
+	"Exclude_From_Level_Batching" "false"
+	"ID" "13008"
+	"Master_Bundle_Override" "sh_mod.masterbundle"
+	"Bundle_Override_Path" "/Objects/SETKA_OBJ"
+	"Asset_Bundle_Version" "4"
+}
