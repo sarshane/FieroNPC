@@ -1,5 +1,5 @@
-// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Думаешь что недостаточно места в карманах?
-Message_0_Page_1 Ну тогда выбирай любой рюкзак, как говорится на вкус и цвет все фломастеры разные.
-Response_0 Давай показывай что у тебя есть.
-Response_1 Не сейчас
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.17-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Думаешь что недостаточно места в карманах?</color>
+Message_0_Page_1 <color=#FFFFFFFF>Ну тогда выбирай любой рюкзак, как говорится на вкус и цвет все фломастеры разные.</color>
+Response_0 <color=#F6F67F>Давай показывай что у тебя есть.</color>
+Response_1 <color=#FFFFFFFF>Не сейчас.</color>

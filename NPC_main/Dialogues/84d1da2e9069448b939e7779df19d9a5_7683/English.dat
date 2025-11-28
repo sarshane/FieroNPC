@@ -1,7 +1,7 @@
-// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Ну да, мне тут парочку кирпичей надо. Подсобишь, я заплачу. А не понравиться уйдешь, а захочешь вернуться, вон мужик стоит, к нему и подойдешь.
-Message_1_Page_0 Как работается?
-Message_2_Page_0 Видимо закончил работу?
-Response_0 Понял, щас сделаю. 
-Response_1 Ещё привыкаю..
-Response_2 Закончил...
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.17-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Ну да, мне тут парочку кирпичей надо. Подсобишь, я заплачу. А не понравиться уйдешь, а захочешь вернуться, вон мужик стоит, к нему и подойдешь.</color>
+Message_1_Page_0 <color=#FFFFFFFF>Как работается?</color>
+Message_2_Page_0 <color=#FFFFFFFF>Видимо закончил работу?</color>
+Response_0 <color=#F6F67F>Понял, щас сделаю. </color>
+Response_1 <color=#FFFFFFFF>Ещё привыкаю..</color>
+Response_2 <color=#F6F67F>Закончил...</color>

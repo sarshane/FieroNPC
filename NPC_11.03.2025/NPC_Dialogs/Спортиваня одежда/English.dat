@@ -1,5 +1,5 @@
-// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Решил занятся спротом? 
-Message_0_Page_1 Ну тогда выбирай что хочешь прикупить.
-Response_0 Да показывай что у тебя есть.
-Response_1 В другой раз.
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.17-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Решил заняться спортом?</color>
+Message_0_Page_1 <color=#FFFFFFFF>Ну тогда выбирай, что хочешь прикупить.</color>
+Response_0 <color=#F6F67F>Да показывай что у тебя есть.</color>
+Response_1 <color=#FFFFFFFF>В другой раз.</color>

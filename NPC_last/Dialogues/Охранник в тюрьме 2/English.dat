@@ -1,3 +1,4 @@
-// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Не дерзи.
-Response_0 <i>Я в тюрьме, надо найти Валета.</i>
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.17-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Не дерзи.</color>
+Response_0 <color=#F6F67F>Я в тюрьме, надо найти Валета.</color>
+Response_1 <color=#FFFFFFFF>Да иди ты.</color>

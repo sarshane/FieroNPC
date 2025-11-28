@@ -1,6 +1,6 @@
-// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Если хочешь пройти к Томасу, тебе нужно будет выполнить одно непростое поручение.
-Message_1_Page_0 Я слышал, Валет был убит, твоих рук дело?
-Response_0 Внимательно слушаю.
-Response_1 В другой раз.
-Response_2 Да.
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.17-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Если хочешь пройти к Томасу, тебе нужно будет выполнить одно непростое поручение.</color>
+Message_1_Page_0 <color=#FFFFFFFF>Я слышал, Валет был убит, твоих рук дело?</color>
+Response_0 <color=#FFFFFFFF>Внимательно слушаю.</color>
+Response_1 <color=#FFFFFFFF>В другой раз.</color>
+Response_2 <color=#FFFFFFFF>Да.</color>
