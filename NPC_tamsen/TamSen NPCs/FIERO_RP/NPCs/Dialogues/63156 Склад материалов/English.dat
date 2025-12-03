@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Добрый, я помогу тебе открыть меню с материалами и списком того, что ты можешь брать для своей фракции.
-Message_0_Page_1 Учти, что материалы не бесконечны и не пополняются просто так - это труд. Не будь жадиной!
-Response_0 Понял! <b><color=#008000FF>*открыть меню*</color></b>
-Response_1 <i><b>уйти</b></i>
+Message_0_Page_0 <color=#FFFFFFFF>Добрый, я помогу тебе открыть меню с материалами и списком того, что ты можешь брать для своей фракции.</color>
+Message_0_Page_1 <color=#FFFFFFFF>Учти, что материалы не бесконечны и не пополняются просто так - это труд. Не будь жадиной!</color>
+Response_0 <color=#FFFFFFFF>Понял!</color> <b><color=#F6F67F>*открыть меню*</color></b>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>

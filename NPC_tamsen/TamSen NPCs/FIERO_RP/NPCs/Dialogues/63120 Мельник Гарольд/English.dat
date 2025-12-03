@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 <i>Задучиво смотрит вдаль.</i>
-Message_1_Page_0 Отдал муку?
-Response_0 Здравствуй, это твоя мельница?
-Response_1 <b><i>Уйти</i></b>
-Response_2 Да, я отдал муку.
-Response_3 Пока что нет.
+Message_0_Page_0 <color=#FFFFFFFF><i>*Задучиво смотрит вдаль*</i></color>
+Message_1_Page_0 <color=#FFFFFFFF>Отдал муку?</color>
+Response_0 <color=#FFFFFFFF>Здравствуй, это твоя мельница?</color>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>
+Response_2 <color=#F6F67F>Да, я отдал муку.</color>
+Response_3 <color=#FFFFFFFF>Пока что нет.</color>

@@ -1,9 +1,9 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Добро пожаловать в наш магазин! 
-Response_0 Мне нужна мебель.
-Response_1 Мне нужны принадлежности для кухни.
-Response_2 Мне нужна электроника.
-Response_3 Мне нужны инструменты.
-Response_4 Мне нужны сейфы.
-Response_5 Мне нужны новогодние украшения.
-Response_6 Пока!
+Message_0_Page_0 <color=#FFFFFFFF>Добро пожаловать в наш магазин!</color>
+Response_0 <color=#F6F67F>Мне нужна мебель.</color>
+Response_1 <color=#F6F67F>Мне нужны принадлежности для кухни.</color>
+Response_2 <color=#F6F67F>Мне нужна электроника.</color>
+Response_3 <color=#F6F67F>Мне нужны инструменты.</color>
+Response_4 <color=#F6F67F>Мне нужны сейфы.</color>
+Response_5 <color=#F6F67F>Мне нужны новогодние украшения.</color>
+Response_6 <color=#FFFFFFFF>Пока!</color>

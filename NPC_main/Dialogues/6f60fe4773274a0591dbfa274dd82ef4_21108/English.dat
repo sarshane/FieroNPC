@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Добрый день, чего хотели?
-Response_0 Я хочу купить себе недвижимость.
-Response_1 Я хочу устроиться на работу.
-Response_2 Пока
+Message_0_Page_0 <color=#FFFFFFFF>Добрый день, что-то хотели?</color>
+Response_0 <color=#FFFFFFFF>Я хочу купить себе недвижимость.</color>
+Response_1 <color=#FFFFFFFF>Я хочу устроиться на работу.</color>
+Response_2 <color=#FFFFFFFF>Пока.</color>

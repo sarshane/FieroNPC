@@ -1,13 +1,13 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 <color=#FFFFFF><i>подбегает парень, оглядывается</i></color>
+Message_0_Page_0 <color=#FFFFFFFF><i>*Подбегает парень, оглядывается*</i></color>
 Message_0_Page_1 <color=#FFFFFF>Криминальная рожа у тебя.. Косячок будет?</color>
-Message_0_Page_2 <color=#FFFFFF><i>нервно оглядывается</i></color>
-Message_1_Page_0 <color=#FFFFFF><i>подбегает парень, оглядывается</i></color>
+Message_0_Page_2 <color=#FFFFFFFF><i>*Нервно оглядывается*</i></color>
+Message_1_Page_0 <color=#FFFFFFFF><i>*Подбегает парень, оглядывается*</i></color>
 Message_1_Page_1 <color=#FFFFFF>Ты не коп? Покурить есть?</color>
-Message_1_Page_2 <color=#FFFFFF><i>нервно оглядывается</i></color>
+Message_1_Page_2 <color=#FFFFFFFF><i>*Нервно оглядывается*</i></color>
 Response_0 <color=#FFFFFF>В следующий раз...</color>
 Response_1 <color=#FFFFFF>Нет конечно, ты о чём?</color>
 Response_2 <color=#FFFFFF>Есть, держи</color> <color=#DCB413>*продать 3 Косяка за 1200$*</color>
 Response_3 <color=#FFFFFF>Есть, держи</color> <color=#DCB413>*продать 3 Косяка за 1500$*</color>
 Response_4 <color=#FFFFFF>Где я тебе возьму это вообще?</color>
-Response_5 <color=#FFFFFF>Уйти</color>
+Response_5 <color=#FFFFFFFF><color=#FFFFFF>*Уйти*</color></color>

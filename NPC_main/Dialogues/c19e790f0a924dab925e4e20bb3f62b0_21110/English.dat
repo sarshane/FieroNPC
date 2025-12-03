@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 У нас есть много разных работ - лесопилка, стройка, автопарк - развозить людей и другие.
-Message_0_Page_1 Если тебе такие работы кажутся скучными - твой выбор будет государственные фракции: Полиция, Больница, СМИ и другие.
-Message_0_Page_2 Конечно, в нашем штате есть и нелегалы, но будь осторожен с такой работой.
-Response_0 Спасибо!
+Message_0_Page_0 <color=#FFFFFFFF>У нас есть много разных работ - <color=#69EDC3>лесопилка, стройка, автопарк</color> - развозить людей и другие.</color>
+Message_0_Page_1 <color=#FFFFFFFF>Если тебе такие работы кажутся скучными - твой выбор будет <color=#F6F67F>государственные фракции:</color> <color=#69EDC3>Полиция, Больница, СМИ и другие.</color></color>
+Message_0_Page_2 <color=#FFFFFFFF>Конечно, в нашем штате есть и нелегалы, но будь <color=#FB8484>осторожен</color> с такой работой.</color>
+Response_0 <color=#FFFFFFFF>Спасибо!</color>

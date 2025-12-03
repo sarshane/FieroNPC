@@ -2,4 +2,4 @@
 Message_0_Page_0 <color=#FFFFFF>Миксер крутит, заказчики довольны.</color>
 Message_1_Page_0 <color=#FFFFFF>Полки блестят! Заглядывай, если понадобится сушилка или инструмент — для тебя особая цена.</color>
 Message_2_Page_0 <color=#FFFFFF>Желаю удачи!</color>
-Response_0 <i>Уйти</i>
+Response_0 <color=#FFFFFFFF><i>*Уйти*</i></color>
