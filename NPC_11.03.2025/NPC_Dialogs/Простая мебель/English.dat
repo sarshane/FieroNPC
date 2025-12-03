@@ -1,9 +1,9 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Здравствуйте, у нас широкий выбор мебели начиная с диваном заканчивая столами, что вас конкретно интересует?
-Response_0 Шкафы.
-Response_1 Кровати.
-Response_2 Тумбочки.
-Response_3 Стулья
-Response_4 Диван.
-Response_5 Стол.
-Response_6 Полочка.
+Message_0_Page_0 <color=#FFFFFFFF>Здравствуйте, у нас широкий выбор мебели, начиная с диваном, заканчивая столами, что вас конкретно интересует?</color>
+Response_0 <color=#F6F67F>Шкафы.</color>
+Response_1 <color=#F6F67F>Кровати.</color>
+Response_2 <color=#F6F67F>Тумбочки.</color>
+Response_3 <color=#F6F67F>Стулья.</color>
+Response_4 <color=#F6F67F>Диван.</color>
+Response_5 <color=#F6F67F>Стол.</color>
+Response_6 <color=#F6F67F>Полочка.</color>
