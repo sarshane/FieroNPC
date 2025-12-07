@@ -1,4 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Доставка пиццы.
-Description У курьера сломался мопед и вы вызвались помочь доставить пиццу клиенту.
-540f84459e5d9cce7d1fd94efa901fb8 500$
+Name <color=#FFFFFFFF>Доставка пиццы</color>
+Description <color=#FFFFFFFF>У курьера сломался мопед и вы вызвались помочь доставить пиццу клиенту.</color>
+8e4617462704a86f8d2c4eb77280be13 <color=#FFFFFFFF>Доставить пиццу</color> <color=#F6F67F>{0}/{1}</color>
+540f84459e5d9cce7d1fd94efa901fb8 <color=#F6F67F>500$</color>

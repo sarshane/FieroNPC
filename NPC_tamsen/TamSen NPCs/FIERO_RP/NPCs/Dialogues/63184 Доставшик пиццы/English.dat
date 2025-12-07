@@ -1,3 +1,3 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 И тебе удачи. Передай курьеру, чтобы починил, что там у него сломалось.
-Response_0 <b><i>Уйти.</i></b>
+Message_0_Page_0 <color=#FFFFFFFF>И тебе удачи. Передай курьеру, чтобы починил, что там у него сломалось.</color>
+Response_0 <color=#FFFFFFFF><i>*Уйти*</i></color>

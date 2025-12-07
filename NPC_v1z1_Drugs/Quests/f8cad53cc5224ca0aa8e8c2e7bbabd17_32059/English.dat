@@ -1,6 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name <color=#964BFA>Защитный костюм</color>
-Description <color=#964BFA>Джиму</color> <color=#FFFFFF>удалось открыть склад химзащиты, но костюмы порваны. Доставьте ему материалы для ремонта: 2 тюбика клея, 2 рулона скотча и 5 кусков ткани. Клей и скотч можно найти на свалке.</color>
-a3cb7378616f7afdb18526c00931f3c7 <color=#4B64FA>Клей </color><color=#FFFFFF>{0}/2</color>
-ad3f283325398f26c3103b66b626e70c <color=#4B64FA>Скотч </color><color=#FFFFFF>{0}/2</color>
-5ad95a724a3846cd2a68acc3502c8b97 <color=#4B64FA>Ткань</color><color=#FFFFFF>{0}/5</color>
+Name <color=#FFFFFF>Защитный костюм</color>
+Description <color=#FFFFFF>Джиму удалось открыть склад химзащиты, но костюмы порваны. Доставьте ему материалы для ремонта: <color=#F6F67F>2 тюбика клея</color>, <color=#F6F67F>2 рулона скотча и 5 кусков ткани</color>. Клей и скотч можно найти на свалке.</color>
+a3cb7378616f7afdb18526c00931f3c7 <color=#FFFFFFFF>Найти клей</color> <color=#F6F67F>{0}/{1}</color>
+ad3f283325398f26c3103b66b626e70c <color=#FFFFFFFF>Найти скотч</color> <color=#F6F67F>{0}/{1}</color>
+5ad95a724a3846cd2a68acc3502c8b97 <color=#FFFFFFFF>Найти ткань</color> <color=#F6F67F>{0}/{1}</color>

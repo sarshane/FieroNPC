@@ -1,6 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 *присматривается<pause> в сторону леса*
-Message_0_Page_1 *жмурит глаза<pause>.<pause>.<pause>.<pause>.<pause>*
-Message_1_Page_0 Здарова, если пришёл на охоту, берись сразу за дело!
-Response_0 ... Здрасте
-Response_1 Здарова, хорошо...
+Message_0_Page_0 <color=#FFFFFFFF><i>*Присматривается в сторону леса*</i></color>
+Message_0_Page_1 <color=#FFFFFFFF>*Жмурит глаза*</color>
+Message_1_Page_0 <color=#FFFFFFFF>Здарова, если пришёл на охоту, берись сразу за дело!</color>
+Response_0 <color=#FFFFFFFF>...Здрасте.</color>
+Response_1 <color=#FFFFFFFF>Здарова, хорошо...</color>

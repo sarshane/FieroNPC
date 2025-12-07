@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name <color=#4B64FA>Фильтры для старого ЗЗК</color>
-Description <color=#964BFA>Джиму</color><color=#FFFFFF> нужны самодельные фильтры, чтобы восстановить своё старое противогазное снаряжение. Доставьте ему 5 кофейных фильтров. Кофейные фильтры можно найти на свалке или в офисах порта.</color>
-da4ccde92465641a4f25f31694176c50 <color=#4B64FA>Кофейный фильтр</color><color=#FFFFFF>{0}/5</color>
+Name <color=#FFFFFF>Фильтры для старого ЗЗК</color>
+Description <color=#FFFFFF>Джиму нужны самодельные фильтры, чтобы восстановить своё старое противогазное снаряжение. Доставьте ему <color=#F6F67F>5 кофейных фильтров</color>. Кофейные фильтры можно найти на свалке или в офисах порта.</color>
+da4ccde92465641a4f25f31694176c50 <color=#FFFFFFFF>Найти кофейные фильтры</color> <color=#F6F67F>{0}/{1}</color>

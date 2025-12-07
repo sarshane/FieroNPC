@@ -2,4 +2,4 @@
 Message_0_Page_0 <color=#FFFFFF>Теперь у меня есть запас костюмов. Понадобится химзащита — бери, пока есть размеры.</color>
 Message_1_Page_0 <color=#FFFFFF>Фильтры работают, дыхание как у молодого. Если понадобится противогаз или новые кассеты — заглядывай, сделаю скидку.</color>
 Message_2_Page_0 <color=#FFFFFF>Спасибо что согласился.</color>
-Response_0 <i>Уйти</i>
+Response_0 <color=#FFFFFFFF><i>*Уйти*</i></color>

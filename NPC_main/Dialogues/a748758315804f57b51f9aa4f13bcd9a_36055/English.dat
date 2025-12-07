@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Б-р-р-р , как же холодно! Сделать тебе коффе чтоб согрется? То это обойдется тебе в 55$
-Response_0 Да! 
-Response_1 Пожалуй нет
+Message_0_Page_0 <color=#FFFFFFFF>Б-р-р-р, как же холодно! Сделать тебе кофе чтоб согреться? То это обойдется тебе в <color=#F6F67F>55$</color>.</color>
+Response_0 <color=#FFFFFFFF>Да!</color> <color=#F6F67F>[55$]</color>
+Response_1 <color=#FFFFFFFF>Пожалуй нет.</color>
