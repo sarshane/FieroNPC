@@ -1,4 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Найти ключи
-Description Найдите ключи в кустах и отдайте парню!
-e963958004e702200802c1251d669219 Ключи
+Name <color=#FFFFFFFF>Найти ключи</color>
+Description <color=#FFFFFFFF>Найдите <color=#F6F67F>ключи</color> в кустах и отдайте парню!</color>
+e963958004e702200802c1251d669219 <color=#FFFFFFFF>Найти ключ <color=#F6F67F>{0/{1}</color></color>
+cab72418ed009ecf0cf957b0e2693298 <color=#F6F67F>150$</color>
+0d014f6494c1bb6469409b159f215b0a <color=#F6F67F>35 репутации</color>

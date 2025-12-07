@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 *стоит с розовой сумкой*
-Message_0_Page_1 Вам что-то нужно?
-Response_0 *вырвать сумку с рук*
+Message_0_Page_0 <color=#FFFFFFFF><i>*Стоит с розовой сумкой*</i></color>
+Message_0_Page_1 <color=#FFFFFFFF>Вам что-то нужно?</color>
+Response_0 <color=#FFFFFFFF><i>*Вырвать сумку с рук*</i></color>

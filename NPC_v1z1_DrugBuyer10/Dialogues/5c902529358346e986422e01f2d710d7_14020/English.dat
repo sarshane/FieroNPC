@@ -7,7 +7,7 @@ Message_1_Page_1 <color=#FFFFFF>Ты не коп? Покурить есть?</co
 Message_1_Page_2 <color=#FFFFFFFF><i>*Нервно оглядывается*</i></color>
 Response_0 <color=#FFFFFF>В следующий раз...</color>
 Response_1 <color=#FFFFFF>Нет конечно, ты о чём?</color>
-Response_2 <color=#FFFFFF>Есть, держи</color> <color=#DCB413>*продать 3 Косяка за 1200$*</color>
-Response_3 <color=#FFFFFF>Есть, держи</color> <color=#DCB413>*продать 3 Косяка за 1500$*</color>
+Response_2 <color=#FFFFFF>Есть, держи</color> <color=#F6F67F><i>*продать 3 Косяка за 1200$*</i></color>
+Response_3 <color=#FFFFFF>Есть, держи</color> <color=#F6F67F><i>*продать 3 Косяка за 1500$*</i></color>
 Response_4 <color=#FFFFFF>Где я тебе возьму это вообще?</color>
 Response_5 <color=#FFFFFFFF><color=#FFFFFF>*Уйти*</color></color>

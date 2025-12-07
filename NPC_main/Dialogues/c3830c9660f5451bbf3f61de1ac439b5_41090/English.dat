@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Чё те надо , пёс?  Мои услуги дорогие! Заточка - 500 баксов , побег -5200 баксов 
-Response_0 Побег ? Пожалуй возьму !
-Response_1 Я хочу купить заточку 
-Response_2 Уже ничего ...
+Message_0_Page_0 <color=#FFFFFFFF>Чё те надо , пёс? Мои услуги дорогие!</color> Заточка - <color=#F6F67F>500$</color>, Побег - <color=#F6F67F>5200$</color>.</color>
+Response_0 <color=#FFFFFFFF>Побег? Пожалуй возьму!</color> <color=#F6F67F>[5200$]</color>
+Response_1 <color=#FFFFFFFF>Я хочу купить заточку.</color> <color=#F6F67F>[500$]</color>
+Response_2 <color=#FFFFFFFF>Уже ничего...</color>

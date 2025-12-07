@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Здарова, сынок... Почему ты здесь? Нет где переночевать?
-Response_0 Да... Можно я у нас погощу?
-Response_1 Нет, просто хожу по городу в поисках интересных людей...
-Response_2 *уйти*
+Message_0_Page_0 <color=#FFFFFFFF>Здарова, сынок... Почему ты здесь? Нет где переночевать?</color>
+Response_0 <color=#FFFFFFFF>Да... Можно я у вас погощу?</color>
+Response_1 <color=#FFFFFFFF>Нет, просто хожу по городу в поисках интересных людей...</color>
+Response_2 <color=#FFFFFFFF><i>*Уйти*</i></color>

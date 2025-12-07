@@ -1,4 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Найти бутылки для Степаныча.
-Description Бутылки раскиданы по лагерю, где обитает Степаныч.
-2b163f9d146c8751b6b785058e352f48 Собрать бутылки ({0}/7)
+Name <color=#FFFFFFFF>Бутылочный сбор</color>
+Description <color=#FFFFFFFF><color=#F6F67F>Бутылки раскиданы по лагерю</color>, где обитает Степаныч.</color>
+2b163f9d146c8751b6b785058e352f48 <color=#FFFFFFFF>Собрать бутылки</color> <color=#F6F67F>{0}/{1}</color>
+7cd69b3023873034e566c53445500212 <color=#F6F67F>Бутылка вина</color>

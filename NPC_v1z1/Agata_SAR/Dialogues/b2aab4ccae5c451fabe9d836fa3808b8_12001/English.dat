@@ -1,10 +1,10 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Это ещё не все тома, я чувствую пробел в коллекции…
-Message_1_Page_0 Прекрасно! Коллекция снова полна, а я могу закрыть зал. Спасибо тебе, хранитель знаний. 
-Message_2_Page_0 О, это снова ты!
-Message_3_Page_0 Т-тсс… в читальном зале тишина, путник. Я жду помощника, а книг — куча. Поможешь найти пять томов из списка?
-Response_0 Конечно, дайте список!
-Response_1 <i>*передать книги*</i>
-Response_2 Пойду искать дальше...
-Response_3 Нет, я сейчас занят.
-Response_4 <i>Уйти</i>
+Message_0_Page_0 <color=#FFFFFFFF>Это ещё не все тома, я чувствую пробел в коллекции…</color>
+Message_1_Page_0 <color=#FFFFFFFF>Прекрасно! Коллекция снова полна, а я могу закрыть зал. Спасибо тебе, хранитель знаний. </color>
+Message_2_Page_0 <color=#FFFFFFFF>О, это снова ты!</color>
+Message_3_Page_0 <color=#FFFFFFFF>Т-тсс… в читальном зале тишина, путник. Я жду помощника, а книг — куча. Поможешь найти пять томов из списка?</color>
+Response_0 <color=#F6F67F>Конечно, дайте список!</color>
+Response_1 <color=#F6F67F><i>*Передать книги*</i></color>
+Response_2 <color=#FFFFFFFF>Пойду искать дальше...</color>
+Response_3 <color=#FFFFFFFF>Нет, я сейчас занят.</color>
+Response_4 <color=#FFFFFFFF><i>*Уйти*</i></color>

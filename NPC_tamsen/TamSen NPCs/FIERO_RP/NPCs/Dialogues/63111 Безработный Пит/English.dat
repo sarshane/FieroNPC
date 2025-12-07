@@ -1,12 +1,12 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Эй, ты, слушай... у тебя работы нет случайно? Мне срочно нужны деньги, а то есть уже нечего.
-Message_1_Page_0 Я тут нашёл недопитый напиток, а ты что нашёл?
-Message_2_Page_0 Слушай, я слышал, что один тип ищет рабочие руки для мелких дел. Может, замолвишь за меня словечко? Мне бы хоть какую-то работу.
-Message_3_Page_0 О, снова ты!
-Response_0 Могу помочь, что нужно?
-Response_1 Извини, ничем не могу помочь.
-Response_2 Вот тебе еда.
-Response_3 Пока ничего, жди.
-Response_4 Хорошо, я постараюсь тебе помочь.
-Response_5 Я тебе работу нашел...
-Response_6 <i><b>Уйти</b></i>
+Message_0_Page_0 <color=#FFFFFFFF>Эй, ты, слушай... у тебя работы нет случайно? Мне срочно нужны деньги, а то есть уже нечего.</color>
+Message_1_Page_0 <color=#FFFFFFFF>Я тут нашёл недопитый напиток, а ты что нашёл?</color>
+Message_2_Page_0 <color=#FFFFFFFF>Слушай, я слышал, что один тип ищет рабочие руки для мелких дел. Может, замолвишь за меня словечко? Мне бы хоть какую-то работу.</color>
+Message_3_Page_0 <color=#FFFFFFFF>О, снова ты!</color>
+Response_0 <color=#F6F67F>Могу помочь, что нужно?</color>
+Response_1 <color=#FFFFFFFF>Извини, ничем не могу помочь.</color>
+Response_2 <color=#F6F67F>Вот тебе еда.</color>
+Response_3 <color=#FFFFFFFF>Пока ничего, жди.</color>
+Response_4 <color=#F6F67F>Хорошо, я постараюсь тебе помочь.</color>
+Response_5 <color=#F6F67F>Я тебе работу нашел...</color>
+Response_6 <color=#FFFFFFFF><i>*Уйти*</i></color>

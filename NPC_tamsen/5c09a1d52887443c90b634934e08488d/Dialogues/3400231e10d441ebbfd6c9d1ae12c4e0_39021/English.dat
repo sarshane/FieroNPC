@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 ...
-Message_1_Page_0 *отдыхает*
-Response_0 Малый, ты чего грустишь?
-Response_1 Уступи место старшему!
-Response_2 Я нашёл твой мячик!
-Response_3 *уйти*
+Message_0_Page_0 <color=#FFFFFFFF>...</color>
+Message_1_Page_0 <color=#FFFFFFFF><i>*отдыхает*</i></color>
+Response_0 <color=#FFFFFFFF>Малый, ты чего грустишь?</color>
+Response_1 <color=#FFFFFFFF>Уступи место старшему!</color>
+Response_2 <color=#F6F67F>Я нашёл твой мячик!</color>
+Response_3 <color=#FFFFFFFF><i>*Уйти*</i></color>

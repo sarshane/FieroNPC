@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Я потерял на этой площадке ключ.
-Message_0_Page_1 Помоги мне пожалуйста найти ключи..
-Message_0_Page_2 Я тебе даже заплатить могу чучуть.
-Message_0_Page_3 Я руки вымазывать не хочу, так что если найдёшь я тебе заплачу.
-Response_0 Я согласен помочь
-Response_1 Я не хочу тебе помогать.
+Message_0_Page_0 <color=#FFFFFFFF>Я потерял на этой площадке ключ.</color>
+Message_0_Page_1 <color=#FFFFFFFF>Помоги мне пожалуйста найти ключи..</color>
+Message_0_Page_2 <color=#FFFFFFFF>Я тебе даже заплатить могу чуть-чуть.</color>
+Message_0_Page_3 <color=#FFFFFFFF>Я руки вымазывать не хочу, так что если найдёшь я тебе заплачу.</color>
+Response_0 <color=#F6F67F>Я согласен помочь.</color>
+Response_1 <color=#FFFFFFFF>Я не хочу тебе помогать.</color>

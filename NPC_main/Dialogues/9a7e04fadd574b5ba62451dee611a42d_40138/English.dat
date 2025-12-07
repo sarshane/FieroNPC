@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 <color=red>*КРИЧИТ*</color> <br> ОТДАЙ МОЙ КОКОС!
-Message_0_Page_1 <color=red>*КРИЧИТ*</color> <br> ГДЕ МОЙ КОКОС?
-Response_0 Какой кокос? Где я?
+Message_0_Page_0 <color=red><i>*КРИЧИТ*</i></color> <br><color=#FFFFFFFF> ОТДАЙ МОЙ КОКОС!</color>
+Message_0_Page_1 <color=red><i>*КРИЧИТ*</i></color> <br><color=#FFFFFFFF> ОТДАЙ МОЙ КОКОС!</color>
+Response_0 <color=#FFFFFFFF>Какой кокос? Где я?</color>

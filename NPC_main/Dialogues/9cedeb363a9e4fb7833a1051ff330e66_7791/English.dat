@@ -1,4 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Привет! Хочешь порыбачить? 
-Response_0 Да, конечно
-Response_1 в другой раз...
+Message_0_Page_0 <color=#FFFFFFFF>Привет! Хочешь порыбачить?</color>
+Response_0 <color=#F6F67F><i>*Продать рыбу*</i></color>
+Response_1 <color=#F6F67F><i>*Купить удочку*</i></color>
+Response_2 <color=#FFFFFFFF>В другой раз...</color>

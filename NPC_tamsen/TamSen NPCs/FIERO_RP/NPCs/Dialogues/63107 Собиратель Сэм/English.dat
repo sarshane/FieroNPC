@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 О, новый человек на свалке? Тут полно мусора, но, если знаешь, что искать, можно найти настоящее золото!
-Message_1_Page_0 Помнишь, мне нужны были аккумулятор и канистра?
-Response_0 Чем занимаешься?
-Response_1 Ясно, я просто осматриваюсь.
-Response_2 Я нашёл то, что тебе нужно.
-Response_3 Да-да.
+Message_0_Page_0 <color=#FFFFFFFF>О, новый человек на свалке? Тут полно мусора, но, если знаешь, что искать, можно найти настоящее золото!</color>
+Message_1_Page_0 <color=#FFFFFFFF>Помнишь, мне нужна была канистра?</color>
+Response_0 <color=#FFFFFFFF>Чем занимаешься?</color>
+Response_1 <color=#FFFFFFFF>Ясно, я просто осматриваюсь.</color>
+Response_2 <color=#F6F67F>Я нашёл то, что тебе нужно.</color>
+Response_3 <color=#FFFFFFFF>Да-да.</color>

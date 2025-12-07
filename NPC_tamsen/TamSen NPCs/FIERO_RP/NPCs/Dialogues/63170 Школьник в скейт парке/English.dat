@@ -1,8 +1,8 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Эй, привет! Слушай, тут такое дело…
-Message_0_Page_1 Старшеклассники опять прикололись надо мной. Взяли мой скейт и закинули его на крышу вон того здания. Я сам туда не залезу, а без скейта мне тут вообще нечего делать. Поможешь достать? Пожалуйста!
+Message_0_Page_0 <color=#FFFFFFFF>Эй, привет! Слушай, тут такое дело…</color>
+Message_0_Page_1 <color=#FFFFFFFF>Старшеклассники опять прикололись надо мной. Взяли мой скейт и закинули его на крышу вон того здания. Я сам туда не залезу, а без скейта мне тут вообще нечего делать. Поможешь достать? Пожалуйста!</color>
 c63f59f945489d0d56c5aad916f18991 +20$
-Message_1_Page_0 Ты достал его?
-Response_0 Хм, а что мне с этого будет?
-Response_1 Погоди.
-Response_2 Вот держи.
+Message_1_Page_0 <color=#FFFFFFFF>Ты достал его?</color>
+Response_0 <color=#FFFFFFFF>Хм, а что мне с этого будет?</color>
+Response_1 <color=#FFFFFFFF>Погоди.</color>
+Response_2 <color=#FFFFFFFF>Вот держи.</color>

@@ -1,6 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 *испуганным голосом*: Чего хотел?
-Message_1_Page_0 Привет, друг, что хотел?
-Response_0 Ничего
-Response_1 Проваливай отсюда!
-Response_2 Да так.. Ничего..
+Message_0_Page_0 <color=#FFFFFFFF><i>*испуганным голосом*:</i> Чего хотел?</color>
+Message_1_Page_0 <color=#FFFFFFFF>Привет, друг, что хотел?</color>
+Response_0 <color=#FFFFFFFF>Проваливай отсюда!</color>
+Response_1 <color=#FFFFFFFF>Ничего.</color>
+Response_2 <color=#FFFFFFFF>Да так.. Ничего..</color>

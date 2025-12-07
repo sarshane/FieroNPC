@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 У меня тут генератор сломался, а без него мне не собрать всё это барахло. Поможешь найти нужные детали? Мне нужен аккумулятор и канистра.
-Response_0 Хорошо, я поищу.
-Response_1 Нет, я занят.
+Message_0_Page_0 <color=#FFFFFFFF>У меня тут генератор сломался, а без него мне не собрать всё это барахло. Поможешь найти нужную деталь? Мне нужна канистра.</color>
+Response_0 <color=#F6F67F>Хорошо, я поищу.</color>
+Response_1 <color=#FFFFFFFF>Нет, я занят.</color>

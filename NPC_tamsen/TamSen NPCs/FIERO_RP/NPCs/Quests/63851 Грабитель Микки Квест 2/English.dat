@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Пропавший товар.
-Description Найти контейнер с украденным товаром на свалке.
-eed00a1d53e7f566f0dcb0c98fb35abf Найти контейнер с украденным товаром на свалке.
+Name <color=#FFFFFFFF>Пропавший товар</color>
+Description <color=#FFFFFFFF>Найти <color=#F6F67F>вагон с украденным товаром</color> на свалке.</color>
+eed00a1d53e7f566f0dcb0c98fb35abf <color=#FFFFFFFF>Найти вагон</color> <color=#F6F67F>{0}/{1}</color>

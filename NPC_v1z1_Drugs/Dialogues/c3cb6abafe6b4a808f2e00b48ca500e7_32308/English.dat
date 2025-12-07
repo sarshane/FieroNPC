@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
 Message_0_Page_0 <color=#FFFFFF>Груз оформлен, деньги крутятся. Если принесёшь товар посерьёзней — скажем, кирпичи с белым порошком — куплю по хорошей цене</color>
 Message_1_Page_0 <color=#FFFFFF>Чем быстрее - тем лучше.</color>
-Response_0 <color=#FFFFFF>Договорились</color>, <name_npc>.
-Response_1 <i>Уйти</i>
+Response_0 <color=#FFFFFF>Договорились.</color>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>

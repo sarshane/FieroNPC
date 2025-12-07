@@ -1,5 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Подработка для Пита.
-Description Найти торговца или механика в Фиеро, который согласится дать Питу работу.
-3dd6f8cb14db90f6141d585180d0a752 Найти торговца или механика в городе, который согласится дать Питу работу.
+Name <color=#FFFFFFFF>Подработка для Пита</color>
+Description <color=#FFFFFFFF>Найти <color=#F6F67F>торговца или механика</color> в Фиеро, который согласится дать Питу работу.</color>
+3dd6f8cb14db90f6141d585180d0a752 <color=#FFFFFFFF>Найти торговца или механика</color> <color=#F6F67F>{0}/{1}</color>
 489b6c5abe117a0ef626b386d40340fe Уважение.+
+9fb43442bf9c0c82a916e4a014d74343 <color=#F6F67F>Серебряная монета</color>

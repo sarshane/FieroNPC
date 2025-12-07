@@ -1,5 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Електрик без материалов
-Description У електрика сломался генератор принесите ему материалы для починки 
-d5d2901bb1e9d1a8b5236bdf6f58b75d {0}/{1} Бруски
-551bc7cbf2d0624980e821fcfb16b8d7 {0}/{1} Провода
+Name <color=#FFFFFFFF>Электрик без материалов</color>
+Description <color=#FFFFFFFF>У электрика сломался генератор принесите ему <color=#F6F67F>материалы для починки.</color></color>
+d5d2901bb1e9d1a8b5236bdf6f58b75d <color=#FFFFFFFF>Найти бруски</color> <color=#F6F67F>{0}/{1}</color>
+551bc7cbf2d0624980e821fcfb16b8d7 <color=#FFFFFFFF>Найти провода</color> <color=#F6F67F>{0}/{1}</color>
+b907dc7a1b1ada79e32cbf1386a601d9 <color=#F6F67F>1200$</color>

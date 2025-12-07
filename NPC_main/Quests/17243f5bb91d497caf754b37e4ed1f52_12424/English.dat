@@ -1,4 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Голодные строители
-Description Главный строитель попросил у вас принеси пиццу голодным работникам
-b641c0728facc0e62c31aa61184be4b4 {0}/{1} Принести пиццу
+Name <color=#FFFFFFFF>Голодные строители</color>
+Description <color=#FFFFFFFF>Главный строитель попросил у вас принеси <color=#F6F67F>пиццу</color> голодным работникам.</color>
+b641c0728facc0e62c31aa61184be4b4 <color=#FFFFFFFF>Принести пиццу</color> <color=#F6F67F>{0}/{1}</color>
+a25dd19cdd6d932f85434610a542fcb1 <color=#F6F67F>2000$</color>

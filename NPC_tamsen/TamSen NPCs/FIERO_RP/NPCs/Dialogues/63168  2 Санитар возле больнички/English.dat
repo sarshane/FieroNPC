@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Я пыталась его уговорить, а он мне чуть руку не вывернул. Силой тащить — только хуже сделаем.
-Message_1_Page_0 Слышал? Давай, топай, а мы тут попробуем его не упустить.
-Response_0 Понял.
-Response_1 <b><i>Уйти</i></b>
+Message_0_Page_0 <color=#FFFFFFFF>Я пыталась его уговорить, а он мне чуть руку не вывернул. Силой тащить — только хуже сделаем.</color>
+Message_1_Page_0 <color=#FFFFFFFF>Слышал? Давай, топай, а мы тут попробуем его не упустить.</color>
+Response_0 <color=#FFFFFFFF>Понял.</color>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>

@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Эй, ты правда хочешь чтобы я ушёл?
-Response_0 Проваливай! ((павел уйдёт навсегда))
-Response_1 Ладно, оставайся.
+Message_0_Page_0 <color=#FFFFFFFF>Эй, ты правда хочешь чтобы я ушёл?</color>
+Response_0 <color=#FFFFFFFF>Проваливай! <color=#F6F67F>[Павел уйдёт навсегда]</color></color>
+Response_1 <color=#FFFFFFFF>Ладно, оставайся.</color>

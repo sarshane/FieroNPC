@@ -1,8 +1,8 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 ААаААаАааА!!! Помогите мнеее!!! Прошу, пожалуйста!
-Message_1_Page_0 АааАаАааааААА!!! Помогите!
-Message_2_Page_0 Я вам ничего не скажу! *смеётся*
-Message_3_Page_0 Без мячика не во что играть...
-Response_0 Где мяч, который вы забрали у мальчика на лавочке?
-Response_1 Удачно повисеть, шкет.
-Response_2 *уйти*
+Message_0_Page_0 <color=#FFFFFFFF>ААаААаАааА!!! Помогите мнеее!!! Прошу, пожалуйста!</color>
+Message_1_Page_0 <color=#FFFFFFFF>АааАаАааааААА!!! Помогите!</color>
+Message_2_Page_0 <color=#FFFFFFFF>Я вам ничего не скажу! <i>*смеётся*</i></color>
+Message_3_Page_0 <color=#FFFFFFFF>Без мячика не во что играть...</color>
+Response_0 <color=#FFFFFFFF>Где мяч, который вы забрали у мальчика на лавочке?</color>
+Response_1 <color=#FFFFFFFF>Удачно повисеть, шкет.</color>
+Response_2 <color=#FFFFFFFF><i>*Уйти*</i></color>

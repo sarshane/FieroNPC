@@ -2,4 +2,4 @@
 Message_0_Page_0 <color=#FFFFFF>Генератор мурлычет. Пустые бочки теперь в продаже — бери, пока есть.</color>
 Message_1_Page_0 <color=#FFFFFF>Теперь погрузчик в деле — могу таскать тяжёлый хлам. Если нужно что-то серьёзное, типа бочки или шредера, заходи!</color>
 Message_2_Page_0 <color=#FFFFFF>Давай, братан, буду ждать.</color>
-Response_0 <i>Уйти</i>
+Response_0 <color=#FFFFFFFF><i>*Уйти*</i></color>

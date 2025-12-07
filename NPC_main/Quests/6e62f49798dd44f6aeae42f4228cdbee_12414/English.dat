@@ -1,5 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Помогите доктору 
-Description Доктору нужны медикаменты что бы спасти строителя 
-b1d63b58730d702324da2bba00927677 {0}/{1} Бинты
-1d387a05e21a0a574f5633acdab0fafb {0}/{1} Обезболивающние 
+Name <color=#FFFFFFFF>Помощь доктору</color>
+Description <color=#FFFFFFFF>Доктору нужны <color=#F6F67F>медикаменты</color> что бы спасти строителя.</color>
+b1d63b58730d702324da2bba00927677 <color=#FFFFFFFF>Найти бинты</color> <color=#F6F67F>{0}/{1}</color>
+1d387a05e21a0a574f5633acdab0fafb <color=#FFFFFFFF>Найти обезболивающее</color> <color=#F6F67F>{0}/{1}</color>
+9db5c4c3df229ab51a487e152f9335e0 <color=#F6F67F>800$</color>

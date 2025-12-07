@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Жрать будешь? Если да, гони 120 бачей! Если нет вали по хорошему!
-Response_0 Да, буду
-Response_1 *Уйти*
+Message_0_Page_0 <color=#FFFFFFFF>Жрать будешь? Если да, гони <color=#F6F67F>120$!</color> Если нет вали по хорошему!</color>
+Response_0 <color=#FFFFFFFF>Да, буду.</color> <color=#F6F67F>[120$]</color>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>

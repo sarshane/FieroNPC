@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Ты хоть нормально дерево срубить сможешь? 
-Message_0_Page_1 Бери топор и руби два дерева, если будет отлично, то и работать у меня будешь за оплату.
-Response_0 *взять топор*
-Response_1 Хорошо, я вам покажу.
+Message_0_Page_0 <color=#FFFFFFFF>Ты хоть нормально дерево срубить сможешь? </color>
+Message_0_Page_1 <color=#FFFFFFFF>Бери топор и руби два дерева, если будет отлично, то и работать у меня будешь за оплату.</color>
+Response_0 <color=#F6F67F><i>*Взять топор*</i></color>
+Response_1 <color=#F6F67F>Хорошо, я вам покажу.</color>

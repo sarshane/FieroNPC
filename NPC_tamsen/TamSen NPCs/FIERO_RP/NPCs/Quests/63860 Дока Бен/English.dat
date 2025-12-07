@@ -1,5 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Потерянный груз
-Description Здесь затерялся один важный ящик, который нужно отыскать.
-b2ed621dbfdac964602a91ae6bb8c28e Необходимо найти маленький квадратный ящик где-то в порту.
+Name <color=#FFFFFFFF>Потерянный груз</color>
+Description <color=#FFFFFFFF>Здесь затерялся один важный ящик, который нужно отыскать.</color>
+b2ed621dbfdac964602a91ae6bb8c28e <color=#FFFFFFFF>Найти ящик</color> <color=#F6F67F>{0}/{1}</color>
 da1891e3a058476cb089fa895a231560 Уважение.+
+6ed31d01405d5fae21cc63e3d57fff07 <color=#F6F67F>Серебряная монета x2</color>

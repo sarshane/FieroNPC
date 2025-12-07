@@ -9,6 +9,6 @@ Message_3_Page_0 <color=#FFFFFF>Опять чужие шляются по дво
 Message_3_Page_1 <color=#FFFFFF>Ты откуда, парень? Физкультурник? Или просто заблудился?"</color>
 Message_3_Page_2 <i><color=#FFFFFF>*замечает подозрительную выпуклость в твоём рюкзаке или лёгкий запах*</color></i>
 Message_3_Page_3 <color=#FFFFFF>Погоди... Ты не из тех, кто «ботанику» разводит в подвалах?</color>
-Response_0 <color=#F6F67F>*Продать*</color> <color=#FFFFFF>Я не с пустыми руками.</color>
-Response_1 <color=#F6F67F>*Продать*</color> <color=#FFFFFF>Товар при себе.</color>
-Response_2 <color=#DCB413>*Уйти*</color> <color=#FFFFFF>На этот раз у меня ничего нет</color>
+Response_0 <color=#F6F67F><i>*Продать*</i></color> <color=#FFFFFF>Я не с пустыми руками.</color>
+Response_1 <color=#F6F67F><i>*Продать*</i></color> <color=#FFFFFF>Товар при себе.</color>
+Response_2 <color=#FFFFFF><i>*Уйти*</i></color> <color=#FFFFFF>На этот раз у меня ничего нет</color>

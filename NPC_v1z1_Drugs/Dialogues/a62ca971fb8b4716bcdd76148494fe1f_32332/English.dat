@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
 Message_0_Page_0 <color=#FFFFFF>Раствор пошёл! Если понадобится цемент или стройхлам — обращайся, уступлю по-дружески</color>
 Message_1_Page_0 <color=#FFFFFF>Чем быстрее - тем лучше.</color>
-Response_0 <i>Уйти</i>
+Response_0 <color=#FFFFFFFF><i>*Уйти*</i></color>

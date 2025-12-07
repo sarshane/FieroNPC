@@ -1,6 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Помощь по хозяйству.
-Description Необходимо собрать яйца со всех курятников.
-e4a2eacfa5824b16a2d5ec878be1a8bf Собери яйца со всех курятников.
-29bbc870cc13e406f682ab0a089b21f7 500 баксов.
+Name <color=#FFFFFFFF>Помощь по хозяйству</color>
+Description <color=#FFFFFFFF>Необходимо <color=#F6F67F>собрать яйца</color> со всех курятников.</color>
+e4a2eacfa5824b16a2d5ec878be1a8bf <color=#FFFFFFFF>Собрать яйца</color> <color=#F6F67F>{0}/{1}</color>
+29bbc870cc13e406f682ab0a089b21f7 <color=#F6F67F>500$</color>
 bc4bfd3f3205411cecce5aa4ccdbcb08 Уважение.+

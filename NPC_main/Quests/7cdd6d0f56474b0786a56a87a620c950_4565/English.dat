@@ -1,6 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
 Name <color=#FFFFFFFF>Найти знакомого</color>
-Description <color=#FFFFFFFF>Сходить в парк и найти знакомого Стива. Говорят: он может помочь в первых начинаниях.</color>
-a007a5e5e5dbf6693e43effb71f504a5 Найти знакомого Стива
-8defb0e1b5d1ac964402b6822a5b1d21 Уважение
-78b9b32a10bce0f4179c9b07d5add9a3 100$
+Description <color=#FFFFFFFF>Сходить в парк и найти <color=#F6F67F>знакомого Стива.</color> Говорят: он может помочь в первых начинаниях.</color>
+a007a5e5e5dbf6693e43effb71f504a5 <color=#FFFFFFFF>Найти Стива <color=#F6F67F>{0}/{1}</color></color>
+8defb0e1b5d1ac964402b6822a5b1d21 <color=#F6F67F>Уважение</color>
+78b9b32a10bce0f4179c9b07d5add9a3 <color=#F6F67F>100$</color>

@@ -1,8 +1,8 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Ха, да ты глазастый! Ладно, вот твои 200 рублей, как обещал.
+Message_0_Page_0 <color=#FFFFFFFF>Ха, да ты глазастый! Ладно, вот твои <color=#F6F67F>200$</color>, как обещал.</color>
 9246582609132dc97f1ec0c599bbfe0e 200$
-Message_1_Page_0 Ох, не угадал, дружище! Он вот тут был.
-Message_1_Page_1 Ну ничего, в следующий раз повезет. Еще разок сыграем?
-Response_0 Давай еще!
-Response_1 У меня нет денег.
-Response_2 Не, не хочу. Выглядит как развод.
+Message_1_Page_0 <color=#FFFFFFFF>Ох, не угадал, дружище! Он вот тут был.</color>
+Message_1_Page_1 <color=#FFFFFFFF>Ну ничего, в следующий раз повезет. Еще разок сыграем?</color>
+Response_0 <color=#FFFFFFFF>Давай еще!</color>
+Response_1 <color=#FFFFFFFF>У меня нет денег.</color>
+Response_2 <color=#FFFFFFFF>Не, не хочу. Выглядит как развод.</color>

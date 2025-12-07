@@ -1,6 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Помощь с топливом.
-Description Проблема одна — топливо заканчивается. Может на складе осталось немного?
-409996b92d711ad49546e6e768e52a48 Найти канистру с бензином где-то на старом складе. 
-48c85e1020162f4c223a86a1aed4901d 500 баксов.
+Name <color=#FFFFFFFF>Помощь с топливом</color>
+Description <color=#FFFFFFFF>Проблема одна — топливо заканчивается. Может <color=#F6F67F>на складе</color> осталось немного?</color>
+409996b92d711ad49546e6e768e52a48 <color=#FFFFFFFF>Найти канистру</color> <color=#F6F67F>{0}/{1}</color>
+48c85e1020162f4c223a86a1aed4901d <color=#F6F67F>500$</color>
 fa33c173a24def25d133f1490efea803 Уважение.+

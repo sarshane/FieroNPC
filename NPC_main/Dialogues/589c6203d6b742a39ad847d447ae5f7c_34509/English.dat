@@ -1,13 +1,13 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 *стоит, не замечая вас*
-Message_0_Page_1 Здравствуй, хотел чего-то?
-Message_1_Page_0 Привет, расклеил плакаты уже? 
-Message_1_Page_1 Быстро ты...
-Message_2_Page_0 Привет, ну что, расклеил все плакаты?
-Message_3_Page_0 Привет, чего хотел?
-Message_4_Page_0 Привет еще раз, ну так что, поможешь мне?
-Response_0 Здравствуйте, а что вы тут делаете?
-Response_1 Неет, я еще не расклеил.
-Response_2 Да, я расклеил все плакаты.
-Response_3 *уйти*
-Response_4 Да, помогу.
+Message_0_Page_0 <color=#FFFFFFFF><i>*стоит, не замечая вас*</i></color>
+Message_0_Page_1 <color=#FFFFFFFF>Здравствуй, хотел чего-то?</color>
+Message_1_Page_0 <color=#FFFFFFFF>Привет, ты уже расклеил все плакаты?</color>
+Message_1_Page_1 <color=#FFFFFFFF>Быстро ты...</color>
+Message_2_Page_0 <color=#FFFFFFFF>Привет, ну что, расклеил все плакаты?</color>
+Message_3_Page_0 <color=#FFFFFFFF>Привет, чего хотел?</color>
+Message_4_Page_0 <color=#FFFFFFFF>Привет еще раз, ну так что, поможешь мне?</color>
+Response_0 <color=#FFFFFFFF>Здравствуйте, а что вы тут делаете?</color>
+Response_1 <color=#FFFFFFFF>Неет, я еще не расклеил.</color>
+Response_2 <color=#F6F67F>Да, я расклеил все плакаты.</color>
+Response_3 <color=#FFFFFFFF><i>*Уйти*</i></color>
+Response_4 <color=#F6F67F>Да, помогу.</color>

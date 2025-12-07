@@ -1,8 +1,8 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Эхххххх... Я был лучшим в своём роде... Лучше меня никого не существовало...
-Message_1_Page_0 Ну что, нашёл гитару?
-Message_2_Page_0 Спасибо, что нашёл мою гитару!
-Response_0 Мужик, ты кто такой?
-Response_1 *уйти*
-Response_2 Да, вот твоя гитара!
-Response_3 Нет, ещё ищу...
+Message_0_Page_0 <color=#FFFFFFFF>Эхххххх... Я был лучшим в своём роде... Лучше меня никого не существовало...</color>
+Message_1_Page_0 <color=#FFFFFFFF>Ну что, нашёл гитару?</color>
+Message_2_Page_0 <color=#FFFFFFFF>Спасибо, что нашёл мою гитару!</color>
+Response_0 <color=#FFFFFFFF>Мужик, ты кто такой?</color>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>
+Response_2 <color=#FFFFFFFF>Да, вот твоя гитара!</color>
+Response_3 <color=#FFFFFFFF>Нет, ещё ищу...</color>

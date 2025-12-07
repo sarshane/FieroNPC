@@ -1,8 +1,8 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name <color=#1F871F><Хранитель знаний></color>
-Description Библиотекарь <color=#1F871F>Агата</color> попросила вас найти следующие книги:
-c23feba822cc880195c8c854526480e3 <color=#FFFFFF>Мастер и Маргарита</color> {0}/1
-d26db6cff33fddb590690c6337365b7a <color=#FFFFFF>Война и мир</color> {0}/1
-e8e8c1427bc377d3ab401ba077630a0a <color=#FFFFFF>Преступление и наказание</color> {0}/1
-8e436983c83a902629443de5da386547 <color=#FFFFFF>Властелин колец</color> {0}/1
-0fa2cc55e7ae7a7e3789e5cad1d94eac <color=#FFFFFF>Сказать жизни "Да!"</color> {0}/1
+Name <color=#FFFFFFFF>Хранитель знаний</color>
+Description <color=#FFFFFFFF>Библиотекарь Агата попросила вас найти <color=#F6F67F>книги</color>.</color>
+c23feba822cc880195c8c854526480e3 <color=#FFFFFF>Мастер и Маргарита</color> <color=#F6F67F>{0}/1</color>
+d26db6cff33fddb590690c6337365b7a <color=#FFFFFF>Война и мир</color> <color=#F6F67F>{0}/1</color>
+e8e8c1427bc377d3ab401ba077630a0a <color=#FFFFFF>Преступление и наказание</color> <color=#F6F67F>{0}/1</color>
+8e436983c83a902629443de5da386547 <color=#FFFFFF>Властелин колец</color> <color=#F6F67F>{0}/1</color>
+0fa2cc55e7ae7a7e3789e5cad1d94eac <color=#FFFFFF>Сказать жизни "Да!"</color> <color=#F6F67F>{0}/1</color>

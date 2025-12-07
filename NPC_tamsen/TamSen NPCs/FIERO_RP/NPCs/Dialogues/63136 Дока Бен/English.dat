@@ -1,4 +1,4 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Здесь затерялся один важный ящик, который нужно отыскать. Он должен быть где-то на дальнем складе, но я уже стар для таких поисков. Сможешь помочь?
-Response_0 Хорошо, я его найду.
-Response_1 <i><b>Уйти</b></i>
+Message_0_Page_0 <color=#FFFFFFFF>Здесь затерялся один важный ящик, который нужно отыскать. Он должен быть где-то на дальнем складе, но я уже стар для таких поисков. Сможешь помочь?</color>
+Response_0 <color=#F6F67F>Хорошо, я его найду.</color>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>

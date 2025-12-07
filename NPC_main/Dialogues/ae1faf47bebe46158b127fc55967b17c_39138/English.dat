@@ -1,9 +1,9 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Здравcтвуй, что пришёл? На лесоруба не похож ты.
-Message_1_Page_0 Я не видел, что ты срубил дерево. Так что действуй!
-Message_2_Page_0 Молодец!
-Message_3_Page_0 Здарова, работаешь?
-Response_0 Могу ли я порубить деревья за деньги?
-Response_1 Ладно..
-Response_2 Теперь могу?
-Response_3 Работаю.
+Message_0_Page_0 <color=#FFFFFFFF>Здравcтвуй, что пришёл? На лесоруба не похож ты.</color>
+Message_1_Page_0 <color=#FFFFFFFF>Я не видел, что ты срубил дерево. Так что действуй!</color>
+Message_2_Page_0 <color=#FFFFFFFF>Молодец!</color>
+Message_3_Page_0 <color=#FFFFFFFF>Здарова, работаешь?</color>
+Response_0 <color=#FFFFFFFF>Могу ли я порубить деревья за деньги?</color>
+Response_1 <color=#FFFFFFFF>Ладно..</color>
+Response_2 <color=#F6F67F>Теперь могу?</color>
+Response_3 <color=#FFFFFFFF>Работаю.</color>

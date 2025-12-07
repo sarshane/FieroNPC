@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 <i>Неспешно курит сигару.</i>
-Message_1_Page_0 Хочешь сказать, ты нашел?
-Response_0 Ты работаешь здесь давно?
-Response_1 Есть такое.
-Response_2 Эм, ещё нет.
-Response_3 <b><i>Уйти</i></b>
+Message_0_Page_0 <color=#FFFFFFFF><i>*Неспешно курит сигару*</i></color>
+Message_1_Page_0 <color=#FFFFFFFF>Хочешь сказать, ты нашел?</color>
+Response_0 <color=#FFFFFFFF>Ты работаешь здесь давно?</color>
+Response_1 <color=#F6F67F>Есть такое.</color>
+Response_2 <color=#FFFFFFFF>Эм, ещё нет.</color>
+Response_3 <color=#FFFFFFFF><i>*Уйти*</i></color>

@@ -1,11 +1,11 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Ой, у меня сумку вырвали прямо с рук! Этот вор побежал прямо по дороге и свернул!
-Message_0_Page_1 Можете помочь его догнать, пожалуйста?
-Message_1_Page_0 Вы догнали его?
-Message_2_Page_0 Спасибо, что забрали мою сумку, можете её отдать мне?
-Message_3_Page_0 *стоит с сумкой и ждёт автобуса*
-Response_0 Да, я могу вам помочь
-Response_1 Нет, не догнал ещё.
-Response_2 Да, держите
-Response_3 Нет, не отдам!
-Response_4 *уйти*
+Message_0_Page_0 <color=#FFFFFFFF>Ой, у меня сумку вырвали прямо с рук! Этот вор побежал прямо по дороге и свернул!</color>
+Message_0_Page_1 <color=#FFFFFFFF>Можете помочь его догнать, пожалуйста?</color>
+Message_1_Page_0 <color=#FFFFFFFF>Вы догнали его?</color>
+Message_2_Page_0 <color=#FFFFFFFF>Спасибо, что забрали мою сумку, можете её отдать мне?</color>
+Message_3_Page_0 <color=#FFFFFFFF><i>*Стоит с сумкой и ждёт автобуса*</i></color>
+Response_0 <color=#F6F67F>Да, я могу вам помочь.</color>
+Response_1 <color=#FFFFFFFF>Нет, не догнал ещё.</color>
+Response_2 <color=#F6F67F>Да, держите.</color>
+Response_3 <color=#FFFFFFFF>Нет, не отдам!</color>
+Response_4 <color=#FFFFFFFF><i>*Уйти*</i></color>

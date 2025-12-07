@@ -1,8 +1,8 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Здароваааа... Ёпть... А что сегодня за праздник, друг мой? 
-Message_1_Page_0 Ну что? Нашёл все бутылки?
-Message_2_Page_0 Ухуууу!!!! Сегодня бухаем!
-Response_0 Сегодня нет никаких праздников, обычный день.
-Response_1 *уйти*
-Response_2 Да, возьми!
-Response_3 Пока нет...
+Message_0_Page_0 <color=#FFFFFFFF>Здароваааа... Ёпть... А что сегодня за праздник, друг мой?</color>
+Message_1_Page_0 <color=#FFFFFFFF>Ну что? Нашёл все бутылки?</color>
+Message_2_Page_0 <color=#FFFFFFFF>Ухуууу!!!! Сегодня бухаем!</color>
+Response_0 <color=#FFFFFFFF>Сегодня нет никаких праздников, обычный день.</color>
+Response_1 <color=#FFFFFFFF><i>*Уйти*</i></color>
+Response_2 <color=#F6F67F>Да, возьми!</color>
+Response_3 <color=#FFFFFFFF>Пока нет...</color>

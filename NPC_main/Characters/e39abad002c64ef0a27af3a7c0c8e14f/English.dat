@@ -1,6 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 Приветсвую, что хотите продать?
-Response_0 Украшения
-Response_1 Технику
-Response_2 Драгоценности
-Response_3 Одежду
+Message_0_Page_0 <color=#FFFFFFFF>Приветсвую, что хотите продать?</color>
+Response_0 <color=#F6F67F>Украшения.</color>
+Response_1 <color=#F6F67F>Технику.</color>
+Response_2 <color=#F6F67F>Драгоценности.</color>
+Response_3 <color=#F6F67F>Одежду.</color>

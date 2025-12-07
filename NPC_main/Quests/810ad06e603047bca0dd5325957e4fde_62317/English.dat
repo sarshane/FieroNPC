@@ -1,4 +1,6 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name Догнать вора и забрать сумку
-Description Пройдите прямо по дороге, найдите вора и заберите у него сумку. Отдайте сумку женщине.
-76e36f566606c9cde6ad22095bb31771 Забрать сумку {0}/1
+Name <color=#FFFFFFFF>Догнать вора и забрать сумку</color>
+Description <color=#FFFFFFFF>Пройдите прямо по дороге, найдите <color=#F6F67F>вора и заберите у него сумку.</color> Отдайте сумку женщине.</color>
+76e36f566606c9cde6ad22095bb31771 <color=#FFFFFFFF>Забрать сумку</color> <color=#F6F67F>{0}/1</color>
+099c0cabbde2b53766e1801dfd482955 <color=#F6F67F>250$</color>
+24ddd08c89ff52c869e9ddc1f843943b <color=#F6F67F>Тортик</color>
