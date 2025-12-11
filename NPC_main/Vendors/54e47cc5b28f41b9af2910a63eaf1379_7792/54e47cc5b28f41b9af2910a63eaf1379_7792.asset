@@ -8,7 +8,7 @@
 {
 	"Buying" "17"
 	"Buying_0_ID" "43109"
-	"Buying_0_Cost" "20"
+	"Buying_0_Cost" "22"
 	"Buying_0_Conditions"
 	[
 	]
@@ -16,7 +16,7 @@
 	[
 	]
 	"Buying_1_ID" "1349"
-	"Buying_1_Cost" "22"
+	"Buying_1_Cost" "24"
 	"Buying_1_Conditions"
 	[
 	]
@@ -24,7 +24,7 @@
 	[
 	]
 	"Buying_2_ID" "43107"
-	"Buying_2_Cost" "28"
+	"Buying_2_Cost" "25"
 	"Buying_2_Conditions"
 	[
 	]
@@ -40,7 +40,7 @@
 	[
 	]
 	"Buying_4_ID" "1347"
-	"Buying_4_Cost" "28"
+	"Buying_4_Cost" "27"
 	"Buying_4_Conditions"
 	[
 	]
@@ -80,7 +80,7 @@
 	[
 	]
 	"Buying_9_ID" "505"
-	"Buying_9_Cost" "47"
+	"Buying_9_Cost" "67"
 	"Buying_9_Conditions"
 	[
 	]
@@ -88,7 +88,7 @@
 	[
 	]
 	"Buying_10_ID" "43115"
-	"Buying_10_Cost" "120"
+	"Buying_10_Cost" "150"
 	"Buying_10_Conditions"
 	[
 	]
@@ -104,7 +104,7 @@
 	[
 	]
 	"Buying_12_ID" "1434"
-	"Buying_12_Cost" "450"
+	"Buying_12_Cost" "500"
 	"Buying_12_Conditions"
 	[
 	]
@@ -112,7 +112,7 @@
 	[
 	]
 	"Buying_13_ID" "51497"
-	"Buying_13_Cost" "400"
+	"Buying_13_Cost" "380"
 	"Buying_13_Conditions"
 	[
 	]
@@ -120,7 +120,7 @@
 	[
 	]
 	"Buying_14_ID" "51496"
-	"Buying_14_Cost" "350"
+	"Buying_14_Cost" "360"
 	"Buying_14_Conditions"
 	[
 	]
@@ -128,7 +128,7 @@
 	[
 	]
 	"Buying_15_ID" "51495"
-	"Buying_15_Cost" "250"
+	"Buying_15_Cost" "270"
 	"Buying_15_Conditions"
 	[
 	]
@@ -136,7 +136,7 @@
 	[
 	]
 	"Buying_16_ID" "51494"
-	"Buying_16_Cost" "150"
+	"Buying_16_Cost" "130"
 	"Buying_16_Conditions"
 	[
 	]
@@ -191,7 +191,7 @@
 	]
 	"Selling_5_Type" "ITEM"
 	"Selling_5_ID" "51929"
-	"Selling_5_Cost" "1300"
+	"Selling_5_Cost" "1350"
 	"Selling_5_Conditions"
 	[
 	]

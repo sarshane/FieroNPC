@@ -15,7 +15,7 @@
 	"Message_0_Rewards"
 	[
 	]
-	"Responses" "3"
+	"Responses" "4"
 	"Response_0_Dialogue" "70a20491e2bc4f54a612d5324cd3c107"
 	"Response_0_Quest" "0"
 	"Response_0_Vendor" "bedb34fd0002429a9c07ca3448203b26"
@@ -27,7 +27,7 @@
 	]
 	"Response_1_Dialogue" "70a20491e2bc4f54a612d5324cd3c107"
 	"Response_1_Quest" "0"
-	"Response_1_Vendor" "6b89d7c7a3104521a89280b7c94e590e"
+	"Response_1_Vendor" "4022cdd533f94b91b602c5f5977976d5"
 	"Response_1_Conditions"
 	[
 	]
@@ -36,11 +36,20 @@
 	]
 	"Response_2_Dialogue" "70a20491e2bc4f54a612d5324cd3c107"
 	"Response_2_Quest" "0"
-	"Response_2_Vendor" "8df15264f3b442c1badb8efa7fb9f866"
+	"Response_2_Vendor" "6b89d7c7a3104521a89280b7c94e590e"
 	"Response_2_Conditions"
 	[
 	]
 	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "70a20491e2bc4f54a612d5324cd3c107"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "8df15264f3b442c1badb8efa7fb9f866"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
 	[
 	]
 	"ID" "2025"
