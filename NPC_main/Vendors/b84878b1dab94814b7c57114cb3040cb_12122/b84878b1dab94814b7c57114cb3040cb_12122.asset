@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "5"
+	"Selling" "7"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "30005"
 	"Selling_0_Cost" "2650"
@@ -51,6 +51,24 @@
 	[
 	]
 	"Selling_4_Rewards"
+	[
+	]
+	"Selling_5_Type" "ITEM"
+	"Selling_5_ID" "31018"
+	"Selling_5_Cost" "600"
+	"Selling_5_Conditions"
+	[
+	]
+	"Selling_5_Rewards"
+	[
+	]
+	"Selling_6_Type" "ITEM"
+	"Selling_6_ID" "31022"
+	"Selling_6_Cost" "400"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
 	[
 	]
 	"ID" "12122"

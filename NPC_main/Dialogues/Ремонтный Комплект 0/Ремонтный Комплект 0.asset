@@ -24,6 +24,13 @@
 	]
 	"Response_0_Rewards"
 	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "71c05a69def01ba2c4bde8571b8e42a8"
+			"ID" "665"
+			"Value" "432"
+			"Modification" "ASSIGN"
+		}
 	]
 	"Response_1_Dialogue" "0"
 	"Response_1_Quest" "0"
@@ -33,13 +40,6 @@
 	]
 	"Response_1_Rewards"
 	[
-		{
-			"Type" "FLAG_SHORT"
-			"TextId" "71c05a69def01ba2c4bde8571b8e42a8"
-			"ID" "665"
-			"Value" "432"
-			"Modification" "ASSIGN"
-		}
 	]
 	"Response_2_Dialogue" "0"
 	"Response_2_Quest" "0"
@@ -51,5 +51,5 @@
 	[
 	]
 	"ID" "2080"
-	"Asset_Bundle_Version" "5"
+	"Asset_Bundle_Version" "4"
 }

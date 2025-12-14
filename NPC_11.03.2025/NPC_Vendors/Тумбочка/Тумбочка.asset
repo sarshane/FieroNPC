@@ -11,7 +11,7 @@
 	"Selling" "21"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "35066"
-	"Selling_0_Cost" "35066"
+	"Selling_0_Cost" "1750"
 	"Selling_0_Conditions"
 	[
 	]
@@ -21,7 +21,7 @@
 	"Selling_0_Grip" "1500"
 	"Selling_1_Type" "ITEM"
 	"Selling_1_ID" "35067"
-	"Selling_1_Cost" "35066"
+	"Selling_1_Cost" "1750"
 	"Selling_1_Conditions"
 	[
 	]
@@ -31,7 +31,7 @@
 	"Selling_1_Grip" "1500"
 	"Selling_2_Type" "ITEM"
 	"Selling_2_ID" "35068"
-	"Selling_2_Cost" "35066"
+	"Selling_2_Cost" "1750"
 	"Selling_2_Conditions"
 	[
 	]
@@ -41,7 +41,7 @@
 	"Selling_2_Grip" "1500"
 	"Selling_3_Type" "ITEM"
 	"Selling_3_ID" "35069"
-	"Selling_3_Cost" "35066"
+	"Selling_3_Cost" "1750"
 	"Selling_3_Conditions"
 	[
 	]
@@ -51,7 +51,7 @@
 	"Selling_3_Grip" "1500"
 	"Selling_4_Type" "ITEM"
 	"Selling_4_ID" "35070"
-	"Selling_4_Cost" "35066"
+	"Selling_4_Cost" "1750"
 	"Selling_4_Conditions"
 	[
 	]
@@ -61,7 +61,7 @@
 	"Selling_4_Grip" "1500"
 	"Selling_5_Type" "ITEM"
 	"Selling_5_ID" "35071"
-	"Selling_5_Cost" "35066"
+	"Selling_5_Cost" "1750"
 	"Selling_5_Conditions"
 	[
 	]
@@ -71,7 +71,7 @@
 	"Selling_5_Grip" "1500"
 	"Selling_6_Type" "ITEM"
 	"Selling_6_ID" "35072"
-	"Selling_6_Cost" "35066"
+	"Selling_6_Cost" "1750"
 	"Selling_6_Conditions"
 	[
 	]

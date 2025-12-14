@@ -9,7 +9,7 @@
 	"FaceOverride" "29"
 	"Buying" "17"
 	"Buying_0_ID" "42106"
-	"Buying_0_Cost" "35"
+	"Buying_0_Cost" "40"
 	"Buying_0_Conditions"
 	[
 	]
@@ -25,7 +25,7 @@
 	[
 	]
 	"Buying_2_ID" "42114"
-	"Buying_2_Cost" "35"
+	"Buying_2_Cost" "37"
 	"Buying_2_Conditions"
 	[
 	]
@@ -41,7 +41,7 @@
 	[
 	]
 	"Buying_4_ID" "42215"
-	"Buying_4_Cost" "35"
+	"Buying_4_Cost" "34"
 	"Buying_4_Conditions"
 	[
 	]
@@ -49,7 +49,7 @@
 	[
 	]
 	"Buying_5_ID" "42117"
-	"Buying_5_Cost" "35"
+	"Buying_5_Cost" "40"
 	"Buying_5_Conditions"
 	[
 	]
@@ -89,7 +89,7 @@
 	[
 	]
 	"Buying_10_ID" "342"
-	"Buying_10_Cost" "35"
+	"Buying_10_Cost" "40"
 	"Buying_10_Conditions"
 	[
 	]
@@ -97,7 +97,7 @@
 	[
 	]
 	"Buying_11_ID" "340"
-	"Buying_11_Cost" "35"
+	"Buying_11_Cost" "36"
 	"Buying_11_Conditions"
 	[
 	]
@@ -113,7 +113,7 @@
 	[
 	]
 	"Buying_13_ID" "335"
-	"Buying_13_Cost" "35"
+	"Buying_13_Cost" "36"
 	"Buying_13_Conditions"
 	[
 	]
@@ -121,7 +121,7 @@
 	[
 	]
 	"Buying_14_ID" "344"
-	"Buying_14_Cost" "35"
+	"Buying_14_Cost" "34"
 	"Buying_14_Conditions"
 	[
 	]
@@ -129,7 +129,7 @@
 	[
 	]
 	"Buying_15_ID" "1046"
-	"Buying_15_Cost" "35"
+	"Buying_15_Cost" "36"
 	"Buying_15_Conditions"
 	[
 	]
@@ -144,7 +144,7 @@
 	"Buying_16_Rewards"
 	[
 	]
-	"Selling" "21"
+	"Selling" "22"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "42106"
 	"Selling_0_Cost" "150"
@@ -165,7 +165,7 @@
 	]
 	"Selling_2_Type" "ITEM"
 	"Selling_2_ID" "42213"
-	"Selling_2_Cost" "250"
+	"Selling_2_Cost" "300"
 	"Selling_2_Conditions"
 	[
 	]
@@ -192,7 +192,7 @@
 	]
 	"Selling_5_Type" "ITEM"
 	"Selling_5_ID" "42116"
-	"Selling_5_Cost" "250"
+	"Selling_5_Cost" "300"
 	"Selling_5_Conditions"
 	[
 	]
@@ -210,7 +210,7 @@
 	]
 	"Selling_7_Type" "ITEM"
 	"Selling_7_ID" "340"
-	"Selling_7_Cost" "50"
+	"Selling_7_Cost" "200"
 	"Selling_7_Conditions"
 	[
 	]
@@ -219,7 +219,7 @@
 	]
 	"Selling_8_Type" "ITEM"
 	"Selling_8_ID" "342"
-	"Selling_8_Cost" "60"
+	"Selling_8_Cost" "200"
 	"Selling_8_Conditions"
 	[
 	]
@@ -228,7 +228,7 @@
 	]
 	"Selling_9_Type" "ITEM"
 	"Selling_9_ID" "329"
-	"Selling_9_Cost" "50"
+	"Selling_9_Cost" "200"
 	"Selling_9_Conditions"
 	[
 	]
@@ -237,7 +237,7 @@
 	]
 	"Selling_10_Type" "ITEM"
 	"Selling_10_ID" "42275"
-	"Selling_10_Cost" "50"
+	"Selling_10_Cost" "150"
 	"Selling_10_Conditions"
 	[
 	]
@@ -246,7 +246,7 @@
 	]
 	"Selling_11_Type" "ITEM"
 	"Selling_11_ID" "1046"
-	"Selling_11_Cost" "50"
+	"Selling_11_Cost" "300"
 	"Selling_11_Conditions"
 	[
 	]
@@ -255,7 +255,7 @@
 	]
 	"Selling_12_Type" "ITEM"
 	"Selling_12_ID" "344"
-	"Selling_12_Cost" "50"
+	"Selling_12_Cost" "200"
 	"Selling_12_Conditions"
 	[
 	]
@@ -264,7 +264,7 @@
 	]
 	"Selling_13_Type" "ITEM"
 	"Selling_13_ID" "335"
-	"Selling_13_Cost" "50"
+	"Selling_13_Cost" "200"
 	"Selling_13_Conditions"
 	[
 	]
@@ -273,7 +273,7 @@
 	]
 	"Selling_14_Type" "ITEM"
 	"Selling_14_ID" "338"
-	"Selling_14_Cost" "50"
+	"Selling_14_Cost" "200"
 	"Selling_14_Conditions"
 	[
 	]
@@ -332,6 +332,15 @@
 	[
 	]
 	"Selling_20_Rewards"
+	[
+	]
+	"Selling_21_Type" "ITEM"
+	"Selling_21_ID" "26412"
+	"Selling_21_Cost" "300"
+	"Selling_21_Conditions"
+	[
+	]
+	"Selling_21_Rewards"
 	[
 	]
 	"ID" "7832"
