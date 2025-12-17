@@ -22,7 +22,7 @@
 			"Modification" "ASSIGN"
 		}
 	]
-	"Responses" "6"
+	"Responses" "5"
 	"Response_0_Dialogue" "a5fd92e318fb4295991b1b1af198d9b3"
 	"Response_0_Quest" "0"
 	"Response_0_Vendor" "0"
@@ -102,24 +102,6 @@
 		}
 	]
 	"Response_4_Rewards"
-	[
-	]
-	"Response_5_Dialogue" "963473cda929473faf4c77aba73b34d3"
-	"Response_5_Quest" "f4e5b3472c2b40dd8d31567d058daf7c"
-	"Response_5_Vendor" "0"
-	"Response_5_Conditions"
-	[
-		{
-			"Type" "QUEST"
-			"TextId" "6a639006a7dc05711b589c9500e46143"
-			"Reset" "true"
-			"Logic" "EQUAL"
-			"ID" "4591"
-			"Status" "READY"
-			"Ignore_NPC" "true"
-		}
-	]
-	"Response_5_Rewards"
 	[
 	]
 	"ID" "5700"

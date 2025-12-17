@@ -11,15 +11,6 @@
 	"Message_0_Prev" "0"
 	"Message_0_Conditions"
 	[
-		{
-			"Type" "QUEST"
-			"TextId" "c20c7b1bbb8928274658f863e93b5eba"
-			"Reset" "false"
-			"Logic" "EQUAL"
-			"ID" "697e4bdff185416798f87346fbce0bf8"
-			"Status" "ACTIVE"
-			"Ignore_NPC" "false"
-		}
 	]
 	"Message_0_Rewards"
 	[

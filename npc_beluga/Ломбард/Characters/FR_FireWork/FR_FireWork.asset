@@ -20,7 +20,9 @@
 	"Pants" "280"
 	"Hat" "278"
 	"Backpack" "0"
+	"Vest" "0"
 	"Mask" "26417"
+	"Glasses" "0"
 	"Has_Christmas_Outfit" "false"
 	"Has_Halloween_Outfit" "false"
 	"Color_Skin" "#FFE4C4"
@@ -33,5 +35,5 @@
 	"Pose_Pitch" "90"
 	"Pose_Head_Offset" "0"
 	"ID" "0"
-	"Asset_Bundle_Version" "5"
+	"Asset_Bundle_Version" "4"
 }
