@@ -1,0 +1,113 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "bcc1e0be1db44195a7f3bbd4af745630"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "3"
+	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "81e54a2d5685fde8120b44b1d95b2771"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "2100"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "81e54a2d5685fde8120b44b1d95b2771"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "2100"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "1"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "81e54a2d5685fde8120b44b1d95b2771"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "2100"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_2_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "5869c98933e844f7b86a057257f77045"
+	"Response_0_Quest" "dbd9634e6f1444488f3052c68aa07eda"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "9e0ffdc8612a2c6cecac0eafc8a39b1a"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "dbd9634e6f1444488f3052c68aa07eda"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "942b1ac67bdf21c331b90d2d1ff00142"
+			"ID" "2100"
+		}
+	]
+	"Response_1_Dialogue" "5869c98933e844f7b86a057257f77045"
+	"Response_1_Quest" "dbd9634e6f1444488f3052c68aa07eda"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "9e0ffdc8612a2c6cecac0eafc8a39b1a"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "dbd9634e6f1444488f3052c68aa07eda"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"ID" "2099"
+	"Asset_Bundle_Version" "5"
+}

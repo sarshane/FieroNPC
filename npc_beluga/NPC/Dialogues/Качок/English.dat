@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Эй чувак, есть вода?</color>
+Message_1_Page_0 <color=#FFFFFFFF>Эй! Я жду воду</color>
+Message_2_Page_0 <color=#FFFFFFFF>Оооо, вижу воду. Давай уже ее сюда!</color>
+Response_0 <b><color=#FFFF00FF>Щас, попробую тебе помочь</color></b>
+Response_1 <b><color=#FFFF00FF>Я нашел.</color></b>
+Response_2 <b><color=#FFFFFFFF>*уйти*</color></b>

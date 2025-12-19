@@ -10,7 +10,7 @@
 	"Selling" "16"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "17256"
-	"Selling_0_Cost" "5500"
+	"Selling_0_Cost" "6500"
 	"Selling_0_Conditions"
 	[
 	]
@@ -19,7 +19,7 @@
 	]
 	"Selling_1_Type" "ITEM"
 	"Selling_1_ID" "17257"
-	"Selling_1_Cost" "4500"
+	"Selling_1_Cost" "6000"
 	"Selling_1_Conditions"
 	[
 	]
@@ -28,7 +28,7 @@
 	]
 	"Selling_2_Type" "ITEM"
 	"Selling_2_ID" "17258"
-	"Selling_2_Cost" "5500"
+	"Selling_2_Cost" "7000"
 	"Selling_2_Conditions"
 	[
 	]
@@ -37,7 +37,7 @@
 	]
 	"Selling_3_Type" "ITEM"
 	"Selling_3_ID" "17259"
-	"Selling_3_Cost" "4500"
+	"Selling_3_Cost" "7000"
 	"Selling_3_Conditions"
 	[
 	]
@@ -46,7 +46,7 @@
 	]
 	"Selling_4_Type" "ITEM"
 	"Selling_4_ID" "17260"
-	"Selling_4_Cost" "5500"
+	"Selling_4_Cost" "7000"
 	"Selling_4_Conditions"
 	[
 	]
@@ -55,7 +55,7 @@
 	]
 	"Selling_5_Type" "ITEM"
 	"Selling_5_ID" "17261"
-	"Selling_5_Cost" "4500"
+	"Selling_5_Cost" "6000"
 	"Selling_5_Conditions"
 	[
 	]
@@ -73,7 +73,7 @@
 	]
 	"Selling_7_Type" "ITEM"
 	"Selling_7_ID" "17263"
-	"Selling_7_Cost" "4500"
+	"Selling_7_Cost" "6000"
 	"Selling_7_Conditions"
 	[
 	]
@@ -82,7 +82,7 @@
 	]
 	"Selling_8_Type" "ITEM"
 	"Selling_8_ID" "17266"
-	"Selling_8_Cost" "3500"
+	"Selling_8_Cost" "6000"
 	"Selling_8_Conditions"
 	[
 	]
@@ -91,7 +91,7 @@
 	]
 	"Selling_9_Type" "ITEM"
 	"Selling_9_ID" "17267"
-	"Selling_9_Cost" "2500"
+	"Selling_9_Cost" "5000"
 	"Selling_9_Conditions"
 	[
 	]
@@ -127,7 +127,7 @@
 	]
 	"Selling_13_Type" "ITEM"
 	"Selling_13_ID" "17273"
-	"Selling_13_Cost" "4500"
+	"Selling_13_Cost" "5500"
 	"Selling_13_Conditions"
 	[
 	]
@@ -136,7 +136,7 @@
 	]
 	"Selling_14_Type" "ITEM"
 	"Selling_14_ID" "17284"
-	"Selling_14_Cost" "3500"
+	"Selling_14_Cost" "6000"
 	"Selling_14_Conditions"
 	[
 	]
@@ -145,7 +145,7 @@
 	]
 	"Selling_15_Type" "ITEM"
 	"Selling_15_ID" "17285"
-	"Selling_15_Cost" "2500"
+	"Selling_15_Cost" "5000"
 	"Selling_15_Conditions"
 	[
 	]

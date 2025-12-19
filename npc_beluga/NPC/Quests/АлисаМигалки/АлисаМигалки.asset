@@ -1,0 +1,69 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "ee3bfa450e2347b5ae67e801a417a264"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "4f2c62426c5909d58ff1be657930c991"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "70"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "3fc29ddeb6b18e4e24953547ae9ddd53c6"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "49101"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "3fc29eb6b18edd4e24953547ae9ddd53c6"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "138"
+			"Amount" "1"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "3fc29eb6b18e4e249dd53547ae9ddd53c6"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "277"
+			"Amount" "1"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "3fc29eb6b18e4e249535sdsds47ae9ddd53c6"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "70"
+			"Amount" "2"
+		}
+	]
+	"Rewards"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "84e3dd95f2f213969c7c9b02f4f86703"
+			"Value" "500"
+		}
+		{
+			"Type" "REPUTATION"
+			"TextId" "6deeb929bccef69732e1dcf16b7d39c8"
+			"Value" "5"
+		}
+	]
+	"AbandonmentRewards"
+	[
+	]
+	"ID" "2095"
+	"Asset_Bundle_Version" "5"
+}

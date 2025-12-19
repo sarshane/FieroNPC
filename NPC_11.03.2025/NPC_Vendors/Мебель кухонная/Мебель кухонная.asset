@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "24"
+	"Selling" "21"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "17610"
 	"Selling_0_Cost" "700"
@@ -144,7 +144,7 @@
 	[
 	]
 	"Selling_15_Type" "ITEM"
-	"Selling_15_ID" "47433"
+	"Selling_15_ID" "47434"
 	"Selling_15_Cost" "2000"
 	"Selling_15_Conditions"
 	[
@@ -153,7 +153,7 @@
 	[
 	]
 	"Selling_16_Type" "ITEM"
-	"Selling_16_ID" "47434"
+	"Selling_16_ID" "47435"
 	"Selling_16_Cost" "2000"
 	"Selling_16_Conditions"
 	[
@@ -162,7 +162,7 @@
 	[
 	]
 	"Selling_17_Type" "ITEM"
-	"Selling_17_ID" "47435"
+	"Selling_17_ID" "47437"
 	"Selling_17_Cost" "2000"
 	"Selling_17_Conditions"
 	[
@@ -171,7 +171,7 @@
 	[
 	]
 	"Selling_18_Type" "ITEM"
-	"Selling_18_ID" "47436"
+	"Selling_18_ID" "47438"
 	"Selling_18_Cost" "2000"
 	"Selling_18_Conditions"
 	[
@@ -180,7 +180,7 @@
 	[
 	]
 	"Selling_19_Type" "ITEM"
-	"Selling_19_ID" "47437"
+	"Selling_19_ID" "47440"
 	"Selling_19_Cost" "2000"
 	"Selling_19_Conditions"
 	[
@@ -189,39 +189,12 @@
 	[
 	]
 	"Selling_20_Type" "ITEM"
-	"Selling_20_ID" "47438"
+	"Selling_20_ID" "47441"
 	"Selling_20_Cost" "2000"
 	"Selling_20_Conditions"
 	[
 	]
 	"Selling_20_Rewards"
-	[
-	]
-	"Selling_21_Type" "ITEM"
-	"Selling_21_ID" "47439"
-	"Selling_21_Cost" "2000"
-	"Selling_21_Conditions"
-	[
-	]
-	"Selling_21_Rewards"
-	[
-	]
-	"Selling_22_Type" "ITEM"
-	"Selling_22_ID" "47440"
-	"Selling_22_Cost" "2000"
-	"Selling_22_Conditions"
-	[
-	]
-	"Selling_22_Rewards"
-	[
-	]
-	"Selling_23_Type" "ITEM"
-	"Selling_23_ID" "47441"
-	"Selling_23_Cost" "2000"
-	"Selling_23_Conditions"
-	[
-	]
-	"Selling_23_Rewards"
 	[
 	]
 	"ID" "2051"

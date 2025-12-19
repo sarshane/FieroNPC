@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "38"
+	"Selling" "37"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "62449"
 	"Selling_0_Cost" "7500"
@@ -339,15 +339,6 @@
 	[
 	]
 	"Selling_36_Rewards"
-	[
-	]
-	"Selling_37_Type" "ITEM"
-	"Selling_37_ID" "62509"
-	"Selling_37_Cost" "10000"
-	"Selling_37_Conditions"
-	[
-	]
-	"Selling_37_Rewards"
 	[
 	]
 	"Disable_Sorting" ""

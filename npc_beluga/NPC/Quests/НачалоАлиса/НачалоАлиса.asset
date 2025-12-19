@@ -22,7 +22,15 @@
 			"TextId" "4f2c62426c5909d58ff1be657930c991"
 			"Reset" "false"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"Value" "50"
+			"Value" "60"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "3mfc29eb6b18e4e24953547ae9ddd53c6"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "42137"
+			"Amount" "3"
 		}
 	]
 	"Rewards"
