@@ -8,6 +8,7 @@
 {
 	"Messages" "1"
 	"Message_0_Pages" "1"
+	"Message_0_Prev" "0"
 	"Message_0_Conditions"
 	[
 	]
@@ -15,6 +16,8 @@
 	[
 	]
 	"Responses" "2"
+	"Response_0_Dialogue" "0"
+	"Response_0_Quest" "0"
 	"Response_0_Vendor" "62098b9e24e2435e97f7b3eeb5b51403"
 	"Response_0_Conditions"
 	[
@@ -22,6 +25,9 @@
 	"Response_0_Rewards"
 	[
 	]
+	"Response_1_Dialogue" "0"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
 	"Response_1_Conditions"
 	[
 	]
