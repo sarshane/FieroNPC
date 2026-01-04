@@ -18,7 +18,7 @@
 		}
 		{
 			"Type" "ITEM"
-			"TextId" "3fc29eb6b18e4e24953547ae9ddd53c6"
+			"TextId" "5fff6c89596540b58855ddcd1cb48f7a"
 			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
 			"ID" "52100"

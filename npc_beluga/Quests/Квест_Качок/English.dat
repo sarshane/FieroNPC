@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Name <b><color=#FFFF00FF>Вода для спортзала</color></b>
-Description <color=#FFFFFFFF>В спортзале срочно нужна вода.</color>
-70425118732a7f8c11d706b629b360a1 <color=#FFFFFFFF>Найти 3 смузи.</color> {0}/{1}
-2c859ae1c9de22bfb0930ce89f41b46f <color=#FFFFFFFF>Иметь больше 10 репутации.</color>
-6e4e69f3347f04e6dc60e6451f8ff2ed <color=#00FF00FF>500$</color>
-f005c3f7e9dbab5ddae13dc544ff47ce <color=#FFFFFFFF>10 реп.</color>
+Name <color=#FFFFFFFF>Вода для спортзала</color>
+Description <color=#FFFFFFFF>В спортзале срочно требуется <color=#F6F67F>вода</color>.</color>
+70425118732a7f8c11d706b629b360a1 <color=#FFFFFFFF>Найти смузи</color> <color=#F6F67F>{0}/{1}</color>
+2c859ae1c9de22bfb0930ce89f41b46f <color=#FFFFFFFF>Иметь больше 10 репутации</color>
+6e4e69f3347f04e6dc60e6451f8ff2ed <color=#F6F67F>500$</color>
+f005c3f7e9dbab5ddae13dc544ff47ce <color=#F6F67F>10 реп.</color>

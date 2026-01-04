@@ -13,7 +13,7 @@
 			"TextId" "b1d63b58730d702324da2bba00927677"
 			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"ID" "f9640d5d11614adf82ab4ce7c24af3e7"
+			"ID" "ae46254cfa3b437e9d74a5963e161da4"
 			"Amount" "2"
 		}
 		{
@@ -21,7 +21,7 @@
 			"TextId" "1d387a05e21a0a574f5633acdab0fafb"
 			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"ID" "8e232c76cb14432bbe5d38d7d2b22825"
+			"ID" "f9640d5d11614adf82ab4ce7c24af3e7"
 			"Amount" "1"
 		}
 	]

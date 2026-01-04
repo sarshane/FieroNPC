@@ -8,7 +8,6 @@
 {
 	"Messages" "5"
 	"Message_0_Pages" "1"
-	"Message_0_Prev" "0"
 	"Message_0_Conditions"
 	[
 		{
@@ -32,7 +31,6 @@
 	[
 	]
 	"Message_1_Pages" "1"
-	"Message_1_Prev" "0"
 	"Message_1_Conditions"
 	[
 		{
@@ -49,7 +47,6 @@
 	[
 	]
 	"Message_2_Pages" "1"
-	"Message_2_Prev" "0"
 	"Message_2_Conditions"
 	[
 		{
@@ -66,7 +63,6 @@
 	[
 	]
 	"Message_3_Pages" "1"
-	"Message_3_Prev" "0"
 	"Message_3_Conditions"
 	[
 		{
@@ -83,7 +79,6 @@
 	[
 	]
 	"Message_4_Pages" "1"
-	"Message_4_Prev" "0"
 	"Message_4_Conditions"
 	[
 		{
@@ -98,8 +93,6 @@
 	[
 	]
 	"Responses" "7"
-	"Response_0_Dialogue" "0"
-	"Response_0_Quest" "0"
 	"Response_0_Vendor" "4165842bd51145faa047f5fd502c3559"
 	"Response_0_Conditions"
 	[
@@ -116,8 +109,6 @@
 	"Response_0_Rewards"
 	[
 	]
-	"Response_1_Dialogue" "0"
-	"Response_1_Quest" "0"
 	"Response_1_Vendor" "8c679679955647a88202d6bb42cc4366"
 	"Response_1_Conditions"
 	[
@@ -136,7 +127,6 @@
 	]
 	"Response_2_Dialogue" "5869c98933e844f7b86a057257f77045"
 	"Response_2_Quest" "206d2f3a1fe9452286f1bd975eab7f04"
-	"Response_2_Vendor" "0"
 	"Response_2_Conditions"
 	[
 		{
@@ -166,7 +156,6 @@
 	]
 	"Response_3_Dialogue" "42932f0fafe042b29d0a2d13cc01e1b5"
 	"Response_3_Quest" "206d2f3a1fe9452286f1bd975eab7f04"
-	"Response_3_Vendor" "0"
 	"Response_3_Conditions"
 	[
 		{
@@ -184,7 +173,6 @@
 	]
 	"Response_4_Dialogue" "5869c98933e844f7b86a057257f77045"
 	"Response_4_Quest" "ee3bfa450e2347b5ae67e801a417a264"
-	"Response_4_Vendor" "0"
 	"Response_4_Conditions"
 	[
 		{
@@ -223,7 +211,6 @@
 	]
 	"Response_5_Dialogue" "42932f0fafe042b29d0a2d13cc01e1b5"
 	"Response_5_Quest" "ee3bfa450e2347b5ae67e801a417a264"
-	"Response_5_Vendor" "0"
 	"Response_5_Conditions"
 	[
 		{
@@ -239,9 +226,6 @@
 	"Response_5_Rewards"
 	[
 	]
-	"Response_6_Dialogue" "0"
-	"Response_6_Quest" "0"
-	"Response_6_Vendor" "0"
 	"Response_6_Conditions"
 	[
 	]
@@ -249,5 +233,5 @@
 	[
 	]
 	"ID" "2092"
-	"Asset_Bundle_Version" "5"
+	"Asset_Bundle_Version" "4"
 }

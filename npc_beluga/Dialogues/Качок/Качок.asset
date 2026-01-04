@@ -8,7 +8,6 @@
 {
 	"Messages" "3"
 	"Message_0_Pages" "1"
-	"Message_0_Prev" "0"
 	"Message_0_Conditions"
 	[
 		{
@@ -25,7 +24,6 @@
 	[
 	]
 	"Message_1_Pages" "1"
-	"Message_1_Prev" "0"
 	"Message_1_Conditions"
 	[
 		{
@@ -42,7 +40,6 @@
 	[
 	]
 	"Message_2_Pages" "1"
-	"Message_2_Prev" "0"
 	"Message_2_Conditions"
 	[
 		{
@@ -61,7 +58,6 @@
 	"Responses" "3"
 	"Response_0_Dialogue" "5869c98933e844f7b86a057257f77045"
 	"Response_0_Quest" "82cc05ce106a468a92ec3c282e3e554f"
-	"Response_0_Vendor" "0"
 	"Response_0_Conditions"
 	[
 		{
@@ -84,7 +80,6 @@
 	]
 	"Response_1_Dialogue" "42932f0fafe042b29d0a2d13cc01e1b5"
 	"Response_1_Quest" "82cc05ce106a468a92ec3c282e3e554f"
-	"Response_1_Vendor" "0"
 	"Response_1_Conditions"
 	[
 		{
@@ -100,9 +95,6 @@
 	"Response_1_Rewards"
 	[
 	]
-	"Response_2_Dialogue" "0"
-	"Response_2_Quest" "0"
-	"Response_2_Vendor" "0"
 	"Response_2_Conditions"
 	[
 	]
@@ -110,5 +102,5 @@
 	[
 	]
 	"ID" "2101"
-	"Asset_Bundle_Version" "5"
+	"Asset_Bundle_Version" "4"
 }

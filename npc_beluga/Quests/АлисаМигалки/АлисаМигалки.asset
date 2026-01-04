@@ -20,8 +20,8 @@
 			"TextId" "3fc29ddeb6b18e4e24953547ae9ddd53c6"
 			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"ID" "49101"
-			"Amount" "3"
+			"ID" "67"
+			"Amount" "30"
 		}
 		{
 			"Type" "ITEM"
@@ -65,5 +65,5 @@
 	[
 	]
 	"ID" "2095"
-	"Asset_Bundle_Version" "5"
+	"Asset_Bundle_Version" "4"
 }

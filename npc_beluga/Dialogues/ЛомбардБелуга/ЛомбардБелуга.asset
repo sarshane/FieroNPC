@@ -8,7 +8,6 @@
 {
 	"Messages" "4"
 	"Message_0_Pages" "1"
-	"Message_0_Prev" "0"
 	"Message_0_Conditions"
 	[
 		{
@@ -24,8 +23,7 @@
 	"Message_0_Rewards"
 	[
 	]
-	"Message_1_Pages" "2"
-	"Message_1_Prev" "0"
+	"Message_1_Pages" "1"
 	"Message_1_Conditions"
 	[
 		{
@@ -42,7 +40,6 @@
 	[
 	]
 	"Message_2_Pages" "1"
-	"Message_2_Prev" "0"
 	"Message_2_Conditions"
 	[
 		{
@@ -59,7 +56,6 @@
 	[
 	]
 	"Message_3_Pages" "1"
-	"Message_3_Prev" "0"
 	"Message_3_Conditions"
 	[
 		{
@@ -76,10 +72,16 @@
 	[
 	]
 	"Responses" "5"
-	"Response_0_Dialogue" "5869c98933e844f7b86a057257f77045"
-	"Response_0_Quest" "8f7165901ad144adaeca5bb52ac5e630"
-	"Response_0_Vendor" "0"
+	"Response_0_Vendor" "517253bff027485ca0bc116d1aa840ef"
 	"Response_0_Conditions"
+	[
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "5869c98933e844f7b86a057257f77045"
+	"Response_1_Quest" "8f7165901ad144adaeca5bb52ac5e630"
+	"Response_1_Conditions"
 	[
 		{
 			"Type" "QUEST"
@@ -91,7 +93,7 @@
 			"Ignore_NPC" "false"
 		}
 	]
-	"Response_0_Rewards"
+	"Response_1_Rewards"
 	[
 		{
 			"Type" "QUEST"
@@ -99,10 +101,9 @@
 			"ID" "8f7165901ad144adaeca5bb52ac5e630"
 		}
 	]
-	"Response_1_Dialogue" "2108c6a50281429e85789722f4452b5e"
-	"Response_1_Quest" "8f7165901ad144adaeca5bb52ac5e630"
-	"Response_1_Vendor" "0"
-	"Response_1_Conditions"
+	"Response_2_Dialogue" "2108c6a50281429e85789722f4452b5e"
+	"Response_2_Quest" "8f7165901ad144adaeca5bb52ac5e630"
+	"Response_2_Conditions"
 	[
 		{
 			"Type" "QUEST"
@@ -114,21 +115,9 @@
 			"Ignore_NPC" "false"
 		}
 	]
-	"Response_1_Rewards"
-	[
-	]
-	"Response_2_Dialogue" "0"
-	"Response_2_Quest" "0"
-	"Response_2_Vendor" "517253bff027485ca0bc116d1aa840ef"
-	"Response_2_Conditions"
-	[
-	]
 	"Response_2_Rewards"
 	[
 	]
-	"Response_3_Dialogue" "0"
-	"Response_3_Quest" "0"
-	"Response_3_Vendor" "0"
 	"Response_3_Conditions"
 	[
 		{
@@ -144,9 +133,6 @@
 	"Response_3_Rewards"
 	[
 	]
-	"Response_4_Dialogue" "0"
-	"Response_4_Quest" "0"
-	"Response_4_Vendor" "0"
 	"Response_4_Conditions"
 	[
 	]
