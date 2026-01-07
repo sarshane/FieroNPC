@@ -10,7 +10,7 @@
 	"Selling" "14"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "42161"
-	"Selling_0_Cost" "65"
+	"Selling_0_Cost" "155"
 	"Selling_0_Conditions"
 	[
 	]
@@ -19,7 +19,7 @@
 	]
 	"Selling_1_Type" "ITEM"
 	"Selling_1_ID" "42162"
-	"Selling_1_Cost" "65"
+	"Selling_1_Cost" "155"
 	"Selling_1_Conditions"
 	[
 	]
@@ -28,7 +28,7 @@
 	]
 	"Selling_2_Type" "ITEM"
 	"Selling_2_ID" "42163"
-	"Selling_2_Cost" "75"
+	"Selling_2_Cost" "180"
 	"Selling_2_Conditions"
 	[
 	]
@@ -37,7 +37,7 @@
 	]
 	"Selling_3_Type" "ITEM"
 	"Selling_3_ID" "42164"
-	"Selling_3_Cost" "75"
+	"Selling_3_Cost" "180"
 	"Selling_3_Conditions"
 	[
 	]
@@ -46,7 +46,7 @@
 	]
 	"Selling_4_Type" "ITEM"
 	"Selling_4_ID" "42165"
-	"Selling_4_Cost" "65"
+	"Selling_4_Cost" "155"
 	"Selling_4_Conditions"
 	[
 	]
@@ -55,7 +55,7 @@
 	]
 	"Selling_5_Type" "ITEM"
 	"Selling_5_ID" "42102"
-	"Selling_5_Cost" "85"
+	"Selling_5_Cost" "130"
 	"Selling_5_Conditions"
 	[
 	]
@@ -64,7 +64,7 @@
 	]
 	"Selling_6_Type" "ITEM"
 	"Selling_6_ID" "42103"
-	"Selling_6_Cost" "90"
+	"Selling_6_Cost" "120"
 	"Selling_6_Conditions"
 	[
 	]
@@ -73,7 +73,7 @@
 	]
 	"Selling_7_Type" "ITEM"
 	"Selling_7_ID" "42230"
-	"Selling_7_Cost" "100"
+	"Selling_7_Cost" "140"
 	"Selling_7_Conditions"
 	[
 	]
@@ -82,7 +82,7 @@
 	]
 	"Selling_8_Type" "ITEM"
 	"Selling_8_ID" "42119"
-	"Selling_8_Cost" "110"
+	"Selling_8_Cost" "190"
 	"Selling_8_Conditions"
 	[
 	]
@@ -91,7 +91,7 @@
 	]
 	"Selling_9_Type" "ITEM"
 	"Selling_9_ID" "42330"
-	"Selling_9_Cost" "115"
+	"Selling_9_Cost" "190"
 	"Selling_9_Conditions"
 	[
 	]
@@ -100,7 +100,7 @@
 	]
 	"Selling_10_Type" "ITEM"
 	"Selling_10_ID" "42331"
-	"Selling_10_Cost" "120"
+	"Selling_10_Cost" "190"
 	"Selling_10_Conditions"
 	[
 	]
@@ -109,7 +109,7 @@
 	]
 	"Selling_11_Type" "ITEM"
 	"Selling_11_ID" "42337"
-	"Selling_11_Cost" "110"
+	"Selling_11_Cost" "170"
 	"Selling_11_Conditions"
 	[
 	]
@@ -118,7 +118,7 @@
 	]
 	"Selling_12_Type" "ITEM"
 	"Selling_12_ID" "42278"
-	"Selling_12_Cost" "40"
+	"Selling_12_Cost" "80"
 	"Selling_12_Conditions"
 	[
 	]
@@ -127,7 +127,7 @@
 	]
 	"Selling_13_Type" "ITEM"
 	"Selling_13_ID" "42279"
-	"Selling_13_Cost" "42"
+	"Selling_13_Cost" "100"
 	"Selling_13_Conditions"
 	[
 	]

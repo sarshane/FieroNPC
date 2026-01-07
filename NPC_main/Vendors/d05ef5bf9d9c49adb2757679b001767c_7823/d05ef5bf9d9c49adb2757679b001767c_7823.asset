@@ -10,7 +10,7 @@
 	"Selling" "5"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "42141"
-	"Selling_0_Cost" "120"
+	"Selling_0_Cost" "210"
 	"Selling_0_Conditions"
 	[
 	]
@@ -19,7 +19,7 @@
 	]
 	"Selling_1_Type" "ITEM"
 	"Selling_1_ID" "42142"
-	"Selling_1_Cost" "120"
+	"Selling_1_Cost" "200"
 	"Selling_1_Conditions"
 	[
 	]
@@ -28,7 +28,7 @@
 	]
 	"Selling_2_Type" "ITEM"
 	"Selling_2_ID" "42143"
-	"Selling_2_Cost" "125"
+	"Selling_2_Cost" "200"
 	"Selling_2_Conditions"
 	[
 	]
@@ -37,7 +37,7 @@
 	]
 	"Selling_3_Type" "ITEM"
 	"Selling_3_ID" "42294"
-	"Selling_3_Cost" "60"
+	"Selling_3_Cost" "90"
 	"Selling_3_Conditions"
 	[
 	]
@@ -46,7 +46,7 @@
 	]
 	"Selling_4_Type" "ITEM"
 	"Selling_4_ID" "42295"
-	"Selling_4_Cost" "60"
+	"Selling_4_Cost" "90"
 	"Selling_4_Conditions"
 	[
 	]

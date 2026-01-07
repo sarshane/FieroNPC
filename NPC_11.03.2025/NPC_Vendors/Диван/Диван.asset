@@ -8,7 +8,7 @@
 {
 	"FaceOverride" "28"
 	"Buying" "0"
-	"Selling" "18"
+	"Selling" "19"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "35087"
 	"Selling_0_Cost" "3000"
@@ -169,6 +169,15 @@
 	[
 	]
 	"Selling_17_Rewards"
+	[
+	]
+	"Selling_18_Type" "ITEM"
+	"Selling_18_ID" "28012"
+	"Selling_18_Cost" "2500"
+	"Selling_18_Conditions"
+	[
+	]
+	"Selling_18_Rewards"
 	[
 	]
 	"ID" "2060"

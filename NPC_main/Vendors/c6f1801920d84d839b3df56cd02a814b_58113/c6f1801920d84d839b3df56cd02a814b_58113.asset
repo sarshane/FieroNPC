@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "49"
+	"Selling" "63"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "17601"
 	"Selling_0_Cost" "475"
@@ -447,6 +447,132 @@
 	[
 	]
 	"Selling_48_Rewards"
+	[
+	]
+	"Selling_49_Type" "ITEM"
+	"Selling_49_ID" "28006"
+	"Selling_49_Cost" "3000"
+	"Selling_49_Conditions"
+	[
+	]
+	"Selling_49_Rewards"
+	[
+	]
+	"Selling_50_Type" "ITEM"
+	"Selling_50_ID" "28033"
+	"Selling_50_Cost" "2600"
+	"Selling_50_Conditions"
+	[
+	]
+	"Selling_50_Rewards"
+	[
+	]
+	"Selling_51_Type" "ITEM"
+	"Selling_51_ID" "28058"
+	"Selling_51_Cost" "8000"
+	"Selling_51_Conditions"
+	[
+	]
+	"Selling_51_Rewards"
+	[
+	]
+	"Selling_52_Type" "ITEM"
+	"Selling_52_ID" "28059"
+	"Selling_52_Cost" "2000"
+	"Selling_52_Conditions"
+	[
+	]
+	"Selling_52_Rewards"
+	[
+	]
+	"Selling_53_Type" "ITEM"
+	"Selling_53_ID" "28070"
+	"Selling_53_Cost" "4000"
+	"Selling_53_Conditions"
+	[
+	]
+	"Selling_53_Rewards"
+	[
+	]
+	"Selling_54_Type" "ITEM"
+	"Selling_54_ID" "28071"
+	"Selling_54_Cost" "18000"
+	"Selling_54_Conditions"
+	[
+	]
+	"Selling_54_Rewards"
+	[
+	]
+	"Selling_55_Type" "ITEM"
+	"Selling_55_ID" "28076"
+	"Selling_55_Cost" "12000"
+	"Selling_55_Conditions"
+	[
+	]
+	"Selling_55_Rewards"
+	[
+	]
+	"Selling_56_Type" "ITEM"
+	"Selling_56_ID" "28077"
+	"Selling_56_Cost" "12000"
+	"Selling_56_Conditions"
+	[
+	]
+	"Selling_56_Rewards"
+	[
+	]
+	"Selling_57_Type" "ITEM"
+	"Selling_57_ID" "28091"
+	"Selling_57_Cost" "2500"
+	"Selling_57_Conditions"
+	[
+	]
+	"Selling_57_Rewards"
+	[
+	]
+	"Selling_58_Type" "ITEM"
+	"Selling_58_ID" "28090"
+	"Selling_58_Cost" "3000"
+	"Selling_58_Conditions"
+	[
+	]
+	"Selling_58_Rewards"
+	[
+	]
+	"Selling_59_Type" "ITEM"
+	"Selling_59_ID" "28095"
+	"Selling_59_Cost" "1500"
+	"Selling_59_Conditions"
+	[
+	]
+	"Selling_59_Rewards"
+	[
+	]
+	"Selling_60_Type" "ITEM"
+	"Selling_60_ID" "28096"
+	"Selling_60_Cost" "2000"
+	"Selling_60_Conditions"
+	[
+	]
+	"Selling_60_Rewards"
+	[
+	]
+	"Selling_61_Type" "ITEM"
+	"Selling_61_ID" "28624"
+	"Selling_61_Cost" "4000"
+	"Selling_61_Conditions"
+	[
+	]
+	"Selling_61_Rewards"
+	[
+	]
+	"Selling_62_Type" "ITEM"
+	"Selling_62_ID" "28626"
+	"Selling_62_Cost" "7000"
+	"Selling_62_Conditions"
+	[
+	]
+	"Selling_62_Rewards"
 	[
 	]
 	"ID" "58113"

@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "33"
+	"Selling" "37"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "46201"
 	"Selling_0_Cost" "1000"
@@ -303,6 +303,42 @@
 	[
 	]
 	"Selling_32_Rewards"
+	[
+	]
+	"Selling_33_Type" "ITEM"
+	"Selling_33_ID" "28065"
+	"Selling_33_Cost" "2000"
+	"Selling_33_Conditions"
+	[
+	]
+	"Selling_33_Rewards"
+	[
+	]
+	"Selling_34_Type" "ITEM"
+	"Selling_34_ID" "28066"
+	"Selling_34_Cost" "2000"
+	"Selling_34_Conditions"
+	[
+	]
+	"Selling_34_Rewards"
+	[
+	]
+	"Selling_35_Type" "ITEM"
+	"Selling_35_ID" "28067"
+	"Selling_35_Cost" "2000"
+	"Selling_35_Conditions"
+	[
+	]
+	"Selling_35_Rewards"
+	[
+	]
+	"Selling_36_Type" "ITEM"
+	"Selling_36_ID" "28068"
+	"Selling_36_Cost" "2000"
+	"Selling_36_Conditions"
+	[
+	]
+	"Selling_36_Rewards"
 	[
 	]
 	"ID" "2069"

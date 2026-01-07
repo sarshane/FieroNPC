@@ -6,7 +6,7 @@
 }
 "Asset"
 {
-	"Buying" "40"
+	"Buying" "43"
 	"Buying_0_ID" "49101"
 	"Buying_0_Cost" "15"
 	"Buying_0_Conditions"
@@ -325,6 +325,30 @@
 	[
 	]
 	"Buying_39_Rewards"
+	[
+	]
+	"Buying_40_ID" "28071"
+	"Buying_40_Cost" "7000"
+	"Buying_40_Conditions"
+	[
+	]
+	"Buying_40_Rewards"
+	[
+	]
+	"Buying_41_ID" "28076"
+	"Buying_41_Cost" "6000"
+	"Buying_41_Conditions"
+	[
+	]
+	"Buying_41_Rewards"
+	[
+	]
+	"Buying_42_ID" "28077"
+	"Buying_42_Cost" "6000"
+	"Buying_42_Conditions"
+	[
+	]
+	"Buying_42_Rewards"
 	[
 	]
 	"Selling" "0"

@@ -8,7 +8,7 @@
 {
 	"FaceOverride" "6"
 	"Buying" "0"
-	"Selling" "84"
+	"Selling" "89"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "17668"
 	"Selling_0_Cost" "600"
@@ -763,6 +763,51 @@
 	[
 	]
 	"Selling_83_Rewards"
+	[
+	]
+	"Selling_84_Type" "ITEM"
+	"Selling_84_ID" "28000"
+	"Selling_84_Cost" "1600"
+	"Selling_84_Conditions"
+	[
+	]
+	"Selling_84_Rewards"
+	[
+	]
+	"Selling_85_Type" "ITEM"
+	"Selling_85_ID" "28013"
+	"Selling_85_Cost" "600"
+	"Selling_85_Conditions"
+	[
+	]
+	"Selling_85_Rewards"
+	[
+	]
+	"Selling_86_Type" "ITEM"
+	"Selling_86_ID" "28014"
+	"Selling_86_Cost" "900"
+	"Selling_86_Conditions"
+	[
+	]
+	"Selling_86_Rewards"
+	[
+	]
+	"Selling_87_Type" "ITEM"
+	"Selling_87_ID" "28015"
+	"Selling_87_Cost" "1500"
+	"Selling_87_Conditions"
+	[
+	]
+	"Selling_87_Rewards"
+	[
+	]
+	"Selling_88_Type" "ITEM"
+	"Selling_88_ID" "28023"
+	"Selling_88_Cost" "2000"
+	"Selling_88_Conditions"
+	[
+	]
+	"Selling_88_Rewards"
 	[
 	]
 	"ID" "2061"
