@@ -1,0 +1,116 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "e9000b2cb1624a21bfd42f71f488584c"
+	"Type" "SDG.Unturned.VendorAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Buying" "6"
+	"Buying_0_ID" "10100"
+	"Buying_0_Cost" "0"
+	"Buying_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "769087ad2d9d75a9bc97005ad2d2bb02"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Buying_0_Rewards"
+	[
+	]
+	"Buying_1_ID" "10105"
+	"Buying_1_Cost" "0"
+	"Buying_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "53d2e16fa4fcec415cf9ff165d6efe17"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Buying_1_Rewards"
+	[
+	]
+	"Buying_2_ID" "10101"
+	"Buying_2_Cost" "0"
+	"Buying_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "40536c75dc68e8324f91420615e2f9ba"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "3"
+		}
+	]
+	"Buying_2_Rewards"
+	[
+	]
+	"Buying_3_ID" "10106"
+	"Buying_3_Cost" "0"
+	"Buying_3_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "a40a2414431c6397705f79325006fbb8"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "4"
+		}
+	]
+	"Buying_3_Rewards"
+	[
+	]
+	"Buying_4_ID" "10102"
+	"Buying_4_Cost" "0"
+	"Buying_4_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "a40a2414431c6397705f79325006fbb8"
+			"Reset" "false"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "4"
+		}
+	]
+	"Buying_4_Rewards"
+	[
+	]
+	"Buying_5_ID" "10103"
+	"Buying_5_Cost" "0"
+	"Buying_5_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "a40a2414431c6397705f79325006fbb8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "5"
+		}
+	]
+	"Buying_5_Rewards"
+	[
+	]
+	"Selling" "0"
+	"Disable_Sorting" ""
+	"ID" "2001"
+	"Asset_Bundle_Version" "5"
+}

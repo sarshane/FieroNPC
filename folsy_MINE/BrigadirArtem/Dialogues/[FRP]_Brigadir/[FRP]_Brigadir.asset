@@ -1,0 +1,559 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "17f6701b9a6048f5a1d425ebfc01d51a"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "5"
+	"Message_0_Pages" "2"
+	"Message_0_Prev" "0"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "5ffd1155d966e5074d5c253d0b1c886d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Prev" "0"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "cc28369bcc1724811c95a57faffd12de"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "1"
+	"Message_2_Prev" "0"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "caa2ffbc0ae3adba9891e9ee35add855"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "3"
+		}
+	]
+	"Message_2_Rewards"
+	[
+	]
+	"Message_3_Pages" "1"
+	"Message_3_Prev" "0"
+	"Message_3_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "9a045f4773f4c8b3ae2da60512cc153e"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "4"
+		}
+	]
+	"Message_3_Rewards"
+	[
+	]
+	"Message_4_Pages" "1"
+	"Message_4_Prev" "0"
+	"Message_4_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "b484b5aba1c5cf7e7598d731eaa327bb"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "5"
+		}
+	]
+	"Message_4_Rewards"
+	[
+	]
+	"Responses" "22"
+	"Response_0_Dialogue" "0"
+	"Response_0_Vendor" "e9000b2cb1624a21bfd42f71f488584c"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "5ffd1155d966e5074d5c253d0b1c886d"
+			"Reset" "false"
+			"Logic" "LESS_THAN_OR_EQUAL_TO"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "5"
+		}
+	]
+	"Response_0_Rewards"
+	[
+	]
+	"Response_1_Dialogue" "e1a38d2a6aab4821a43dff512d04b9a9"
+	"Response_1_Quest" "0"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "9b9794de5a491f520dd8a76d547fa4e4"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "1000"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "5ffd1155d966e5074d5c253d0b1c886d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Response_1_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "a94be478fb17274450aba2c0252b2386"
+			"ID" "52303"
+			"Amount" "1"
+			"Auto_Equip" "true"
+			"Origin" "WORLD"
+		}
+	]
+	"Response_2_Dialogue" "1ec0a9a2e38d483396c72a87972794b0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "5ffd1155d966e5074d5c253d0b1c886d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "62e856289a754a4fb85f3472558186e5"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "5ffd1155d966e5074d5c253d0b1c886d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"Response_4_Dialogue" "b115cb7855e0448f9a40e6dbb8d86ea6"
+	"Response_4_Quest" "0"
+	"Response_4_Vendor" "0"
+	"Response_4_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "5ffd1155d966e5074d5c253d0b1c886d"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "1"
+		}
+	]
+	"Response_4_Rewards"
+	[
+	]
+	"Response_5_Dialogue" "e1a38d2a6aab4821a43dff512d04b9a9"
+	"Response_5_Quest" "0"
+	"Response_5_Vendor" "0"
+	"Response_5_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "1ef717ccebbb4d8c8cc70214c5e322d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "3ff0407afeb055be15d21da5d6b19d73"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "2000"
+		}
+	]
+	"Response_5_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "1b4db06d0d4aeb879d0ecf4849582dd8"
+			"ID" "52302"
+			"Amount" "1"
+			"Auto_Equip" "true"
+			"Origin" "WORLD"
+		}
+	]
+	"Response_6_Dialogue" "aa079789b68244b9af78bbea1de894fd"
+	"Response_6_Quest" "0"
+	"Response_6_Vendor" "0"
+	"Response_6_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "1ef717ccebbb4d8c8cc70214c5e322d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Response_6_Rewards"
+	[
+	]
+	"Response_7_Dialogue" "1a1559192b48477ca97f02428497f796"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "0"
+	"Response_7_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "1ef717ccebbb4d8c8cc70214c5e322d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Response_7_Rewards"
+	[
+	]
+	"Response_8_Dialogue" "22a134e208774057bceb88004e50db7d"
+	"Response_8_Quest" "0"
+	"Response_8_Vendor" "0"
+	"Response_8_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "1ef717ccebbb4d8c8cc70214c5e322d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "2"
+		}
+	]
+	"Response_8_Rewards"
+	[
+	]
+	"Response_9_Dialogue" "e1a38d2a6aab4821a43dff512d04b9a9"
+	"Response_9_Quest" "0"
+	"Response_9_Vendor" "0"
+	"Response_9_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "51625506863b8284f47bead0f44b7bff"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "3"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "2c27d4fb8e45270b3f672bfb139af763"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "3000"
+		}
+	]
+	"Response_9_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "1f96016bacd1ef6350909435b1afddf6"
+			"ID" "52304"
+			"Amount" "1"
+			"Auto_Equip" "true"
+			"Origin" "WORLD"
+		}
+	]
+	"Response_10_Dialogue" "a90378803397491992461088d4333e0f"
+	"Response_10_Quest" "0"
+	"Response_10_Vendor" "0"
+	"Response_10_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "51625506863b8284f47bead0f44b7bff"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "3"
+		}
+	]
+	"Response_10_Rewards"
+	[
+	]
+	"Response_11_Dialogue" "caf5e9d97fa2424198fcdca3b846fdf6"
+	"Response_11_Quest" "0"
+	"Response_11_Vendor" "0"
+	"Response_11_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "51625506863b8284f47bead0f44b7bff"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "3"
+		}
+	]
+	"Response_11_Rewards"
+	[
+	]
+	"Response_12_Dialogue" "ca9ccb18a94346f0ba8d7fc146f48587"
+	"Response_12_Quest" "0"
+	"Response_12_Vendor" "0"
+	"Response_12_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "51625506863b8284f47bead0f44b7bff"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "3"
+		}
+	]
+	"Response_12_Rewards"
+	[
+	]
+	"Response_13_Dialogue" "e1a38d2a6aab4821a43dff512d04b9a9"
+	"Response_13_Quest" "0"
+	"Response_13_Vendor" "0"
+	"Response_13_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "f3f3f913dbdacc354e43a16757df04d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "4"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "7008758195a71904d0ff99c268b225bc"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "5000"
+		}
+	]
+	"Response_13_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "35da443c6c67d84b80dfb01fae320f9e"
+			"ID" "52309"
+			"Amount" "1"
+			"Auto_Equip" "true"
+			"Origin" "WORLD"
+		}
+	]
+	"Response_14_Dialogue" "98ab4390415947aba03f9ecbc0a42d28"
+	"Response_14_Quest" "0"
+	"Response_14_Vendor" "0"
+	"Response_14_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "f3f3f913dbdacc354e43a16757df04d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "4"
+		}
+	]
+	"Response_14_Rewards"
+	[
+	]
+	"Response_15_Dialogue" "ddc5630d49b34a8ca849c9756ceb3389"
+	"Response_15_Quest" "0"
+	"Response_15_Vendor" "0"
+	"Response_15_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "f3f3f913dbdacc354e43a16757df04d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "4"
+		}
+	]
+	"Response_15_Rewards"
+	[
+	]
+	"Response_16_Dialogue" "566fcf880cdf402d8c6c61a65e7c6e1c"
+	"Response_16_Quest" "0"
+	"Response_16_Vendor" "0"
+	"Response_16_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "f3f3f913dbdacc354e43a16757df04d8"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "4"
+		}
+	]
+	"Response_16_Rewards"
+	[
+	]
+	"Response_17_Dialogue" "e1a38d2a6aab4821a43dff512d04b9a9"
+	"Response_17_Quest" "0"
+	"Response_17_Vendor" "0"
+	"Response_17_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "599f017fbb1c0b679e2bf975fba9a243"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "5"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "161d185ac65db8b64466ed25bd9d3852"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"Value" "10000"
+		}
+	]
+	"Response_17_Rewards"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "94691f035b0563a6252ef4e1fa097423"
+			"ID" "52310"
+			"Amount" "1"
+			"Auto_Equip" "true"
+			"Origin" "WORLD"
+		}
+	]
+	"Response_18_Dialogue" "701c88b149c0448fb5b5a9d241627c8f"
+	"Response_18_Quest" "0"
+	"Response_18_Vendor" "0"
+	"Response_18_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "599f017fbb1c0b679e2bf975fba9a243"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "5"
+		}
+	]
+	"Response_18_Rewards"
+	[
+	]
+	"Response_19_Dialogue" "3ff1359d8bfd4f16a12a45ddde29a052"
+	"Response_19_Quest" "0"
+	"Response_19_Vendor" "0"
+	"Response_19_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "599f017fbb1c0b679e2bf975fba9a243"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "5"
+		}
+	]
+	"Response_19_Rewards"
+	[
+	]
+	"Response_20_Dialogue" "1c71036e586149cb8e46e074c45b1c4b"
+	"Response_20_Quest" "0"
+	"Response_20_Vendor" "0"
+	"Response_20_Conditions"
+	[
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "599f017fbb1c0b679e2bf975fba9a243"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "49999"
+			"Allow_Unset" "false"
+			"Value" "5"
+		}
+	]
+	"Response_20_Rewards"
+	[
+	]
+	"Response_21_Dialogue" "0"
+	"Response_21_Quest" "0"
+	"Response_21_Vendor" "0"
+	"Response_21_Conditions"
+	[
+	]
+	"Response_21_Rewards"
+	[
+	]
+	"ID" "2000"
+	"Asset_Bundle_Version" "5"
+}

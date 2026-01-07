@@ -1,0 +1,29 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Новенький? Не спеши геройствовать. Всё начинается с угля — без него печь не дышит, не загорается огонь.</color>
+Message_0_Page_1 <color=#FFFFFFFF>Каска на месте? Тогда вперёд. Уголь в первом секторе — дальше пока рано. Главное — шаг за шагом, и всё получится.</color>
+Message_1_Page_0 <color=#FFFFFFFF>Неплохо, теперь ты уже не просто турист — железо у тебя под кожей. Хотите заработать больше — сдавайте железо на переплавку. Руда — это только половина дела, остальное — мастерство и умение.</color>
+Message_2_Page_0 <color=#FFFFFFFF>Теперь разговор. Рельсы тебе открыты. На нижнем уровне — медь. Накопишь — и начнётся настоящая работа.</color>
+Message_3_Page_0 <color=#FFFFFFFF>Уже опытный шахтёр. Но теперь ошибки стоят дорого. Платина и алмазы — не для слабых. Их добывают те, кто умеет возвращаться живым.</color>
+Message_4_Page_0 <color=#FFFFFFFF>Ты дошёл туда, куда большинство даже не смотрит. Радиация — не про силу. Радиация — про дисциплину.</color>
+Response_0 <color=#F6F67F><i>*Продать руду*</i></color>
+Response_1 <color=#FFFFFFFF>Приобрести кирку 1-го уровня</color> <color=#F6F67F>[1000$]</color>
+Response_2 <color=#FFFFFFFF>Как спуститься ниже?</color>
+Response_3 <color=#FFFFFFFF>Как получить из руды слитки?</color>
+Response_4 <color=#FFFFFFFF>Что делать?</color>
+Response_5 <color=#FFFFFFFF>Приобрести кирку 2-го уровня</color> <color=#F6F67F>[2000$]</color>
+Response_6 <color=#FFFFFFFF>Как спуститься ниже?</color>
+Response_7 <color=#FFFFFFFF>Как получить из руды слитки?</color>
+Response_8 <color=#FFFFFFFF>Что делать?</color>
+Response_9 <color=#FFFFFFFF>Приобрести кирку 3-го уровня</color> <color=#F6F67F>[3000$]</color>
+Response_10 <color=#FFFFFFFF>Как спуститься ниже?</color>
+Response_11 <color=#FFFFFFFF>Как получить из руды слитки?</color>
+Response_12 <color=#FFFFFFFF>Что делать?</color>
+Response_13 <color=#FFFFFFFF>Приобрести кирку 4-го уровня</color> <color=#F6F67F>[5000$]</color>
+Response_14 <color=#FFFFFFFF>Куда дальше?</color>
+Response_15 <color=#FFFFFFFF>Как получить из руды слитки?</color>
+Response_16 <color=#FFFFFFFF>Что делать?</color>
+Response_17 <color=#FFFFFFFF>Приобрести кирку 5-го уровня</color> <color=#F6F67F>[10000$]</color>
+Response_18 <color=#FFFFFFFF>Как попасть в радиацию?</color>
+Response_19 <color=#FFFFFFFF>Как получить из руды слитки?</color>
+Response_20 <color=#FFFFFFFF>Что делать?</color>
+Response_21 <color=#FFFFFFFF><i>*Закончить разговор*</i></color>
