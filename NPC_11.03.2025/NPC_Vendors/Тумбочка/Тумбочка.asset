@@ -225,7 +225,7 @@
 	]
 	"Selling_23_Type" "ITEM"
 	"Selling_23_ID" "28025"
-	"Selling_23_Cost" "1500"
+	"Selling_23_Cost" "5000"
 	"Selling_23_Conditions"
 	[
 	]
@@ -234,7 +234,7 @@
 	]
 	"Selling_24_Type" "ITEM"
 	"Selling_24_ID" "28026"
-	"Selling_24_Cost" "2000"
+	"Selling_24_Cost" "5000"
 	"Selling_24_Conditions"
 	[
 	]
@@ -243,7 +243,7 @@
 	]
 	"Selling_25_Type" "ITEM"
 	"Selling_25_ID" "28027"
-	"Selling_25_Cost" "2000"
+	"Selling_25_Cost" "5000"
 	"Selling_25_Conditions"
 	[
 	]
@@ -252,7 +252,7 @@
 	]
 	"Selling_26_Type" "ITEM"
 	"Selling_26_ID" "28028"
-	"Selling_26_Cost" "2000"
+	"Selling_26_Cost" "5000"
 	"Selling_26_Conditions"
 	[
 	]

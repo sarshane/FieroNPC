@@ -144,7 +144,7 @@
 	"Buying_16_Rewards"
 	[
 	]
-	"Selling" "26"
+	"Selling" "25"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "42106"
 	"Selling_0_Cost" "150"
@@ -344,7 +344,7 @@
 	[
 	]
 	"Selling_22_Type" "ITEM"
-	"Selling_22_ID" "42125"
+	"Selling_22_ID" "42184"
 	"Selling_22_Cost" "500"
 	"Selling_22_Conditions"
 	[
@@ -353,7 +353,7 @@
 	[
 	]
 	"Selling_23_Type" "ITEM"
-	"Selling_23_ID" "42184"
+	"Selling_23_ID" "42235"
 	"Selling_23_Cost" "500"
 	"Selling_23_Conditions"
 	[
@@ -362,21 +362,12 @@
 	[
 	]
 	"Selling_24_Type" "ITEM"
-	"Selling_24_ID" "42235"
+	"Selling_24_ID" "42289"
 	"Selling_24_Cost" "500"
 	"Selling_24_Conditions"
 	[
 	]
 	"Selling_24_Rewards"
-	[
-	]
-	"Selling_25_Type" "ITEM"
-	"Selling_25_ID" "42289"
-	"Selling_25_Cost" "500"
-	"Selling_25_Conditions"
-	[
-	]
-	"Selling_25_Rewards"
 	[
 	]
 	"ID" "7832"
