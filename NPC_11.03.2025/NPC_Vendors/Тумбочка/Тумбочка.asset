@@ -8,7 +8,7 @@
 {
 	"FaceOverride" "9"
 	"Buying" "0"
-	"Selling" "27"
+	"Selling" "33"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "35066"
 	"Selling_0_Cost" "1750"
@@ -257,6 +257,60 @@
 	[
 	]
 	"Selling_26_Rewards"
+	[
+	]
+	"Selling_27_Type" "ITEM"
+	"Selling_27_ID" "17605"
+	"Selling_27_Cost" "1500"
+	"Selling_27_Conditions"
+	[
+	]
+	"Selling_27_Rewards"
+	[
+	]
+	"Selling_28_Type" "ITEM"
+	"Selling_28_ID" "17617"
+	"Selling_28_Cost" "450"
+	"Selling_28_Conditions"
+	[
+	]
+	"Selling_28_Rewards"
+	[
+	]
+	"Selling_29_Type" "ITEM"
+	"Selling_29_ID" "17618"
+	"Selling_29_Cost" "450"
+	"Selling_29_Conditions"
+	[
+	]
+	"Selling_29_Rewards"
+	[
+	]
+	"Selling_30_Type" "ITEM"
+	"Selling_30_ID" "17619"
+	"Selling_30_Cost" "450"
+	"Selling_30_Conditions"
+	[
+	]
+	"Selling_30_Rewards"
+	[
+	]
+	"Selling_31_Type" "ITEM"
+	"Selling_31_ID" "17620"
+	"Selling_31_Cost" "475"
+	"Selling_31_Conditions"
+	[
+	]
+	"Selling_31_Rewards"
+	[
+	]
+	"Selling_32_Type" "ITEM"
+	"Selling_32_ID" "1221"
+	"Selling_32_Cost" "1800"
+	"Selling_32_Conditions"
+	[
+	]
+	"Selling_32_Rewards"
 	[
 	]
 	"ID" "2059"

@@ -1,5 +1,5 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
-Message_0_Page_0 <color=#FFFFFFFF>У нас есть два комплекта. Первый - <color=#F6F67F>2 бутылки воды и 2 пачки чипсов</color>, стоит он <color=#F6F67F>97$</color>. Второй - <color=#F6F67F>Две бутылки колы, бутылка воды, и три сендвича</color>, стоимость <color=#F6F67F>163$</color>. К сожалению это всё что сейчас есть в наличии.</color>
-Response_0 Давайте первый! <color=#F6F67F>[97$]</color>
-Response_1 <color=#FFFFFFFF>Давайте второй!</color> <color=#F6F67F>[163$]</color>
+Message_0_Page_0 <color=#FFFFFFFF>У нас есть два комплекта. Первый - <color=#F6F67F>2 бутылки воды и 2 пачки чипсов</color>, стоит он <color=#F6F67F>238$</color>. Второй - <color=#F6F67F>Две бутылки колы, бутылка воды, и три сендвича</color>, стоимость <color=#F6F67F>396$</color>. К сожалению это всё что сейчас есть в наличии.</color>
+Response_0 Давайте первый! <color=#F6F67F>[238$]</color>
+Response_1 <color=#FFFFFFFF>Давайте второй!</color> <color=#F6F67F>[396$]</color>
 Response_2 <color=#FFFFFFFF>Спасибо, еда мне не нужна.</color>

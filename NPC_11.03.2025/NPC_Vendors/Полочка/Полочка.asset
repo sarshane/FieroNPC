@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "19"
+	"Selling" "27"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "35103"
 	"Selling_0_Cost" "1000"
@@ -177,6 +177,78 @@
 	[
 	]
 	"Selling_18_Rewards"
+	[
+	]
+	"Selling_19_Type" "ITEM"
+	"Selling_19_ID" "17616"
+	"Selling_19_Cost" "425"
+	"Selling_19_Conditions"
+	[
+	]
+	"Selling_19_Rewards"
+	[
+	]
+	"Selling_20_Type" "ITEM"
+	"Selling_20_ID" "17615"
+	"Selling_20_Cost" "400"
+	"Selling_20_Conditions"
+	[
+	]
+	"Selling_20_Rewards"
+	[
+	]
+	"Selling_21_Type" "ITEM"
+	"Selling_21_ID" "17614"
+	"Selling_21_Cost" "400"
+	"Selling_21_Conditions"
+	[
+	]
+	"Selling_21_Rewards"
+	[
+	]
+	"Selling_22_Type" "ITEM"
+	"Selling_22_ID" "17613"
+	"Selling_22_Cost" "400"
+	"Selling_22_Conditions"
+	[
+	]
+	"Selling_22_Rewards"
+	[
+	]
+	"Selling_23_Type" "ITEM"
+	"Selling_23_ID" "1413"
+	"Selling_23_Cost" "1200"
+	"Selling_23_Conditions"
+	[
+	]
+	"Selling_23_Rewards"
+	[
+	]
+	"Selling_24_Type" "ITEM"
+	"Selling_24_ID" "1220"
+	"Selling_24_Cost" "900"
+	"Selling_24_Conditions"
+	[
+	]
+	"Selling_24_Rewards"
+	[
+	]
+	"Selling_25_Type" "ITEM"
+	"Selling_25_ID" "47145"
+	"Selling_25_Cost" "900"
+	"Selling_25_Conditions"
+	[
+	]
+	"Selling_25_Rewards"
+	[
+	]
+	"Selling_26_Type" "ITEM"
+	"Selling_26_ID" "47173"
+	"Selling_26_Cost" "700"
+	"Selling_26_Conditions"
+	[
+	]
+	"Selling_26_Rewards"
 	[
 	]
 	"ID" "2063"

@@ -26,7 +26,7 @@
 			"TextId" "c29fa2bd5332627f171727d4fcffd2be"
 			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"Value" "97"
+			"Value" "238"
 		}
 	]
 	"Response_0_Rewards"
@@ -70,7 +70,7 @@
 			"TextId" "8320cee4b60585c839e812db789fceeb"
 			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"Value" "163"
+			"Value" "396"
 		}
 	]
 	"Response_1_Rewards"

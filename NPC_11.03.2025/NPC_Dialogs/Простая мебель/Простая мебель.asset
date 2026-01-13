@@ -16,7 +16,7 @@
 	"Message_0_Rewards"
 	[
 	]
-	"Responses" "7"
+	"Responses" "8"
 	"Response_0_Dialogue" "0"
 	"Response_0_Quest" "0"
 	"Response_0_Vendor" "4e354a3bc3d549f7acac6bcd5593ae3c"
@@ -55,7 +55,7 @@
 	]
 	"Response_4_Dialogue" "0"
 	"Response_4_Quest" "0"
-	"Response_4_Vendor" "73464b557783465f95b0b331eddf96f9"
+	"Response_4_Vendor" "cdd8e92749854be2a561c845165a032d"
 	"Response_4_Conditions"
 	[
 	]
@@ -64,7 +64,7 @@
 	]
 	"Response_5_Dialogue" "0"
 	"Response_5_Quest" "0"
-	"Response_5_Vendor" "a74036c8b550448a8d4198acadf30a3d"
+	"Response_5_Vendor" "73464b557783465f95b0b331eddf96f9"
 	"Response_5_Conditions"
 	[
 	]
@@ -73,11 +73,20 @@
 	]
 	"Response_6_Dialogue" "0"
 	"Response_6_Quest" "0"
-	"Response_6_Vendor" "4e992ec5652242fabe7b0faa519fa0bd"
+	"Response_6_Vendor" "a74036c8b550448a8d4198acadf30a3d"
 	"Response_6_Conditions"
 	[
 	]
 	"Response_6_Rewards"
+	[
+	]
+	"Response_7_Dialogue" "0"
+	"Response_7_Quest" "0"
+	"Response_7_Vendor" "4e992ec5652242fabe7b0faa519fa0bd"
+	"Response_7_Conditions"
+	[
+	]
+	"Response_7_Rewards"
 	[
 	]
 	"ID" "2064"

@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "6"
+	"Selling" "10"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "393"
 	"Selling_0_Cost" "90"
@@ -60,6 +60,42 @@
 	[
 	]
 	"Selling_5_Rewards"
+	[
+	]
+	"Selling_6_Type" "ITEM"
+	"Selling_6_ID" "37072"
+	"Selling_6_Cost" "200"
+	"Selling_6_Conditions"
+	[
+	]
+	"Selling_6_Rewards"
+	[
+	]
+	"Selling_7_Type" "ITEM"
+	"Selling_7_ID" "37083"
+	"Selling_7_Cost" "500"
+	"Selling_7_Conditions"
+	[
+	]
+	"Selling_7_Rewards"
+	[
+	]
+	"Selling_8_Type" "ITEM"
+	"Selling_8_ID" "37044"
+	"Selling_8_Cost" "800"
+	"Selling_8_Conditions"
+	[
+	]
+	"Selling_8_Rewards"
+	[
+	]
+	"Selling_9_Type" "ITEM"
+	"Selling_9_ID" "37040"
+	"Selling_9_Cost" "250"
+	"Selling_9_Conditions"
+	[
+	]
+	"Selling_9_Rewards"
 	[
 	]
 	"ID" "2001"

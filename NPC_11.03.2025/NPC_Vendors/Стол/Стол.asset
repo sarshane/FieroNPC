@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "51"
+	"Selling" "57"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "35124"
 	"Selling_0_Cost" "2000"
@@ -465,6 +465,60 @@
 	[
 	]
 	"Selling_50_Rewards"
+	[
+	]
+	"Selling_51_Type" "ITEM"
+	"Selling_51_ID" "46316"
+	"Selling_51_Cost" "1000"
+	"Selling_51_Conditions"
+	[
+	]
+	"Selling_51_Rewards"
+	[
+	]
+	"Selling_52_Type" "ITEM"
+	"Selling_52_ID" "46317"
+	"Selling_52_Cost" "1500"
+	"Selling_52_Conditions"
+	[
+	]
+	"Selling_52_Rewards"
+	[
+	]
+	"Selling_53_Type" "ITEM"
+	"Selling_53_ID" "47313"
+	"Selling_53_Cost" "700"
+	"Selling_53_Conditions"
+	[
+	]
+	"Selling_53_Rewards"
+	[
+	]
+	"Selling_54_Type" "ITEM"
+	"Selling_54_ID" "47314"
+	"Selling_54_Cost" "700"
+	"Selling_54_Conditions"
+	[
+	]
+	"Selling_54_Rewards"
+	[
+	]
+	"Selling_55_Type" "ITEM"
+	"Selling_55_ID" "47315"
+	"Selling_55_Cost" "700"
+	"Selling_55_Conditions"
+	[
+	]
+	"Selling_55_Rewards"
+	[
+	]
+	"Selling_56_Type" "ITEM"
+	"Selling_56_ID" "47312"
+	"Selling_56_Cost" "500"
+	"Selling_56_Conditions"
+	[
+	]
+	"Selling_56_Rewards"
 	[
 	]
 	"ID" "2062"
