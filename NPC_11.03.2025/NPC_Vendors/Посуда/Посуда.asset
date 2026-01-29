@@ -7,7 +7,7 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "33"
+	"Selling" "31"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "47200"
 	"Selling_0_Cost" "350"
@@ -207,8 +207,8 @@
 	[
 	]
 	"Selling_22_Type" "ITEM"
-	"Selling_22_ID" "47384"
-	"Selling_22_Cost" "700"
+	"Selling_22_ID" "47174"
+	"Selling_22_Cost" "300"
 	"Selling_22_Conditions"
 	[
 	]
@@ -216,8 +216,8 @@
 	[
 	]
 	"Selling_23_Type" "ITEM"
-	"Selling_23_ID" "47383"
-	"Selling_23_Cost" "850"
+	"Selling_23_ID" "47173"
+	"Selling_23_Cost" "600"
 	"Selling_23_Conditions"
 	[
 	]
@@ -225,8 +225,8 @@
 	[
 	]
 	"Selling_24_Type" "ITEM"
-	"Selling_24_ID" "47174"
-	"Selling_24_Cost" "300"
+	"Selling_24_ID" "47340"
+	"Selling_24_Cost" "200"
 	"Selling_24_Conditions"
 	[
 	]
@@ -234,8 +234,8 @@
 	[
 	]
 	"Selling_25_Type" "ITEM"
-	"Selling_25_ID" "47173"
-	"Selling_25_Cost" "600"
+	"Selling_25_ID" "47341"
+	"Selling_25_Cost" "200"
 	"Selling_25_Conditions"
 	[
 	]
@@ -243,7 +243,7 @@
 	[
 	]
 	"Selling_26_Type" "ITEM"
-	"Selling_26_ID" "47340"
+	"Selling_26_ID" "47342"
 	"Selling_26_Cost" "200"
 	"Selling_26_Conditions"
 	[
@@ -252,7 +252,7 @@
 	[
 	]
 	"Selling_27_Type" "ITEM"
-	"Selling_27_ID" "47341"
+	"Selling_27_ID" "47343"
 	"Selling_27_Cost" "200"
 	"Selling_27_Conditions"
 	[
@@ -261,7 +261,7 @@
 	[
 	]
 	"Selling_28_Type" "ITEM"
-	"Selling_28_ID" "47342"
+	"Selling_28_ID" "47344"
 	"Selling_28_Cost" "200"
 	"Selling_28_Conditions"
 	[
@@ -270,7 +270,7 @@
 	[
 	]
 	"Selling_29_Type" "ITEM"
-	"Selling_29_ID" "47343"
+	"Selling_29_ID" "47345"
 	"Selling_29_Cost" "200"
 	"Selling_29_Conditions"
 	[
@@ -279,30 +279,12 @@
 	[
 	]
 	"Selling_30_Type" "ITEM"
-	"Selling_30_ID" "47344"
-	"Selling_30_Cost" "200"
+	"Selling_30_ID" "51940"
+	"Selling_30_Cost" "500"
 	"Selling_30_Conditions"
 	[
 	]
 	"Selling_30_Rewards"
-	[
-	]
-	"Selling_31_Type" "ITEM"
-	"Selling_31_ID" "47345"
-	"Selling_31_Cost" "200"
-	"Selling_31_Conditions"
-	[
-	]
-	"Selling_31_Rewards"
-	[
-	]
-	"Selling_32_Type" "ITEM"
-	"Selling_32_ID" "51940"
-	"Selling_32_Cost" "500"
-	"Selling_32_Conditions"
-	[
-	]
-	"Selling_32_Rewards"
 	[
 	]
 	"ID" "2050"

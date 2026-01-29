@@ -22,11 +22,13 @@
 	"Response_0_Conditions"
 	[
 		{
-			"Type" "EXPERIENCE"
-			"TextId" "926678fe65e63038b9b75c077ae7eb58"
-			"Reset" "true"
-			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"Value" "5200"
+			"Type" "FLAG_SHORT"
+			"TextId" "8cf5c5576a26f891ff768c201dc24d19"
+			"Reset" "false"
+			"Logic" "NOT_EQUAL"
+			"ID" "7786"
+			"Allow_Unset" "false"
+			"Value" "5"
 		}
 	]
 	"Response_0_Rewards"
@@ -36,6 +38,13 @@
 			"TextId" "495b9ac903423663609fb924a2aa9dff"
 			"ID" "1405"
 			"Value" "1"
+			"Modification" "ASSIGN"
+		}
+		{
+			"Type" "FLAG_SHORT"
+			"TextId" "782622a23ceb8f9fb57fe23b05d0e8db"
+			"ID" "7786"
+			"Value" "5"
 			"Modification" "ASSIGN"
 		}
 	]

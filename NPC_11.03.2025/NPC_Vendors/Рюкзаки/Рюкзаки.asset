@@ -8,7 +8,7 @@
 {
 	"FaceOverride" "26"
 	"Buying" "0"
-	"Selling" "35"
+	"Selling" "39"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "33391"
 	"Selling_0_Cost" "3500"
@@ -322,6 +322,42 @@
 	[
 	]
 	"Selling_34_Rewards"
+	[
+	]
+	"Selling_35_Type" "ITEM"
+	"Selling_35_ID" "14009"
+	"Selling_35_Cost" "3000"
+	"Selling_35_Conditions"
+	[
+	]
+	"Selling_35_Rewards"
+	[
+	]
+	"Selling_36_Type" "ITEM"
+	"Selling_36_ID" "14010"
+	"Selling_36_Cost" "3000"
+	"Selling_36_Conditions"
+	[
+	]
+	"Selling_36_Rewards"
+	[
+	]
+	"Selling_37_Type" "ITEM"
+	"Selling_37_ID" "14011"
+	"Selling_37_Cost" "3000"
+	"Selling_37_Conditions"
+	[
+	]
+	"Selling_37_Rewards"
+	[
+	]
+	"Selling_38_Type" "ITEM"
+	"Selling_38_ID" "14012"
+	"Selling_38_Cost" "5000"
+	"Selling_38_Conditions"
+	[
+	]
+	"Selling_38_Rewards"
 	[
 	]
 	"ID" "2043"

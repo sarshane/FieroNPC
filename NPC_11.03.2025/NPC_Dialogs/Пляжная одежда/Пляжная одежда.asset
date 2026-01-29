@@ -15,7 +15,7 @@
 	"Message_0_Rewards"
 	[
 	]
-	"Responses" "3"
+	"Responses" "4"
 	"Response_0_Dialogue" "30bc7fffce9b43bf841305ba3bd24d20"
 	"Response_0_Quest" "0"
 	"Response_0_Vendor" "23c52517bed6455d9e44f0a57c3487df"
@@ -41,6 +41,15 @@
 	[
 	]
 	"Response_2_Rewards"
+	[
+	]
+	"Response_3_Dialogue" "30bc7fffce9b43bf841305ba3bd24d20"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "f12b3a2f1b7e479eaa085fb5d55b76d9"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
 	[
 	]
 	"ID" "2036"

@@ -1,0 +1,6 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Name <color=#FFFFFFFF>Потерянная флешка</color>
+Description <color=#FFFFFFFF>Сходить в парк, <color=#F6F67F>поговорить с Джексоном</color>, забрать флешку и вернуться к Стиву.</color>
+fc94c90123406531323b2a3f2ba0f016 <color=#FFFFFFFF>Взять флешку</color> <color=#F6F67F>{0}/{1}</color>
+e1dac405abdc3366854363eb3386fbce <color=#F6F67F>300$</color>
+69815fe06a4583822db3e46af25c74cd <color=#F6F67F>+5 реп.</color>
