@@ -46,28 +46,10 @@
 		}
 		{
 			"Type" "FLAG_BOOL"
-			"TextId" "dc17381873b88243fed3c7072b103360"
-			"Reset" "false"
-			"Logic" "EQUAL"
-			"ID" "31411"
-			"Allow_Unset" "false"
-			"Value" "true"
-		}
-		{
-			"Type" "FLAG_BOOL"
 			"TextId" "628c53e6d111490a601d5fb8eca0598f"
 			"Reset" "false"
 			"Logic" "EQUAL"
 			"ID" "31412"
-			"Allow_Unset" "false"
-			"Value" "true"
-		}
-		{
-			"Type" "FLAG_BOOL"
-			"TextId" "ef9cc478f31552ce4c6b578011a65c24"
-			"Reset" "false"
-			"Logic" "EQUAL"
-			"ID" "31413"
 			"Allow_Unset" "false"
 			"Value" "true"
 		}
