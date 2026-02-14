@@ -1,7 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
 "Metadata"
 {
-	"GUID" "93b4cd2c91784024bc0c7d9194aea8ec"
+	"GUID" "349587f98d9d45aa8d4e48eea3463d77"
 	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 }
 "Asset"
@@ -10,29 +10,29 @@
 	[
 		{
 			"Type" "ITEM"
-			"TextId" "6eb678cd12192d3a8b3b41c8f8086d40"
-			"Reset" "false"
+			"TextId" "fac18d54f0fece6c21cf060e485701da"
+			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"ID" "24739"
+			"ID" "30022"
 			"Amount" "1"
 		}
 	]
 	"Rewards"
 	[
 		{
-			"Type" "EXPERIENCE"
-			"TextId" "a9ba9a2a1dce9bce38dc18f15084d6b3"
-			"Value" "2500"
+			"Type" "REPUTATION"
+			"TextId" "e27d27827bf1b4242763e55d3ea9c3d9"
+			"Value" "10"
 		}
 		{
-			"Type" "REPUTATION"
-			"TextId" "b0b62fbb1d8dab5b0b247f1e6c657f83"
-			"Value" "5"
+			"Type" "EXPERIENCE"
+			"TextId" "881de10657bfb6681327f9ae4c035904"
+			"Value" "2500"
 		}
 	]
 	"AbandonmentRewards"
 	[
 	]
-	"ID" "2136"
+	"ID" "2151"
 	"Asset_Bundle_Version" "5"
 }

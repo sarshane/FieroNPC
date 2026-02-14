@@ -1,0 +1,117 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "ad32ef0ac35140308d79ebed9c73e72c"
+	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Messages" "3"
+	"Message_0_Pages" "4"
+	"Message_0_Prev" "0"
+	"Message_0_FaceOverride" "2"
+	"Message_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "9a5bac40ad9c65657f31001b7e7b1ada"
+			"Reset" "false"
+			"Logic" "LESS_THAN_OR_EQUAL_TO"
+			"ID" "a73c5d6506f047ca97ef4877c67a611e"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_0_Rewards"
+	[
+	]
+	"Message_1_Pages" "1"
+	"Message_1_Prev" "0"
+	"Message_1_FaceOverride" "1"
+	"Message_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "9a5bac40ad9c65657f31001b7e7b1ada"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "a73c5d6506f047ca97ef4877c67a611e"
+			"Status" "ACTIVE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_1_Rewards"
+	[
+	]
+	"Message_2_Pages" "1"
+	"Message_2_Prev" "0"
+	"Message_2_FaceOverride" "1"
+	"Message_2_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "9a5bac40ad9c65657f31001b7e7b1ada"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "a73c5d6506f047ca97ef4877c67a611e"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Message_2_Rewards"
+	[
+	]
+	"Responses" "3"
+	"Response_0_Dialogue" "909484168a8745e29c1e715e4f3433bc"
+	"Response_0_Quest" "a73c5d6506f047ca97ef4877c67a611e"
+	"Response_0_Vendor" "0"
+	"Response_0_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "816af5d877f5e2ec6fe98061d873e1c1"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "a73c5d6506f047ca97ef4877c67a611e"
+			"Status" "NONE"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_0_Rewards"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "a4ba72f2feef1b45c682bc7c677e9cd6"
+			"ID" "a73c5d6506f047ca97ef4877c67a611e"
+		}
+	]
+	"Response_1_Dialogue" "909484168a8745e29c1e715e4f3433bc"
+	"Response_1_Quest" "a73c5d6506f047ca97ef4877c67a611e"
+	"Response_1_Vendor" "0"
+	"Response_1_Conditions"
+	[
+		{
+			"Type" "QUEST"
+			"TextId" "531db86308b4f665a2e2ef79f542f781"
+			"Reset" "true"
+			"Logic" "EQUAL"
+			"ID" "a73c5d6506f047ca97ef4877c67a611e"
+			"Status" "READY"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Response_1_Rewards"
+	[
+	]
+	"Response_2_Dialogue" "0"
+	"Response_2_Quest" "0"
+	"Response_2_Vendor" "0"
+	"Response_2_Conditions"
+	[
+	]
+	"Response_2_Rewards"
+	[
+	]
+	"ID" "2150"
+	"Asset_Bundle_Version" "5"
+}

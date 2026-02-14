@@ -1,0 +1,63 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+"Metadata"
+{
+	"GUID" "d2142add1b654364becbacebbbefd62a"
+	"Type" "SDG.Unturned.QuestAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Conditions"
+	[
+		{
+			"Type" "ITEM"
+			"TextId" "fac18d540fece6c21cf06e485701da"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "70"
+			"Amount" "3"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "fac18d540fce6c21cf06e485701da"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "1270"
+			"Amount" "1"
+		}
+		{
+			"Type" "ITEM"
+			"TextId" "fac18d540ece6c21cf06e485701da"
+			"Reset" "true"
+			"Logic" "GREATER_THAN_OR_EQUAL_TO"
+			"ID" "43115"
+			"Amount" "2"
+		}
+		{
+			"Type" "QUEST"
+			"TextId" "e1bbd82afc31eb90d409352bd5c7539a"
+			"Reset" "false"
+			"Logic" "EQUAL"
+			"ID" "349587f98d9d45aa8d4e48eea3463d77"
+			"Status" "COMPLETED"
+			"Ignore_NPC" "false"
+		}
+	]
+	"Rewards"
+	[
+		{
+			"Type" "REPUTATION"
+			"TextId" "e27d27827bf1b4242763e55d3ea9c3d9"
+			"Value" "10"
+		}
+		{
+			"Type" "EXPERIENCE"
+			"TextId" "881de10657bfb6681327f9ae4c035904"
+			"Value" "1500"
+		}
+	]
+	"AbandonmentRewards"
+	[
+	]
+	"ID" "2153"
+	"Asset_Bundle_Version" "5"
+}

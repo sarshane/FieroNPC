@@ -1,6 +1,7 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
 Message_0_Page_0 <color=#FFFFFFFF>Приветствую, с машиной что-то случилось?</color>
 Message_0_Page_1 <color=#FFFFFFFF>Я занимаюсь продажей ремонтных комплектов, желаешь приобрести? Сможешь свой транспорт починить в любой точке штата.</color>
+Message_0_Page_2 <color=#FFFFFFFF>Стоимость ремкомплекта 1.500$</color>
 Response_0 <color=#F6F67F><i>*приобрести рем. комплект*</i></color>
 Response_1 <color=#FFFFFFFF>Прости, но у меня нет машины...</color>
 Response_2 <color=#FFFFFFFF>Не интересует...</color>

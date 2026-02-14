@@ -1,0 +1,38 @@
+﻿// Made in NPC Maker by BowieD
+GUID 38db21ecf48144008c989993162e8afe
+Type Dialogue
+ID 11201
+Messages 1
+Message_0_Pages 1
+Message_0_Prev 11202
+Responses 6
+Response_0_Dialogue 11202
+Response_0_Rewards 1
+Response_0_Reward_0_Type Teleport
+Response_0_Reward_0_Spawnpoint bolka_5
+
+Response_1_Dialogue 11202
+Response_1_Rewards 1
+Response_1_Reward_0_Type Teleport
+Response_1_Reward_0_Spawnpoint bolka_4
+
+Response_2_Dialogue 11202
+Response_2_Rewards 1
+Response_2_Reward_0_Type Teleport
+Response_2_Reward_0_Spawnpoint bolka_3
+
+Response_3_Dialogue 11202
+Response_3_Rewards 1
+Response_3_Reward_0_Type Teleport
+Response_3_Reward_0_Spawnpoint bolka_2
+
+Response_4_Dialogue 11202
+Response_4_Rewards 1
+Response_4_Reward_0_Type Teleport
+Response_4_Reward_0_Spawnpoint bolka_1
+
+Response_5_Dialogue 11202
+Response_5_Rewards 1
+Response_5_Reward_0_Type Teleport
+Response_5_Reward_0_Spawnpoint bolka_0
+

@@ -1,0 +1,9 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Так, сын мой! Мне нужна помощь против еретиков.</color>
+Message_0_Page_1 <color=#FFFFFFFF>Мне нужно принести несколько предметов для обряда. Их можно найти во всем штате.</color>
+Message_0_Page_2 <color=#FFFFFFFF>А еще если ты не помогал моему другу на дороге Адамс-Фиеро, помоги ему для начала.</color>
+Message_1_Page_0 <color=#FFFFFFFF>Готов к обряду?</color>
+Message_2_Page_0 <color=#FFFFFFFF>Готов к обряду?</color>
+Response_0 <b><color=#FFFFFFFF>Хорошо, отец.</color></b>
+Response_1 <color=#FFFFFFFF>Начнем!</color>
+Response_2 <i>* уйти*</i>

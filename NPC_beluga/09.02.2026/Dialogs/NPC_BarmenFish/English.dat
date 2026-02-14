@@ -1,0 +1,7 @@
+// This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
+Message_0_Page_0 <color=#FFFFFFFF>Эй фраер, хочешь выпить...?</color>
+Message_0_Page_1 <color=#FFFFFFFF>Или шутку, желаешь услышать?</color>
+Message_0_Page_2 <color=#FFFFFFFF>У меня лучшая алкашка в этом городе!</color>
+Response_0 <b><color=#FFFFFFFF>Давай алкашку.</color></b>
+Response_1 <b><color=#FFFFFFFF>Давай шутку!</color></b>
+Response_2 <i>* уйти*</i>

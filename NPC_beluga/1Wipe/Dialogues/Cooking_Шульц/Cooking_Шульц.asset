@@ -1,13 +1,13 @@
 // This file was generated in Early Access build of BowieD's AssetEditor 0.0.19-alpha.1
 "Metadata"
 {
-	"GUID" "b374a7f5e8934bbe81386ceaaf771991"
+	"GUID" "1729627e48e44ea3bef5a64150e1ce85"
 	"Type" "SDG.Unturned.DialogueAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
 }
 "Asset"
 {
 	"Messages" "1"
-	"Message_0_Pages" "3"
+	"Message_0_Pages" "2"
 	"Message_0_Prev" "0"
 	"Message_0_Conditions"
 	[
@@ -15,33 +15,26 @@
 	"Message_0_Rewards"
 	[
 	]
-	"Responses" "3"
+	"Responses" "4"
 	"Response_0_Dialogue" "0"
 	"Response_0_Quest" "0"
-	"Response_0_Vendor" "0"
+	"Response_0_Vendor" "2215b0f0bf3f4bba9373a151bcd8e495"
 	"Response_0_Conditions"
 	[
 	]
 	"Response_0_Rewards"
 	[
-		{
-			"Type" "FLAG_SHORT"
-			"TextId" "71c05a69def01ba2c4bde8571b8e42a8"
-			"ID" "665"
-			"Value" "432"
-			"Modification" "ASSIGN"
-		}
 	]
 	"Response_1_Dialogue" "0"
 	"Response_1_Quest" "0"
-	"Response_1_Vendor" "0"
+	"Response_1_Vendor" "236e7babc1fe43fb90925220cc68d5b7"
 	"Response_1_Conditions"
 	[
 	]
 	"Response_1_Rewards"
 	[
 	]
-	"Response_2_Dialogue" "0"
+	"Response_2_Dialogue" "d4bedad0b7e84a61b206992d589ba758"
 	"Response_2_Quest" "0"
 	"Response_2_Vendor" "0"
 	"Response_2_Conditions"
@@ -50,6 +43,15 @@
 	"Response_2_Rewards"
 	[
 	]
-	"ID" "2080"
-	"Asset_Bundle_Version" "4"
+	"Response_3_Dialogue" "0"
+	"Response_3_Quest" "0"
+	"Response_3_Vendor" "0"
+	"Response_3_Conditions"
+	[
+	]
+	"Response_3_Rewards"
+	[
+	]
+	"ID" "2105"
+	"Asset_Bundle_Version" "5"
 }

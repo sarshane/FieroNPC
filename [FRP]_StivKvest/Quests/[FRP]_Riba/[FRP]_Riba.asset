@@ -13,7 +13,7 @@
 			"TextId" "48fceabb23144a5c25a26ba2bef0d9af"
 			"Reset" "true"
 			"Logic" "GREATER_THAN_OR_EQUAL_TO"
-			"ID" "1351"
+			"ID" "1347"
 			"Amount" "3"
 		}
 		{
