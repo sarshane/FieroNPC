@@ -10,7 +10,7 @@
 	"Selling" "2"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "51936"
-	"Selling_0_Cost" "350"
+	"Selling_0_Cost" "600"
 	"Selling_0_Conditions"
 	[
 	]
@@ -19,7 +19,7 @@
 	]
 	"Selling_1_Type" "ITEM"
 	"Selling_1_ID" "51942"
-	"Selling_1_Cost" "1000"
+	"Selling_1_Cost" "1500"
 	"Selling_1_Conditions"
 	[
 	]

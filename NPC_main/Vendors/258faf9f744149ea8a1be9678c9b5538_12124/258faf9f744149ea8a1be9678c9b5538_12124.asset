@@ -7,10 +7,10 @@
 "Asset"
 {
 	"Buying" "0"
-	"Selling" "7"
+	"Selling" "4"
 	"Selling_0_Type" "ITEM"
 	"Selling_0_ID" "30607"
-	"Selling_0_Cost" "5500"
+	"Selling_0_Cost" "7000"
 	"Selling_0_Conditions"
 	[
 	]
@@ -18,8 +18,8 @@
 	[
 	]
 	"Selling_1_Type" "ITEM"
-	"Selling_1_ID" "30610"
-	"Selling_1_Cost" "2100"
+	"Selling_1_ID" "30623"
+	"Selling_1_Cost" "9000"
 	"Selling_1_Conditions"
 	[
 	]
@@ -27,8 +27,8 @@
 	[
 	]
 	"Selling_2_Type" "ITEM"
-	"Selling_2_ID" "30623"
-	"Selling_2_Cost" "4500"
+	"Selling_2_ID" "31069"
+	"Selling_2_Cost" "1500"
 	"Selling_2_Conditions"
 	[
 	]
@@ -36,39 +36,12 @@
 	[
 	]
 	"Selling_3_Type" "ITEM"
-	"Selling_3_ID" "38042"
-	"Selling_3_Cost" "1000"
+	"Selling_3_ID" "31071"
+	"Selling_3_Cost" "600"
 	"Selling_3_Conditions"
 	[
 	]
 	"Selling_3_Rewards"
-	[
-	]
-	"Selling_4_Type" "ITEM"
-	"Selling_4_ID" "31069"
-	"Selling_4_Cost" "1500"
-	"Selling_4_Conditions"
-	[
-	]
-	"Selling_4_Rewards"
-	[
-	]
-	"Selling_5_Type" "ITEM"
-	"Selling_5_ID" "31071"
-	"Selling_5_Cost" "600"
-	"Selling_5_Conditions"
-	[
-	]
-	"Selling_5_Rewards"
-	[
-	]
-	"Selling_6_Type" "ITEM"
-	"Selling_6_ID" "31123"
-	"Selling_6_Cost" "500"
-	"Selling_6_Conditions"
-	[
-	]
-	"Selling_6_Rewards"
 	[
 	]
 	"ID" "12124"
